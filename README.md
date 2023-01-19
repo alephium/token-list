@@ -1,0 +1,1 @@
+# Alephium token list
