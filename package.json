@@ -14,7 +14,7 @@
     "typescript": "^4.9.4"
   },
   "scripts": {
-    "build": "npx tsc --build .",
+    "build": "rm -rf dist && npx tsc --build .",
     "jest": "jest --useStderr --silent=false --verbose=true --config jestconfig.json",
     "lint": "eslint . --ext .ts,.tsx",
     "lint:fix": "eslint . --fix --ext .ts,.tsx",
