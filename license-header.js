@@ -15,17 +15,3 @@ GNU Lesser General Public License for more details.
 You should have received a copy of the GNU Lesser General Public License
 along with the library. If not, see <http://www.gnu.org/licenses/>.
 */
-
-export interface TokenList {
-  networkId: number
-  tokens: TokenInfo[]
-}
-
-export interface TokenInfo {
-  address: string
-  name: string
-  symbol: string
-  decimals: number
-  description?: string
-  logoURI?: string
-}

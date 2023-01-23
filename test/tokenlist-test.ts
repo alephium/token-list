@@ -17,16 +17,15 @@ along with the library. If not, see <http://www.gnu.org/licenses/>.
 */
 
 import { TokenList } from '../lib/types'
-
 import mainnetJson from './../tokens/mainnet.json'
 import testnetJson from './../tokens/testnet.json'
-import devnetJson  from './devnet.json'
+import devnetJson from './devnet.json'
 
 const mainnetTokenList = mainnetJson as TokenList
 const testnetTokenList = testnetJson as TokenList
 const devnetTokenList = devnetJson as TokenList
 
-const tokenLists = [ mainnetTokenList, testnetTokenList, devnetTokenList ]
+const tokenLists = [mainnetTokenList, testnetTokenList, devnetTokenList]
 
 describe('TokenList', function () {
   it('should contains no duplicate', () => {
@@ -36,8 +35,10 @@ describe('TokenList', function () {
   it('should have valid logoURI', () => {
     tokenLists.forEach((tokenList) => {
       tokenList.tokens.forEach((token) => {
-        if(token.logoURI){
-          expect(token.logoURI).toMatch(/https:\/\/raw\.githubusercontent\.com\/alephium\/tokens-meta\/master\/logos\/\w*(\.png|.svg)/)
+        if (token.logoURI) {
+          expect(token.logoURI).toMatch(
+            /https:\/\/raw\.githubusercontent\.com\/alephium\/tokens-meta\/master\/logos\/\w*(\.png|.svg)/
+          )
         }
       })
     })
@@ -69,17 +70,17 @@ function checkDuplicates(tokenList: TokenList): void {
   const names = new Map<string, boolean>()
   const symbols = new Map<string, boolean>()
 
-  for (let token of tokenList.tokens) {
+  for (const token of tokenList.tokens) {
     //Address
     expect(addresses.get(token.address)).toEqual(undefined)
-    addresses.set(token.address,true)
+    addresses.set(token.address, true)
 
     //Name
     expect(names.get(token.name)).toEqual(undefined)
-    names.set(token.name,true)
+    names.set(token.name, true)
 
     //Symbol
     expect(symbols.get(token.symbol)).toEqual(undefined)
-    symbols.set(token.symbol,true)
+    symbols.set(token.symbol, true)
   }
 }
