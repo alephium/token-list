@@ -22,7 +22,7 @@ export interface TokenList {
 }
 
 export interface TokenInfo {
-  address: string
+  id: string
   name: string
   symbol: string
   decimals: number
