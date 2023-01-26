@@ -66,14 +66,14 @@ describe('TokenList', function () {
 })
 
 function checkDuplicates(tokenList: TokenList): void {
-  const addresses = new Map<string, boolean>()
+  const ids = new Map<string, boolean>()
   const names = new Map<string, boolean>()
   const symbols = new Map<string, boolean>()
 
   for (const token of tokenList.tokens) {
-    //Address
-    expect(addresses.get(token.address)).toEqual(undefined)
-    addresses.set(token.address, true)
+    //Ids
+    expect(ids.get(token.id)).toEqual(undefined)
+    ids.set(token.id, true)
 
     //Name
     expect(names.get(token.name)).toEqual(undefined)
