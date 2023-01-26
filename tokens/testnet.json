@@ -6,28 +6,32 @@
       "name": "Tuto Faucet Group 0",
       "symbol": "TUTF0",
       "decimals": 0,
-      "description": "Token Faucet from Alephium tutorial."
+      "description": "Token Faucet from Alephium tutorial.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/TUTF0.svg"
     },
     {
       "id": "015216c4340d4c783d6bdc5e728403c28c55a4adf50f8e2862e91dc37a0b7f01",
       "name": "Tuto Faucet Group 1",
       "symbol": "TUTF1",
       "decimals": 0,
-      "description": "Token Faucet from Alephium tutorial."
+      "description": "Token Faucet from Alephium tutorial.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/TUTF1.svg"
     },
     {
       "id": "0342e4f9a27d1f9c31eb85bde36a4b39332648fef67dd43a0d5dc2771de0e802",
       "name": "Tuto Faucet Group 2",
       "symbol": "TUTF2",
       "decimals": 0,
-      "description": "Token Faucet from Alephium tutorial."
+      "description": "Token Faucet from Alephium tutorial.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/TUTF2.svg"
     },
     {
       "id": "4a348cdbd3f21e95ad352929c1317f423a786291a5118daf7239fb3fb1bf8503",
       "name": "Tuto Faucet Group 3",
       "symbol": "TUTF3",
       "decimals": 0,
-      "description": "Token Faucet from Alephium tutorial."
+      "description": "Token Faucet from Alephium tutorial.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/TUTF3.svg"
     }
   ]
 }
