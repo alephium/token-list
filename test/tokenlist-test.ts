@@ -37,7 +37,7 @@ describe('TokenList', function () {
       tokenList.tokens.forEach((token) => {
         if (token.logoURI) {
           expect(token.logoURI).toMatch(
-            /https:\/\/raw\.githubusercontent\.com\/alephium\/tokens-meta\/master\/logos\/\w*(\.png|.svg)/
+            new RegExp(`https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/${token.symbol}.(png|svg)`)
           )
         }
       })
