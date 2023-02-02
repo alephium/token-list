@@ -1,0 +1,21 @@
+{
+  "networkId": 1,
+  "nfts": [
+    {
+      "id": "37ef47e40c2d9a53e0c80999f0f5aec4320f9f57159a2903b53043c7830cb400",
+      "name": "Godfather 1",
+      "description": "Godfather 1",
+      "uri": "https://alephium-nft.infura-ipfs.io/ipfs/QmYePEfp2cZdDyTr4QSiJNgoWrxJfjtcBFAjywm2sptJRJ",
+      "image": "https://alephium-nft.infura-ipfs.io/ipfs/QmSg9JiERPLXKo22C3AD7PgSE7PACuPu9iM1FFCn3AmhNs",
+      "collectionAddress": "22fnZLkZJUSyhXgboirmJktWkEBRk1pV8L6gfpc53hvVM"
+    },
+    {
+      "id": "eb7746d12397c87599abf3d487265679660c2754a527443539fd7b291d316000",
+      "name": "Godfather 3",
+      "description": "Godfather 3",
+      "uri": "https://alephium-nft.infura-ipfs.io/ipfs/QmXnHbavrFSWxsb2pnM2b1XmE3ifkwy77XgEroeFQCu7Q4",
+      "image": "https://alephium-nft.infura-ipfs.io/ipfs/QmSg9JiERPLXKo22C3AD7PgSE7PACuPu9iM1FFCn3AmhNs",
+      "collectionAddress": "22fnZLkZJUSyhXgboirmJktWkEBRk1pV8L6gfpc53hvVM"
+    }
+  ]
+}

@@ -29,3 +29,17 @@ export interface TokenInfo {
   description?: string
   logoURI?: string
 }
+
+export interface NftsList {
+  networkId: number
+  nfts: NftInfo[]
+}
+
+export interface NftInfo {
+  id: string
+  name: string
+  description: string
+  uri: string
+  image: string
+  collectionAddress: string
+}
