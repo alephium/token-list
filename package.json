@@ -1,5 +1,5 @@
 {
-  "name": "alephium-tokens-list",
+  "name": "@alephium/tokens-list",
   "version": "0.0.0",
   "private": true,
   "engines": {
