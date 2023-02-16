@@ -1,7 +1,6 @@
 {
   "name": "@alephium/tokens-list",
   "version": "0.0.0",
-  "private": true,
   "main": "dist/lib/index.js",
   "types": "dist/lib/index.d.ts",
   "engines": {
