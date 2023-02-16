@@ -1,0 +1,26 @@
+node_modules/
+
+# Source files
+lib/
+logos/
+tokens/
+
+# Dotfiles
+.vscode
+.DS_Store
+.prettierrc*
+.eslintrc*
+.eslintignore
+.nvmrc
+
+# Config files
+license-header.js
+jestconfig.json
+tsconfig.json
+
+# Tests
+coverage/
+test/
+
+# GitHub Actions
+.github/

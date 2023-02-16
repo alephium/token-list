@@ -1,7 +1,9 @@
 {
-  "name": "alephium-tokens-list",
+  "name": "@alephium/tokens-list",
   "version": "0.0.0",
   "private": true,
+  "main": "dist/lib/index.js",
+  "types": "dist/lib/index.d.ts",
   "engines": {
     "node": ">=16",
     "npm": ">=8"
@@ -19,7 +21,8 @@
     "lint": "eslint . --ext .ts,.tsx",
     "lint:fix": "eslint . --fix --ext .ts,.tsx",
     "test": "npm run build && npm run jest",
-    "format": "prettier --write \"**/*.{js,ts,json,md}\""
+    "format": "prettier --write \"**/*.{js,ts,json,md}\"",
+    "prepublishOnly": "npm run build"
   },
   "browserslist": {},
   "devDependencies": {
