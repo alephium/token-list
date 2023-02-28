@@ -29,3 +29,12 @@ export interface TokenInfo {
   description?: string
   logoURI?: string
 }
+
+export interface NftsList {
+  networkId: number
+  collections: CollectionInfo[]
+}
+
+export interface CollectionInfo {
+  id: string
+}
