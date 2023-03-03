@@ -2,36 +2,44 @@
   "networkId": 1,
   "tokens": [
     {
-      "id": "95c138908de10b98b0e3255469712924dbfcd48cc946df10be5e0be881020c00",
-      "name": "Tuto Faucet Group 0",
-      "symbol": "TUTF0",
-      "decimals": 0,
-      "description": "Token Faucet from Alephium tutorial.",
-      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/TUTF0.svg"
+      "id": "82178ebdbbfd44de373fe215a0e0d22d9fcaf4d1c08da9631c163f310def7900",
+      "name": "Test BTC",
+      "symbol": "TBTC",
+      "decimals": 8,
+      "description": "Testing BTC on Alephium",
+      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/TBTC.png"
     },
     {
-      "id": "015216c4340d4c783d6bdc5e728403c28c55a4adf50f8e2862e91dc37a0b7f01",
-      "name": "Tuto Faucet Group 1",
-      "symbol": "TUTF1",
-      "decimals": 0,
-      "description": "Token Faucet from Alephium tutorial.",
-      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/TUTF1.svg"
+      "id": "316410c3c8c4142891d45d5ea6e976fb2eb810f6efd443bd20df3ee21cd23b00",
+      "name": "Test ETH",
+      "symbol": "TETH",
+      "decimals": 18,
+      "description": "Testing ETH on Alephium",
+      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/TETH.png"
     },
     {
-      "id": "0342e4f9a27d1f9c31eb85bde36a4b39332648fef67dd43a0d5dc2771de0e802",
-      "name": "Tuto Faucet Group 2",
-      "symbol": "TUTF2",
-      "decimals": 0,
-      "description": "Token Faucet from Alephium tutorial.",
-      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/TUTF2.svg"
+      "id": "0d0662569e640a58088a5bd399fc0d18cc1c9b9614a66fb28d60a85b8a106100",
+      "name": "Test DAI",
+      "symbol": "TDAI",
+      "decimals": 18,
+      "description": "Testing DAI on Alephium",
+      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/TDAI.png"
     },
     {
-      "id": "4a348cdbd3f21e95ad352929c1317f423a786291a5118daf7239fb3fb1bf8503",
-      "name": "Tuto Faucet Group 3",
-      "symbol": "TUTF3",
-      "decimals": 0,
-      "description": "Token Faucet from Alephium tutorial.",
-      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/TUTF3.svg"
+      "id": "e390cb945a82194d4a8e431719b00a279fce42712338b774a58de67c961a7b00",
+      "name": "Test USDT",
+      "symbol": "TUSDT",
+      "decimals": 6,
+      "description": "Testing USDT on Alephium",
+      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/TUSDT.png"
+    },
+    {
+      "id": "895ff5d44f35ba6e07384c6d42ea0370af668edf17dba4ddbce53a2f5d246e00",
+      "name": "Test USDC",
+      "symbol": "TUSDC",
+      "decimals": 6,
+      "description": "Testing USDC on Alephium",
+      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/TUSDC.png"
     }
   ]
 }
