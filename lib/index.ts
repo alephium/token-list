@@ -18,7 +18,7 @@ along with the library. If not, see <http://www.gnu.org/licenses/>.
 
 import mainnet from '../tokens/mainnet.json'
 import testnet from '../tokens/testnet.json'
-import { TokenList } from './types'
+import { TokenInfo, TokenList } from './types'
 
 export * from './types'
 
@@ -27,3 +27,10 @@ export const mainnetTokensMetadata = mainnet as TokenList
 export const testnetTokensMetadata = testnet as TokenList
 
 export default { mainnet: mainnetTokensMetadata, testnet: testnetTokensMetadata }
+
+export const ALPH: TokenInfo = {
+  id: '0',
+  name: 'Alephium',
+  symbol: 'ALPH',
+  decimals: 18
+}
