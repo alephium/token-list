@@ -29,7 +29,7 @@ export const testnetTokensMetadata = testnet as TokenList
 export default { mainnet: mainnetTokensMetadata, testnet: testnetTokensMetadata }
 
 export const ALPH: TokenInfo = {
-  id: '0',
+  id: ''.padStart(64, '0'),
   name: 'Alephium',
   symbol: 'ALPH',
   decimals: 18
