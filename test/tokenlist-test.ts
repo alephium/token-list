@@ -70,8 +70,9 @@ function checkDuplicates(tokenList: TokenList): void {
   const names = new Map<string, boolean>()
   const symbols = new Map<string, boolean>()
 
-  const tokensLike = (tokenList.tokens as { id: string, name: string, symbol: string }[])
-    .concat(tokenList.nftCollections)
+  const tokensLike = (tokenList.tokens as { id: string; name: string; symbol: string }[]).concat(
+    tokenList.nftCollections
+  )
 
   for (const token of tokensLike) {
     //Ids
