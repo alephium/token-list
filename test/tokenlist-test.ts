@@ -70,17 +70,20 @@ function checkDuplicates(tokenList: TokenList): void {
   const names = new Map<string, boolean>()
   const symbols = new Map<string, boolean>()
 
-  for (const token of tokenList.tokens) {
+  const tokensLike = (tokenList.tokens as { id: string, name: string, symbol: string }[])
+    .concat(tokenList.nftCollections)
+
+  for (const token of tokensLike) {
     //Ids
-    expect(ids.get(token.id)).toEqual(undefined)
+    expect(ids.get(token.id)).toBeUndefined()
     ids.set(token.id, true)
 
     //Name
-    expect(names.get(token.name)).toEqual(undefined)
+    expect(names.get(token.name)).toBeUndefined()
     names.set(token.name, true)
 
     //Symbol
-    expect(symbols.get(token.symbol)).toEqual(undefined)
+    expect(symbols.get(token.symbol)).toBeUndefined()
     symbols.set(token.symbol, true)
   }
 }
