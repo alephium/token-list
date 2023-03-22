@@ -16,18 +16,5 @@
       "description": "Steak Token (STK) is a meme token for the Proof of Steak community.",
       "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/STK.png"
     }
-  ],
-  "nftCollections": [
-    {
-      "id": "f02ff3b9327b72dea0ef9530f62243b7762debcf290f9554b0d616c10f601100",
-      "name": "Alehpium Punks",
-      "symbol": "APUNK",
-      "description": "Alephium Punks (APUNK) is a collection of 1000 uniquely generated punks."
-    },{
-      "id": "66a5fbef6d372fffd2ca5a2d696b9ab2c0ab04112b99f2a0e6962607afe917db",
-      "name": "Alephium Wizards",
-      "symbol": "AWIZD",
-      "description": "Alephium Wizards (AWIZD) is a collection of 2121 uniquely generated wizards."
-    }
   ]
 }

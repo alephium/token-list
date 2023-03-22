@@ -16,17 +16,29 @@ You should have received a copy of the GNU Lesser General Public License
 along with the library. If not, see <http://www.gnu.org/licenses/>.
 */
 
-import mainnet from '../tokens/mainnet.json'
-import testnet from '../tokens/testnet.json'
-import { TokenInfo, TokenList } from './types'
+import mainnetNFTCollectionList from '../nft-collections/mainnet.json'
+import testnetNFTCollectionList from '../nft-collections/testnet.json'
+import mainnetTokenList from '../tokens/mainnet.json'
+import testnetTokenList from '../tokens/testnet.json'
+import { NFTCollectionList, TokenInfo, TokenList } from './types'
 
 export * from './types'
 
-export const mainnetTokensMetadata = mainnet as TokenList
+export const mainnetTokensMetadata = mainnetTokenList as TokenList
+export const testnetTokensMetadata = testnetTokenList as TokenList
+export const mainnetNFTCollectionsMetadata = mainnetNFTCollectionList as NFTCollectionList
+export const testnetNFTCollectionsMetadata = testnetNFTCollectionList as NFTCollectionList
 
-export const testnetTokensMetadata = testnet as TokenList
-
-export default { mainnet: mainnetTokensMetadata, testnet: testnetTokensMetadata }
+export default {
+  mainnet: {
+    tokens: mainnetTokensMetadata,
+    nftCollections: mainnetNFTCollectionsMetadata
+  },
+  testnet: {
+    tokens: testnetTokensMetadata,
+    nftCollections: testnetNFTCollectionsMetadata
+  }
+}
 
 export const ALPH: TokenInfo = {
   id: ''.padStart(64, '0'),

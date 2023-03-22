@@ -16,9 +16,10 @@ You should have received a copy of the GNU Lesser General Public License
 along with the library. If not, see <http://www.gnu.org/licenses/>.
 */
 
-import { TokenList } from '../lib/types'
-import mainnetJson from './../tokens/mainnet.json'
-import testnetJson from './../tokens/testnet.json'
+import { TokenList } from '../../lib/types'
+import mainnetJson from '../../tokens/mainnet.json'
+import testnetJson from '../../tokens/testnet.json'
+import { checkDuplicates } from '../utils'
 import devnetJson from './devnet.json'
 
 const mainnetTokenList = mainnetJson as TokenList
@@ -29,7 +30,7 @@ const tokenLists = [mainnetTokenList, testnetTokenList, devnetTokenList]
 
 describe('TokenList', function () {
   it('should contains no duplicate', () => {
-    tokenLists.forEach(checkDuplicates)
+    tokenLists.forEach((tokenList) => checkDuplicates(tokenList.tokens))
   })
 
   it('should have valid logoURI', () => {
@@ -64,27 +65,3 @@ describe('TokenList', function () {
     expect(testnetJson.networkId).toEqual(1)
   })
 })
-
-function checkDuplicates(tokenList: TokenList): void {
-  const ids = new Map<string, boolean>()
-  const names = new Map<string, boolean>()
-  const symbols = new Map<string, boolean>()
-
-  const tokensLike = (tokenList.tokens as { id: string; name: string; symbol: string }[]).concat(
-    tokenList.nftCollections
-  )
-
-  for (const token of tokensLike) {
-    //Ids
-    expect(ids.get(token.id)).toBeUndefined()
-    ids.set(token.id, true)
-
-    //Name
-    expect(names.get(token.name)).toBeUndefined()
-    names.set(token.name, true)
-
-    //Symbol
-    expect(symbols.get(token.symbol)).toBeUndefined()
-    symbols.set(token.symbol, true)
-  }
-}

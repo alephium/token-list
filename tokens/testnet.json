@@ -41,6 +41,5 @@
       "description": "Testing USDC on Alephium",
       "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/TUSDC.png"
     }
-  ],
-  "nftCollections": []
+  ]
 }
