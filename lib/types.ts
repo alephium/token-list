@@ -37,15 +37,4 @@ export interface NFTCollectionList {
 
 export interface NFTCollectionInfo {
   id: string
-  name: string
-  symbol: string
-  description?: string
-}
-
-// JSON Schema for the NFT metadata, which is pointed to by
-// the `uri` field of the NFT
-export interface NFTMetadata {
-  name: string
-  description: string
-  image: string
 }

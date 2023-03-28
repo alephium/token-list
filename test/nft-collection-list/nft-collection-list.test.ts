@@ -19,7 +19,6 @@ along with the library. If not, see <http://www.gnu.org/licenses/>.
 import { NFTCollectionList } from '../../lib/types'
 import mainnetJson from '../../nft-collections/mainnet.json'
 import testnetJson from '../../nft-collections/testnet.json'
-import { checkDuplicates } from '../utils'
 import devnetJson from './devnet.json'
 
 const mainnetNFTCollectionList = mainnetJson as NFTCollectionList
@@ -30,7 +29,10 @@ const nftCollectionLists = [mainnetNFTCollectionList, testnetNFTCollectionList, 
 
 describe('NFTCollectionList', function () {
   it('should contains no duplicate', () => {
-    nftCollectionLists.forEach((nftCollectionList) => checkDuplicates(nftCollectionList.nftCollections))
+    nftCollectionLists.forEach((nftCollectionList) => {
+      const collectionIds = nftCollectionList.nftCollections.map((nftCollection) => nftCollection.id)
+      expect(collectionIds.length).toEqual(new Set(collectionIds).size)
+    })
   })
 
   it('should have valid networkId', () => {
