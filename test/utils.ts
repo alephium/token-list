@@ -16,25 +16,22 @@ You should have received a copy of the GNU Lesser General Public License
 along with the library. If not, see <http://www.gnu.org/licenses/>.
 */
 
-export interface TokenList {
-  networkId: number
-  tokens: TokenInfo[]
-}
+export function checkDuplicates(tokensLike: { id: string; name: string; symbol: string }[]): void {
+  const ids = new Map<string, boolean>()
+  const names = new Map<string, boolean>()
+  const symbols = new Map<string, boolean>()
 
-export interface TokenInfo {
-  id: string
-  name: string
-  symbol: string
-  decimals: number
-  description?: string
-  logoURI?: string
-}
+  for (const token of tokensLike) {
+    //Ids
+    expect(ids.get(token.id)).toBeUndefined()
+    ids.set(token.id, true)
 
-export interface NFTCollectionList {
-  networkId: number
-  nftCollections: NFTCollectionInfo[]
-}
+    //Name
+    expect(names.get(token.name)).toBeUndefined()
+    names.set(token.name, true)
 
-export interface NFTCollectionInfo {
-  id: string
+    //Symbol
+    expect(symbols.get(token.symbol)).toBeUndefined()
+    symbols.set(token.symbol, true)
+  }
 }
