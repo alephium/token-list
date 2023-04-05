@@ -40,6 +40,46 @@
       "decimals": 6,
       "description": "Testing USDC on Alephium",
       "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/TUSDC.png"
+    },
+    {
+      "id": "82178ebdbbfd44de373fe215a0e0d22d9fcaf4d1c08da9631c163f310def7900",
+      "name": "Test BTC (Deprecated)",
+      "symbol": "DBTC",
+      "decimals": 8,
+      "description": "Testing BTC (Deprecated) on Alephium",
+      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/TBTC.png"
+    },
+    {
+      "id": "316410c3c8c4142891d45d5ea6e976fb2eb810f6efd443bd20df3ee21cd23b00",
+      "name": "Test ETH (Deprecated)",
+      "symbol": "DETH",
+      "decimals": 18,
+      "description": "Testing ETH (Deprecated) on Alephium",
+      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/TETH.png"
+    },
+    {
+      "id": "0d0662569e640a58088a5bd399fc0d18cc1c9b9614a66fb28d60a85b8a106100",
+      "name": "Test DAI (Deprecated)",
+      "symbol": "DDAI",
+      "decimals": 18,
+      "description": "Testing DAI (Deprecated) on Alephium",
+      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/TDAI.png"
+    },
+    {
+      "id": "e390cb945a82194d4a8e431719b00a279fce42712338b774a58de67c961a7b00",
+      "name": "Test USDT (Deprecated)",
+      "symbol": "DUSDT",
+      "decimals": 6,
+      "description": "Testing USDT (Deprecated) on Alephium",
+      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/TUSDT.png"
+    },
+    {
+      "id": "895ff5d44f35ba6e07384c6d42ea0370af668edf17dba4ddbce53a2f5d246e00",
+      "name": "Test USDC (Deprecated)",
+      "symbol": "DUSDC",
+      "decimals": 6,
+      "description": "Testing USDC (Deprecated) on Alephium",
+      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/TUSDC.png"
     }
   ]
 }
