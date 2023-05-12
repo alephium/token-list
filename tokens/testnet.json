@@ -88,6 +88,14 @@
       "decimals": 6,
       "description": "Testing USDC (Deprecated) on Alephium",
       "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/DUSDC.png"
+    },
+    {
+      "id": "f393e2366ee780141240e840aa32f26eade79559864d103b453f0d595425af00",
+      "name": "Fetatoken",
+      "symbol": "FETA",
+      "decimals": 18,
+      "description": "DJ Fetamin fanclub token",
+      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/FETA.png"
     }
   ]
 }
