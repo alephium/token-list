@@ -23,7 +23,7 @@
       "symbol": "WETH",
       "decimals": 18,
       "description": "ETH Bridged to Alephium from Wormhole",
-      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/TETH.png"
+      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/WETH.png"
     },
     {
       "id": "92982a9d35b38ff1d0b43dec536631b523cdccde0cf2fc1d5c349790c59d2701",
