@@ -26,6 +26,14 @@
       "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/WETH.png"
     },
     {
+      "id": "4db93c3e58ca4c3392b9d47be17b62fcbabccba61a7d7c1fa1c3baa40181f700",
+      "name": "BNB (Portal)",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "description": "BNB Bridged to Alephium from Wormhole",
+      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/WBNB.png"
+    },
+    {
       "id": "92982a9d35b38ff1d0b43dec536631b523cdccde0cf2fc1d5c349790c59d2701",
       "name": "Test DAI",
       "symbol": "TDAI",
