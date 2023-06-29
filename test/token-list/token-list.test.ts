@@ -16,6 +16,8 @@ You should have received a copy of the GNU Lesser General Public License
 along with the library. If not, see <http://www.gnu.org/licenses/>.
 */
 
+import { NodeProvider } from '@alephium/web3'
+
 import { TokenList } from '../../lib/types'
 import mainnetJson from '../../tokens/mainnet.json'
 import testnetJson from '../../tokens/testnet.json'
@@ -27,6 +29,9 @@ const testnetTokenList = testnetJson as TokenList
 const devnetTokenList = devnetJson as TokenList
 
 const tokenLists = [mainnetTokenList, testnetTokenList, devnetTokenList]
+
+const mainnetURL = process.env.MAINNET_URL as string
+const testnetURL = process.env.TESTNET_URL as string
 
 describe('TokenList', function () {
   it('should contains no duplicate', () => {
@@ -64,4 +69,21 @@ describe('TokenList', function () {
     expect(mainnetJson.networkId).toEqual(0)
     expect(testnetJson.networkId).toEqual(1)
   })
+
+  it('validate token types', () => {
+    return Promise.all([
+      validateTokenType(mainnetTokenList, mainnetURL),
+      validateTokenType(testnetTokenList, testnetURL)
+    ])
+  })
+
+  async function validateTokenType(tokenList: TokenList, url: string) {
+    const nodeProvider = new NodeProvider(url)
+
+    return Promise.all(
+      tokenList.tokens.map((token) =>
+        nodeProvider.guessStdTokenType(token.id).then((tokenType) => expect(tokenType).toEqual('fungible'))
+      )
+    )
+  }
 })
