@@ -51,14 +51,14 @@ describe('NFTCollectionList', function () {
     expect(testnetJson.networkId).toEqual(1)
   })
 
-  it('validate nft types', () => {
+  it('validate nft collection types', () => {
     return Promise.all([
       validateNftType(mainnetNFTCollectionList, mainnetURL),
       validateNftType(testnetNFTCollectionList, testnetURL)
     ])
   })
 
-  it('validate nft metadata', () => {
+  it('validate nft collection metadata', () => {
     return Promise.all([
       validateNftMetadata(mainnetNFTCollectionList, mainnetURL),
       validateNftMetadata(testnetNFTCollectionList, testnetURL)
