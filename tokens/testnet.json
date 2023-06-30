@@ -19,7 +19,7 @@
     },
     {
       "id": "9a8cda8bc3423347b7fe2932ef7981ed67e8825dba3a5ee36011f578d1d70f00",
-      "name": "ETH (Portal)",
+      "name": "Wrapped Ether (Wormhole)",
       "symbol": "WETH",
       "decimals": 18,
       "description": "ETH Bridged to Alephium from Wormhole",
@@ -27,7 +27,7 @@
     },
     {
       "id": "4db93c3e58ca4c3392b9d47be17b62fcbabccba61a7d7c1fa1c3baa40181f700",
-      "name": "BNB (Portal)",
+      "name": "Wrapped BNB (Wormhole)",
       "symbol": "WBNB",
       "decimals": 18,
       "description": "BNB Bridged to Alephium from Wormhole",

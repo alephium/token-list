@@ -16,9 +16,9 @@ You should have received a copy of the GNU Lesser General Public License
 along with the library. If not, see <http://www.gnu.org/licenses/>.
 */
 
-import { NodeProvider } from '@alephium/web3'
+import { FungibleTokenMetaData, hexToString, NodeProvider } from '@alephium/web3'
 
-import { TokenList } from '../../lib/types'
+import { TokenInfo, TokenList } from '../../lib/types'
 import mainnetJson from '../../tokens/mainnet.json'
 import testnetJson from '../../tokens/testnet.json'
 import { checkDuplicates } from '../utils'
@@ -77,6 +77,13 @@ describe('TokenList', function () {
     ])
   })
 
+  it('validate token metadata', () => {
+    return Promise.all([
+      validateTokenMetadata(mainnetTokenList, mainnetURL),
+      validateTokenMetadata(testnetTokenList, testnetURL)
+    ])
+  })
+
   async function validateTokenType(tokenList: TokenList, url: string) {
     const nodeProvider = new NodeProvider(url)
 
@@ -85,5 +92,21 @@ describe('TokenList', function () {
         nodeProvider.guessStdTokenType(token.id).then((tokenType) => expect(tokenType).toEqual('fungible'))
       )
     )
+  }
+
+  async function validateTokenMetadata(tokenList: TokenList, url: string) {
+    const nodeProvider = new NodeProvider(url)
+
+    return Promise.all(
+      tokenList.tokens.map((token) =>
+        nodeProvider.fetchFungibleTokenMetaData(token.id).then((metadata) => checkMetadata(metadata, token))
+      )
+    )
+  }
+
+  function checkMetadata(metadata: FungibleTokenMetaData, token: TokenInfo) {
+    expect(hexToString(metadata.name)).toEqual(token.name)
+    expect(hexToString(metadata.symbol)).toEqual(token.symbol)
+    expect(metadata.decimals).toEqual(token.decimals)
   }
 })
