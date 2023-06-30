@@ -1,4 +1,8 @@
 {
   "networkId": 1,
-  "nftCollections": []
+  "nftCollections": [
+    {
+      "id": "06544de23e447cff2c5d98d7f431a5b2c0f5b7a2ff69c7ef4ef5fcbf4a9de600"
+    }
+  ]
 }

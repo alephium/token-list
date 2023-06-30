@@ -16,6 +16,8 @@ You should have received a copy of the GNU Lesser General Public License
 along with the library. If not, see <http://www.gnu.org/licenses/>.
 */
 
+import { NodeProvider } from '@alephium/web3'
+
 import { NFTCollectionList } from '../../lib/types'
 import mainnetJson from '../../nft-collections/mainnet.json'
 import testnetJson from '../../nft-collections/testnet.json'
@@ -26,6 +28,9 @@ const testnetNFTCollectionList = testnetJson as NFTCollectionList
 const devnetNFTCollectionList = devnetJson as NFTCollectionList
 
 const nftCollectionLists = [mainnetNFTCollectionList, testnetNFTCollectionList, devnetNFTCollectionList]
+
+const mainnetURL = process.env.MAINNET_URL as string
+const testnetURL = process.env.TESTNET_URL as string
 
 describe('NFTCollectionList', function () {
   it('should contains no duplicate', () => {
@@ -45,4 +50,40 @@ describe('NFTCollectionList', function () {
     expect(mainnetJson.networkId).toEqual(0)
     expect(testnetJson.networkId).toEqual(1)
   })
+
+  it('validate nft types', () => {
+    return Promise.all([
+      validateNftType(mainnetNFTCollectionList, mainnetURL),
+      validateNftType(testnetNFTCollectionList, testnetURL)
+    ])
+  })
+
+  it('validate nft metadata', () => {
+    return Promise.all([
+      validateNftMetadata(mainnetNFTCollectionList, mainnetURL),
+      validateNftMetadata(testnetNFTCollectionList, testnetURL)
+    ])
+  })
+
+  async function validateNftType(nftList: NFTCollectionList, url: string) {
+    const nodeProvider = new NodeProvider(url)
+
+    return Promise.all(
+      nftList.nftCollections.map((collection) =>
+        nodeProvider.guessFollowsNFTCollectionStd(collection.id).then((bool) => expect(bool).toEqual(true))
+      )
+    )
+  }
+
+  async function validateNftMetadata(nftList: NFTCollectionList, url: string) {
+    const nodeProvider = new NodeProvider(url)
+
+    return Promise.all(
+      nftList.nftCollections.map((collection) =>
+        nodeProvider
+          .fetchNFTCollectionMetaData(collection.id)
+          .then((metadata) => expect(metadata.collectionUri).toMatch(/^https:\/\//))
+      )
+    )
+  }
 })
