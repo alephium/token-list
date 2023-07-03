@@ -23,3 +23,6 @@ jobs:
       - run: npm run lint
       - run: npm audit --production
       - run: npm test --if-present
+        env:
+          MAINNET_URL: ${{ vars.MAINNET_URL }}
+          TESTNET_URL: ${{ vars.TESTNET_URL }}

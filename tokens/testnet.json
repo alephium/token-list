@@ -19,7 +19,7 @@
     },
     {
       "id": "9a8cda8bc3423347b7fe2932ef7981ed67e8825dba3a5ee36011f578d1d70f00",
-      "name": "ETH (Portal)",
+      "name": "Wrapped Ether (Wormhole)",
       "symbol": "WETH",
       "decimals": 18,
       "description": "ETH Bridged to Alephium from Wormhole",
@@ -27,7 +27,7 @@
     },
     {
       "id": "4db93c3e58ca4c3392b9d47be17b62fcbabccba61a7d7c1fa1c3baa40181f700",
-      "name": "BNB (Portal)",
+      "name": "Wrapped BNB (Wormhole)",
       "symbol": "WBNB",
       "decimals": 18,
       "description": "BNB Bridged to Alephium from Wormhole",
@@ -56,46 +56,6 @@
       "decimals": 6,
       "description": "Testing USDC on Alephium",
       "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/TUSDC.png"
-    },
-    {
-      "id": "82178ebdbbfd44de373fe215a0e0d22d9fcaf4d1c08da9631c163f310def7900",
-      "name": "Test BTC (Deprecated)",
-      "symbol": "DBTC",
-      "decimals": 8,
-      "description": "Testing BTC (Deprecated) on Alephium",
-      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/DBTC.png"
-    },
-    {
-      "id": "316410c3c8c4142891d45d5ea6e976fb2eb810f6efd443bd20df3ee21cd23b00",
-      "name": "Test ETH (Deprecated)",
-      "symbol": "DETH",
-      "decimals": 18,
-      "description": "Testing ETH (Deprecated) on Alephium",
-      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/DETH.png"
-    },
-    {
-      "id": "0d0662569e640a58088a5bd399fc0d18cc1c9b9614a66fb28d60a85b8a106100",
-      "name": "Test DAI (Deprecated)",
-      "symbol": "DDAI",
-      "decimals": 18,
-      "description": "Testing DAI (Deprecated) on Alephium",
-      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/DDAI.png"
-    },
-    {
-      "id": "e390cb945a82194d4a8e431719b00a279fce42712338b774a58de67c961a7b00",
-      "name": "Test USDT (Deprecated)",
-      "symbol": "DUSDT",
-      "decimals": 6,
-      "description": "Testing USDT (Deprecated) on Alephium",
-      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/DUSDT.png"
-    },
-    {
-      "id": "895ff5d44f35ba6e07384c6d42ea0370af668edf17dba4ddbce53a2f5d246e00",
-      "name": "Test USDC (Deprecated)",
-      "symbol": "DUSDC",
-      "decimals": 6,
-      "description": "Testing USDC (Deprecated) on Alephium",
-      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/DUSDC.png"
     },
     {
       "id": "f393e2366ee780141240e840aa32f26eade79559864d103b453f0d595425af00",
