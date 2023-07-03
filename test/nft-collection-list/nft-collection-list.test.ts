@@ -53,19 +53,19 @@ describe('NFTCollectionList', function () {
 
   it('validate nft collection types', () => {
     return Promise.all([
-      validateNftType(mainnetNFTCollectionList, mainnetURL),
-      validateNftType(testnetNFTCollectionList, testnetURL)
+      validateNftCollectionType(mainnetNFTCollectionList, mainnetURL),
+      validateNftCollectionType(testnetNFTCollectionList, testnetURL)
     ])
   })
 
   it('validate nft collection metadata', () => {
     return Promise.all([
-      validateNftMetadata(mainnetNFTCollectionList, mainnetURL),
-      validateNftMetadata(testnetNFTCollectionList, testnetURL)
+      validateNftCollectionMetadata(mainnetNFTCollectionList, mainnetURL),
+      validateNftCollectionMetadata(testnetNFTCollectionList, testnetURL)
     ])
   })
 
-  async function validateNftType(nftList: NFTCollectionList, url: string) {
+  async function validateNftCollectionType(nftList: NFTCollectionList, url: string) {
     const nodeProvider = new NodeProvider(url)
 
     return Promise.all(
@@ -75,7 +75,7 @@ describe('NFTCollectionList', function () {
     )
   }
 
-  async function validateNftMetadata(nftList: NFTCollectionList, url: string) {
+  async function validateNftCollectionMetadata(nftList: NFTCollectionList, url: string) {
     const nodeProvider = new NodeProvider(url)
 
     return Promise.all(
