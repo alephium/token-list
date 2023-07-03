@@ -16,7 +16,8 @@ You should have received a copy of the GNU Lesser General Public License
 along with the library. If not, see <http://www.gnu.org/licenses/>.
 */
 
-import { NodeProvider } from '@alephium/web3'
+import { NFTCollectionMetaData, NFTMetadata, NodeProvider } from '@alephium/web3'
+import { fetch } from 'cross-fetch'
 
 import { NFTCollectionList } from '../../lib/types'
 import mainnetJson from '../../nft-collections/mainnet.json'
@@ -82,8 +83,18 @@ describe('NFTCollectionList', function () {
       nftList.nftCollections.map((collection) =>
         nodeProvider
           .fetchNFTCollectionMetaData(collection.id)
-          .then((metadata) => expect(metadata.collectionUri).toMatch(/^https:\/\//))
+          .then((metadata) => validateNftCollectionUriData(metadata))
       )
     )
+  }
+
+  async function validateNftCollectionUriData(metadata: NFTCollectionMetaData) {
+    fetch(metadata.collectionUri)
+      .then((result) => result.json())
+      .then((json) => validateNftMetadata(json as NFTMetadata))
+  }
+
+  async function validateNftMetadata(nftMetadata: NFTMetadata) {
+    fetch(nftMetadata.image).then((image) => expect(image.headers.get('content-type')).toContain('image/'))
   }
 })
