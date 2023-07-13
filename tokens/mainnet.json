@@ -1,5 +1,16 @@
 {
   "networkId": 0,
-  "tokens": [],
+  "tokens": [
+    {
+      "id": "c0c0af7a481e3e50c50e418bf8ff6923dc4d878ac3744474e8c708a8adccfb00",
+      "name": "Alf",
+      "symbol": "ALF",
+      "decimals": 0,
+      "description": "Alf, first token deployed on the mainnet",
+      "logoURI": "https://raw.githubusercontent.com/sven-hash/alf/master/alf.png"
+    },
+
+    
+  ],
   "nftCollections": []
 }
