@@ -8,6 +8,14 @@
       "decimals": 0,
       "description": "Alf, first token deployed on the mainnet",
       "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/ALF.png"
+    },
+    {
+      "id": "b2d71c116408ae47b931482a440f675dc9ea64453db24ee931dacd578cae9002",
+      "name": "ALPHpaca",
+      "symbol": "PACA",
+      "decimals": 0,
+      "description": "Part Alpaca, part Ecosystem, part Coin and part Meme. ALPHpaca is rapidly trying to expand it's uses across the Alephium ecosystem.",
+      "logoURI": "https://drive.google.com/file/d/1EzhwxCSBLsSunjQZsqZlRCZrDzUW2SHV/view?usp=sharing"
     }
   ],
   "nftCollections": []
