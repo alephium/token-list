@@ -30,8 +30,8 @@ const devnetTokenList = devnetJson as TokenList
 
 const tokenLists = [mainnetTokenList, testnetTokenList, devnetTokenList]
 
-const mainnetURL = process.env.MAINNET_URL as string
-const testnetURL = process.env.TESTNET_URL as string
+const mainnetURL = 'https://wallet-v20.mainnet.alephium.org'
+const testnetURL = 'https://wallet-v20.testnet.alephium.org'
 
 describe('TokenList', function () {
   it('should contains no duplicate', () => {
@@ -70,18 +70,14 @@ describe('TokenList', function () {
     expect(testnetJson.networkId).toEqual(1)
   })
 
-  it('validate token types', () => {
-    return Promise.all([
-      validateTokenType(mainnetTokenList, mainnetURL),
-      validateTokenType(testnetTokenList, testnetURL)
-    ])
+  it('validate token types', async () => {
+    await validateTokenType(mainnetTokenList, mainnetURL)
+    await validateTokenType(testnetTokenList, testnetURL)
   })
 
-  it('validate token metadata', () => {
-    return Promise.all([
-      validateTokenMetadata(mainnetTokenList, mainnetURL),
-      validateTokenMetadata(testnetTokenList, testnetURL)
-    ])
+  it('validate token metadata', async () => {
+    await validateTokenMetadata(mainnetTokenList, mainnetURL)
+    await validateTokenMetadata(testnetTokenList, testnetURL)
   })
 
   async function validateTokenType(tokenList: TokenList, url: string) {
