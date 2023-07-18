@@ -98,9 +98,12 @@ describe('TokenList', function () {
     const nodeProvider = new NodeProvider(url)
 
     return Promise.all(
-      tokenList.tokens.map((token) =>
+      tokenList.tokens.map((token) => {
+        expect(
+          (token.logoURI ?? '').startsWith('https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/')
+        ).toBe(true)
         nodeProvider.fetchFungibleTokenMetaData(token.id).then((metadata) => checkMetadata(metadata, token))
-      )
+      })
     )
   }
 
