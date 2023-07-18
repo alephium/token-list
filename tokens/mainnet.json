@@ -14,8 +14,8 @@
       "name": "ALPHpaca",
       "symbol": "PACA",
       "decimals": 0,
-      "description": "Part Alpaca, part Ecosystem, part Coin and part Meme. ALPHpaca is rapidly trying to expand it's uses across the Alephium ecosystem.",
-      "logoURI": "https://drive.google.com/file/d/1EzhwxCSBLsSunjQZsqZlRCZrDzUW2SHV/view?usp=sharing"
+      "description": "Part Alpaca, part ecosystem, part coin and part meme. ALPHpaca is rapidly trying to expand it's uses across the Alephium ecosystem.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/PACA.png"
     }
   ],
   "nftCollections": []
