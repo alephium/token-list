@@ -30,8 +30,8 @@ const devnetNFTCollectionList = devnetJson as NFTCollectionList
 
 const nftCollectionLists = [mainnetNFTCollectionList, testnetNFTCollectionList, devnetNFTCollectionList]
 
-const mainnetURL = process.env.MAINNET_URL as string
-const testnetURL = process.env.TESTNET_URL as string
+const mainnetURL = 'https://wallet-v20.mainnet.alephium.org'
+const testnetURL = 'https://wallet-v20.testnet.alephium.org'
 
 describe('NFTCollectionList', function () {
   it('should contains no duplicate', () => {
@@ -52,18 +52,14 @@ describe('NFTCollectionList', function () {
     expect(testnetJson.networkId).toEqual(1)
   })
 
-  it('validate nft collection types', () => {
-    return Promise.all([
-      validateNftCollectionType(mainnetNFTCollectionList, mainnetURL),
-      validateNftCollectionType(testnetNFTCollectionList, testnetURL)
-    ])
+  it('validate nft collection types', async () => {
+    await validateNftCollectionType(mainnetNFTCollectionList, mainnetURL)
+    await validateNftCollectionType(testnetNFTCollectionList, testnetURL)
   })
 
-  it('validate nft collection metadata', () => {
-    return Promise.all([
-      validateNftCollectionMetadata(mainnetNFTCollectionList, mainnetURL),
-      validateNftCollectionMetadata(testnetNFTCollectionList, testnetURL)
-    ])
+  it('validate nft collection metadata', async () => {
+    await validateNftCollectionMetadata(mainnetNFTCollectionList, mainnetURL)
+    await validateNftCollectionMetadata(testnetNFTCollectionList, testnetURL)
   })
 
   async function validateNftCollectionType(nftList: NFTCollectionList, url: string) {
