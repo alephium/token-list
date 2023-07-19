@@ -16,6 +16,14 @@
       "decimals": 0,
       "description": "Part Alpaca, part ecosystem, part coin and part meme. ALPHpaca is rapidly trying to expand it's uses across the Alephium ecosystem.",
       "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/PACA.png"
+    },
+    {
+      "id": "1516c410b54470d667e1315ce2faa81870c76c5c7a491e3e86eeec8366495502",
+      "name": "Montycoin",
+      "symbol": "TAIL",
+      "decimals": 0,
+      "description": "Montycoin is an incentivization token made for fun and immersion into MontaiL's DJ'ing career. With widely growing uses.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/TAIL.png"
     }
   ],
   "nftCollections": []
