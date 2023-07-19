@@ -16,6 +16,14 @@
       "decimals": 0,
       "description": "Part Alpaca, part ecosystem, part coin and part meme. ALPHpaca is rapidly trying to expand it's uses across the Alephium ecosystem.",
       "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/PACA.png"
+    },
+    {
+      "id": "b522184377a33e376e997a950288fa76c1f48e97bc29cd10779adc7cfb673200",
+      "name": "Berry",
+      "symbol": "BERRY",
+      "decimals": 0,
+      "description": "Mr Berry's coin",
+      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/BERRY.png"
     }
   ],
   "nftCollections": []
