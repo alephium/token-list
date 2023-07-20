@@ -18,6 +18,13 @@
       "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/PACA.png"
     },
     {
+      "id": "b522184377a33e376e997a950288fa76c1f48e97bc29cd10779adc7cfb673200",
+      "name": "Berry",
+      "symbol": "BERRY",
+      "decimals": 0,
+      "description": "Mr Berry's coin",
+      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/BERRY.png"
+    },
       "id": "1516c410b54470d667e1315ce2faa81870c76c5c7a491e3e86eeec8366495502",
       "name": "Montycoin",
       "symbol": "TAIL",
