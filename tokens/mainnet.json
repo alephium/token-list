@@ -32,6 +32,14 @@
       "decimals": 0,
       "description": "Montycoin is an incentivization token made for fun and immersion into MontaiL's DJ'ing career. With widely growing uses.",
       "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/TAIL.png"
+    },
+    {
+      "id": "1a281053ba8601a658368594da034c2e99a0fb951b86498d05e76aedfe666800",
+      "name": "Ayin",
+      "symbol": "AYIN",
+      "decimals": 18,
+      "description": "$AYIN is a DEX token, that incentivises users through fees and other mechanisms to participate in trading on Alephium",
+      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/AYIN.png"
     }
   ],
   "nftCollections": []
