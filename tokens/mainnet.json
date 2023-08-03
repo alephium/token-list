@@ -2,10 +2,10 @@
   "networkId": 0,
   "tokens": [
     {
-      "id": "c0c0af7a481e3e50c50e418bf8ff6923dc4d878ac3744474e8c708a8adccfb00",
+      "id": "66da610efb5129c062e88e5fd65fe810f31efd1597021b2edf887a4360fa0800",
       "name": "Alf",
       "symbol": "ALF",
-      "decimals": 0,
+      "decimals": 9,
       "description": "Alf, first token deployed on the mainnet",
       "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/ALF.png"
     },
