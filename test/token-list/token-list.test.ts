@@ -75,10 +75,17 @@ describe('TokenList', function () {
     await validateTokenType(testnetTokenList, testnetURL)
   })
 
-  it('validate token metadata', async () => {
-    await validateTokenMetadata(mainnetTokenList, mainnetURL)
-    await validateTokenMetadata(testnetTokenList, testnetURL)
-  }, 10000)
+  mainnetTokenList.tokens.forEach((token) => {
+    it(`validate mainnnet ${token.name} metadata`, async () => {
+      await validateTokenMetadata(token, mainnetURL)
+    })
+  })
+
+  testnetTokenList.tokens.forEach((token) => {
+    it(`validate testnet ${token.name} metadata`, async () => {
+      await validateTokenMetadata(token, testnetURL)
+    })
+  })
 
   async function validateTokenType(tokenList: TokenList, url: string) {
     const nodeProvider = new NodeProvider(url)
@@ -90,14 +97,10 @@ describe('TokenList', function () {
     )
   }
 
-  async function validateTokenMetadata(tokenList: TokenList, url: string) {
+  async function validateTokenMetadata(token: TokenInfo, url: string) {
     const nodeProvider = new NodeProvider(url)
 
-    return Promise.all(
-      tokenList.tokens.map((token) =>
-        nodeProvider.fetchFungibleTokenMetaData(token.id).then((metadata) => checkMetadata(metadata, token))
-      )
-    )
+    nodeProvider.fetchFungibleTokenMetaData(token.id).then((metadata) => checkMetadata(metadata, token))
   }
 
   function checkMetadata(metadata: FungibleTokenMetaData, token: TokenInfo) {
