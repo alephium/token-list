@@ -40,6 +40,14 @@
       "decimals": 18,
       "description": "$AYIN is a DEX token, that incentivises users through fees and other mechanisms to participate in trading on Alephium",
       "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/AYIN.png"
+    },
+    {
+      "id": "5bf2f559ae714dab83ff36bed4d9e634dfda3ca9ed755d60f00be89e2a20bd00",
+      "name": "Staked Ayin",
+      "symbol": "XAYIN",
+      "decimals": 18,
+      "description": "xAyin is single-staked Ayin accumulating trading fees and additional Ayins from the DEX",
+      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/XAYIN.png"
     }
   ],
   "nftCollections": []
