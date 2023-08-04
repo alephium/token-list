@@ -7,7 +7,7 @@
       "symbol": "TBTC",
       "decimals": 8,
       "description": "Testing BTC on Alephium",
-      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/TBTC.png"
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TBTC.png"
     },
     {
       "id": "4d765e05a5f08c39ab441c10fea45310cbd7b8c7bc7b4cd4e93d4531fdf2b601",
@@ -15,7 +15,7 @@
       "symbol": "TETH",
       "decimals": 18,
       "description": "Testing ETH on Alephium",
-      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/TETH.png"
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TETH.png"
     },
     {
       "id": "9a8cda8bc3423347b7fe2932ef7981ed67e8825dba3a5ee36011f578d1d70f00",
@@ -23,7 +23,7 @@
       "symbol": "WETH",
       "decimals": 18,
       "description": "ETH Bridged to Alephium from Wormhole",
-      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/WETH.png"
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WETH.png"
     },
     {
       "id": "4db93c3e58ca4c3392b9d47be17b62fcbabccba61a7d7c1fa1c3baa40181f700",
@@ -31,7 +31,7 @@
       "symbol": "WBNB",
       "decimals": 18,
       "description": "BNB Bridged to Alephium from Wormhole",
-      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/WBNB.png"
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WBNB.png"
     },
     {
       "id": "92982a9d35b38ff1d0b43dec536631b523cdccde0cf2fc1d5c349790c59d2701",
@@ -39,7 +39,7 @@
       "symbol": "TDAI",
       "decimals": 18,
       "description": "Testing DAI on Alephium",
-      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/TDAI.png"
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TDAI.png"
     },
     {
       "id": "416800f4e2a7326ef2c129d38e4db35de11cec2d4aff98972558ca2c6f976e01",
@@ -47,7 +47,7 @@
       "symbol": "TUSDT",
       "decimals": 6,
       "description": "Testing USDT on Alephium",
-      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/TUSDT.png"
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TUSDT.png"
     },
     {
       "id": "ecc6dd103bbb3cfad3ada8d6a22d73a599a9d39a43b81a734bc9784acc261b01",
@@ -55,7 +55,7 @@
       "symbol": "TUSDC",
       "decimals": 6,
       "description": "Testing USDC on Alephium",
-      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/TUSDC.png"
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TUSDC.png"
     },
     {
       "id": "f393e2366ee780141240e840aa32f26eade79559864d103b453f0d595425af00",
@@ -63,7 +63,7 @@
       "symbol": "FETA",
       "decimals": 18,
       "description": "DJ Fetamin fanclub token",
-      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/FETA.png"
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/FETA.png"
     }
   ]
 }

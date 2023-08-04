@@ -7,14 +7,14 @@
       "symbol": "SHNY",
       "decimals": 0,
       "description": "Sniny Token (SHNY) is a decentralized token for the Alephium community.",
-      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/SHNY.png"
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SHNY.png"
     },{
       "id": "141af4f9a27d1f9c31eb85bde36a4b39332648fef67dd43a0d5dc2771de0a381",
       "name": "Steak Token",
       "symbol": "STK",
       "decimals": 1,
       "description": "Steak Token (STK) is a meme token for the Proof of Steak community.",
-      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/STK.png"
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/STK.png"
     }
   ]
 }
