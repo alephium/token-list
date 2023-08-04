@@ -78,7 +78,7 @@ describe('TokenList', function () {
   it('validate token metadata', async () => {
     await validateTokenMetadata(mainnetTokenList, mainnetURL)
     await validateTokenMetadata(testnetTokenList, testnetURL)
-  })
+  }, 10000)
 
   async function validateTokenType(tokenList: TokenList, url: string) {
     const nodeProvider = new NodeProvider(url)
