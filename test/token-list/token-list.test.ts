@@ -43,7 +43,7 @@ describe('TokenList', function () {
       tokenList.tokens.forEach((token) => {
         if (token.logoURI) {
           expect(token.logoURI).toMatch(
-            new RegExp(`https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/${token.symbol}.(png|svg)`)
+            new RegExp(`https://raw.githubusercontent.com/alephium/token-list/master/logos/${token.symbol}.(png|svg)`)
           )
         }
       })
@@ -70,34 +70,28 @@ describe('TokenList', function () {
     expect(testnetJson.networkId).toEqual(1)
   })
 
-  it('validate token types', async () => {
-    await validateTokenType(mainnetTokenList, mainnetURL)
-    await validateTokenType(testnetTokenList, testnetURL)
+  const mainnetNodeProvider = new NodeProvider(mainnetURL)
+  mainnetTokenList.tokens.forEach((token) => {
+    it(`validate mainnet ${token.name}`, async () => {
+      await validateTokenMetadata(token, mainnetNodeProvider)
+      await validateTokenType(token, mainnetNodeProvider)
+    })
   })
 
-  it('validate token metadata', async () => {
-    await validateTokenMetadata(mainnetTokenList, mainnetURL)
-    await validateTokenMetadata(testnetTokenList, testnetURL)
+  const testnetNodeProvider = new NodeProvider(testnetURL)
+  testnetTokenList.tokens.forEach((token) => {
+    it(`validate testnet ${token.name}`, async () => {
+      await validateTokenMetadata(token, testnetNodeProvider)
+      await validateTokenType(token, testnetNodeProvider)
+    })
   })
 
-  async function validateTokenType(tokenList: TokenList, url: string) {
-    const nodeProvider = new NodeProvider(url)
-
-    return Promise.all(
-      tokenList.tokens.map((token) =>
-        nodeProvider.guessStdTokenType(token.id).then((tokenType) => expect(tokenType).toEqual('fungible'))
-      )
-    )
+  async function validateTokenType(token: TokenInfo, nodeProvider: NodeProvider) {
+    nodeProvider.guessStdTokenType(token.id).then((tokenType) => expect(tokenType).toEqual('fungible'))
   }
 
-  async function validateTokenMetadata(tokenList: TokenList, url: string) {
-    const nodeProvider = new NodeProvider(url)
-
-    return Promise.all(
-      tokenList.tokens.map((token) =>
-        nodeProvider.fetchFungibleTokenMetaData(token.id).then((metadata) => checkMetadata(metadata, token))
-      )
-    )
+  async function validateTokenMetadata(token: TokenInfo, nodeProvider: NodeProvider) {
+    nodeProvider.fetchFungibleTokenMetaData(token.id).then((metadata) => checkMetadata(metadata, token))
   }
 
   function checkMetadata(metadata: FungibleTokenMetaData, token: TokenInfo) {
