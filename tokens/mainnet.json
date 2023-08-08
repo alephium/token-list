@@ -48,7 +48,16 @@
       "decimals": 18,
       "description": "xAyin is single-staked Ayin accumulating trading fees and additional Ayins from the DEX",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/XAYIN.png"
+    },
+    {
+      "id": "7da28936499f56ffed497fe7eba856aa85eeb943bab2478e36f7020d89cd2400",
+      "name": "VLAD",
+      "symbol": "VLAD",
+      "decimals": 9,
+      "description": "Enough $VLAD entitles you to some VLAD time, at VLAD's discretion, to talk about VLAD, with VLAD in a VLAD setup of his choosing. This is the way of the VLAD.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/VLAD.png"
     }
+    
   ],
   "nftCollections": []
 }
