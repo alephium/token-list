@@ -7,7 +7,7 @@
       "symbol": "ALF",
       "decimals": 9,
       "description": "Alf, first token deployed on the mainnet",
-      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/ALF.png"
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALF.png"
     },
     {
       "id": "b2d71c116408ae47b931482a440f675dc9ea64453db24ee931dacd578cae9002",
@@ -15,7 +15,7 @@
       "symbol": "PACA",
       "decimals": 0,
       "description": "Part Alpaca, part ecosystem, part coin and part meme. ALPHpaca is rapidly trying to expand it's uses across the Alephium ecosystem.",
-      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/PACA.png"
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/PACA.png"
     },
     {
       "id": "b522184377a33e376e997a950288fa76c1f48e97bc29cd10779adc7cfb673200",
@@ -23,7 +23,7 @@
       "symbol": "BERRY",
       "decimals": 0,
       "description": "Mr Berry's coin",
-      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/BERRY.png"
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BERRY.png"
     },
     {
       "id": "1516c410b54470d667e1315ce2faa81870c76c5c7a491e3e86eeec8366495502",
@@ -31,7 +31,7 @@
       "symbol": "TAIL",
       "decimals": 0,
       "description": "Montycoin is an incentivization token made for fun and immersion into MontaiL's DJ'ing career. With widely growing uses.",
-      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/TAIL.png"
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TAIL.png"
     },
     {
       "id": "1a281053ba8601a658368594da034c2e99a0fb951b86498d05e76aedfe666800",
@@ -40,6 +40,22 @@
       "decimals": 18,
       "description": "$AYIN is a DEX token, that incentivises users through fees and other mechanisms to participate in trading on Alephium",
       "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/AYIN.png"
+    },
+    {
+      "id": "5bf2f559ae714dab83ff36bed4d9e634dfda3ca9ed755d60f00be89e2a20bd00",
+      "name": "Staked Ayin",
+      "symbol": "XAYIN",
+      "decimals": 18,
+      "description": "xAyin is single-staked Ayin accumulating trading fees and additional Ayins from the DEX",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/XAYIN.png"
+    },
+    {
+      "id": "7da28936499f56ffed497fe7eba856aa85eeb943bab2478e36f7020d89cd2400",
+      "name": "Vlad",
+      "symbol": "VLAD",
+      "decimals": 9,
+      "description": "Enough $VLAD entitles you to some VLAD time, at VLAD's discretion, to talk about VLAD, with VLAD in a VLAD setup of his choosing. This is the way of the VLAD. $VLAD is a valueless memexperimentcoin. NFA applies.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/VLAD.png"
     },
     {
       "id": "2bc4b844502d6c27b57dfe064f95353647a606b3d92150786ecacb56c885c800",
