@@ -39,7 +39,7 @@
       "symbol": "AYIN",
       "decimals": 18,
       "description": "$AYIN is a DEX token, that incentivises users through fees and other mechanisms to participate in trading on Alephium",
-      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/AYIN.png"
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/AYIN.png"
     },
     {
       "id": "5bf2f559ae714dab83ff36bed4d9e634dfda3ca9ed755d60f00be89e2a20bd00",
@@ -63,7 +63,7 @@
       "symbol": "JKL",
       "decimals": 18,
       "description": "Jekyll comes to life as the sun rises...",
-      "logoURI": "https://raw.githubusercontent.com/alephium/tokens-meta/master/logos/JEKYLL.png"
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/JEKYLL.png"
     }
   ],
   "nftCollections": []
