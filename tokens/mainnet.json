@@ -65,6 +65,15 @@
       "description": "Jekyll comes to life as the sun rises...",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/JKL.png"
     }
+    {
+      "id": "7ffeaf2a246a9d852f4828787c0f11e8655b75e6e7796a77697bc68068e59e00",
+      "name": "Rekt",
+      "symbol": "Rekt",
+      "decimals": 3,
+      "description": "Don't get Rekt!",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/Rekt.png"
+    }
+
   ],
   "nftCollections": []
 }
