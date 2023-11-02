@@ -87,11 +87,11 @@ describe('TokenList', function () {
   })
 
   async function validateTokenType(token: TokenInfo, nodeProvider: NodeProvider) {
-    nodeProvider.guessStdTokenType(token.id).then((tokenType) => expect(tokenType).toEqual('fungible'))
+    await nodeProvider.guessStdTokenType(token.id).then((tokenType) => expect(tokenType).toEqual('fungible'))
   }
 
   async function validateTokenMetadata(token: TokenInfo, nodeProvider: NodeProvider) {
-    nodeProvider.fetchFungibleTokenMetaData(token.id).then((metadata) => checkMetadata(metadata, token))
+    await nodeProvider.fetchFungibleTokenMetaData(token.id).then((metadata) => checkMetadata(metadata, token))
   }
 
   function checkMetadata(metadata: FungibleTokenMetaData, token: TokenInfo) {
