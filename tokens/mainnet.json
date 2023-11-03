@@ -8,11 +8,13 @@
       "decimals": 9,
       "description": "Alf, first token deployed on the mainnet",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALF.png"
-    },
+    },   
     {
       "id": "c0c0af7a481e3e50c50e418bf8ff6923dc4d878ac3744474e8c708a8adccfb00",
-      "name": "Alf",
-      "symbol": "ALF",
+      "name": "OGAlf",
+      "onChainName": "Alf",
+      "symbol": "OGALF",
+      "onChainSymbol": "ALF",
       "decimals": 0,
       "description": "OG Alf, real first token deployed on the mainnet",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/OGALF.png"
