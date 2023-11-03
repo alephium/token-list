@@ -95,8 +95,8 @@ describe('TokenList', function () {
   }
 
   function checkMetadata(metadata: FungibleTokenMetaData, token: TokenInfo) {
-    expect(hexToString(metadata.name)).toEqual(token.name)
-    expect(hexToString(metadata.symbol)).toEqual(token.symbol)
+    expect(hexToString(metadata.name)).toEqual(token.onChainName ? token.onChainName : token.name)
+    expect(hexToString(metadata.symbol)).toEqual(token.onChainSymbol ? token.onChainSymbol : token.symbol)
     expect(metadata.decimals).toEqual(token.decimals)
   }
 })
