@@ -24,7 +24,9 @@ export interface TokenList {
 export interface TokenInfo {
   id: string
   name: string
+  onChainName?: string
   symbol: string
+  onChainSymbol?: string
   decimals: number
   description?: string
   logoURI?: string
