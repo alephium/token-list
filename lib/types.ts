@@ -29,7 +29,8 @@ export interface TokenInfo {
   onChainSymbol?: string
   decimals: number
   description?: string
-  logoURI?: string
+  logoURI?: string,
+  priceFeedURL?: string
 }
 
 export interface NFTCollectionList {
