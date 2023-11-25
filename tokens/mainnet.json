@@ -64,14 +64,6 @@
       "decimals": 18,
       "description": "Jekyll comes to life as the sun rises...",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/JKL.png"
-    },
-    {
-      "id": "waiting on tokenID",
-      "name": "Number Go Up",
-      "symbol": "NGU",
-      "decimals": 2,
-      "description": "Number Go Up",
-      "logoURI": "still need to import png"
     }
   ],
   "nftCollections": []
