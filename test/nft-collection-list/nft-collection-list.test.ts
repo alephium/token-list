@@ -85,12 +85,12 @@ describe('NFTCollectionList', function () {
   }
 
   async function validateNftCollectionUriData(metadata: NFTCollectionMetaData) {
-    fetch(metadata.collectionUri)
+    await fetch(metadata.collectionUri)
       .then((result) => result.json())
       .then((json) => validateNftMetadata(json as NFTMetadata))
   }
 
   async function validateNftMetadata(nftMetadata: NFTMetadata) {
-    fetch(nftMetadata.image).then((image) => expect(image.headers.get('content-type')).toContain('image/'))
+    await fetch(nftMetadata.image).then((image) => expect(image.headers.get('content-type')).toContain('image/'))
   }
 })

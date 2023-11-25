@@ -10,6 +10,16 @@
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALF.png"
     },
     {
+      "id": "c0c0af7a481e3e50c50e418bf8ff6923dc4d878ac3744474e8c708a8adccfb00",
+      "name": "OGAlf",
+      "onChainName": "Alf",
+      "symbol": "OGALF",
+      "onChainSymbol": "ALF",
+      "decimals": 0,
+      "description": "OG Alf, real first token deployed on the mainnet",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/OGALF.png"
+    },
+    {
       "id": "b2d71c116408ae47b931482a440f675dc9ea64453db24ee931dacd578cae9002",
       "name": "ALPHpaca",
       "symbol": "PACA",
@@ -64,6 +74,46 @@
       "decimals": 18,
       "description": "Jekyll comes to life as the sun rises...",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/JKL.png"
+    },
+    {
+      "id": "19246e8c2899bc258a1156e08466e3cdd3323da756d8a543c7fc911847b96f00",
+      "name": "Wrapped Ether (AlphBridge)",
+      "symbol": "WETH",
+      "decimals": 18,
+      "description": "ETH Bridged to Alephium from Alephium Bridge",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WETH.png"
+    },
+    {
+      "id": "383bc735a4de6722af80546ec9eeb3cff508f2f68e97da19489ce69f3e703200",
+      "name": "Wrapped BTC (AlphBridge)",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "description": "wBTC Bridged to Alephium from Alephium Bridge",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WBTC.png"
+    },
+    {
+      "id": "556d9582463fe44fbd108aedc9f409f69086dc78d994b88ea6c9e65f8bf98e00",
+      "name": "Tether USD (AlphBridge)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "description": "USDT Bridged to Alephium from Alephium Bridge",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDT.png"
+    },
+    {
+      "id": "722954d9067c5a5ad532746a024f2a9d7a18ed9b90e27d0a3a504962160b5600",
+      "name": "USD Coin (AlphBridge)",
+      "symbol": "USDC",
+      "decimals": 6,
+      "description": "USDC Bridged to Alephium from Alephium Bridge",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDC.png"
+    },
+    {
+      "id": "3d0a1895108782acfa875c2829b0bf76cb586d95ffa4ea9855982667cc73b700",
+      "name": "Dai Stablecoin (AlphBridge)",
+      "symbol": "DAI",
+      "decimals": 18,
+      "description": "DAI Bridged to Alephium from Alephium Bridge",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DAI.png"
     },
     {
       "id": "0a1f4e4aa09407ad226952ddfd5f7d451196f4ac8ea48902a6172ce171222200",
