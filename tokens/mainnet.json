@@ -130,6 +130,13 @@
       "decimals": 4,
       "description": "The most contagious token on the Alephium Blockchain.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/VIRL.png"
+      {
+      "id": "0401956def213cae6d7324614da1a3d1df1d58200221c12dac87856c91c19800",
+      "name": "LIFE",
+      "symbol": "LIFE",
+      "decimals": 2,
+      "description": "YOUR EYES. YOUR LIFE",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/LIFE.png"    
     }
   ]
 }
