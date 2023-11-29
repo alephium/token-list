@@ -31,12 +31,3 @@ export interface TokenInfo {
   description?: string
   logoURI?: string
 }
-
-export interface NFTCollectionList {
-  networkId: number
-  nftCollections: NFTCollectionInfo[]
-}
-
-export interface NFTCollectionInfo {
-  id: string
-}
