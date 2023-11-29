@@ -16,27 +16,21 @@ You should have received a copy of the GNU Lesser General Public License
 along with the library. If not, see <http://www.gnu.org/licenses/>.
 */
 
-import mainnetNFTCollectionList from '../nft-collections/mainnet.json'
-import testnetNFTCollectionList from '../nft-collections/testnet.json'
 import mainnetTokenList from '../tokens/mainnet.json'
 import testnetTokenList from '../tokens/testnet.json'
-import { NFTCollectionList, TokenInfo, TokenList } from './types'
+import { TokenInfo, TokenList } from './types'
 
 export * from './types'
 
 export const mainnetTokensMetadata = mainnetTokenList as TokenList
 export const testnetTokensMetadata = testnetTokenList as TokenList
-export const mainnetNFTCollectionsMetadata = mainnetNFTCollectionList as NFTCollectionList
-export const testnetNFTCollectionsMetadata = testnetNFTCollectionList as NFTCollectionList
 
 export default {
   mainnet: {
-    tokens: mainnetTokensMetadata,
-    nftCollections: mainnetNFTCollectionsMetadata
+    tokens: mainnetTokensMetadata
   },
   testnet: {
-    tokens: testnetTokensMetadata,
-    nftCollections: testnetNFTCollectionsMetadata
+    tokens: testnetTokensMetadata
   }
 }
 

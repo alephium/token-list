@@ -131,6 +131,5 @@
       "description": "The most contagious token on the Alephium Blockchain.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/VIRL.png"
     }
-  ],
-  "nftCollections": []
+  ]
 }
