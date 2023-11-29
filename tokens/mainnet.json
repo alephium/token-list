@@ -130,6 +130,22 @@
       "decimals": 4,
       "description": "The most contagious token on the Alephium Blockchain.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/VIRL.png"
+    },
+    {
+      "id": "0401956def213cae6d7324614da1a3d1df1d58200221c12dac87856c91c19800",
+      "name": "LIFE",
+      "symbol": "LIFE",
+      "decimals": 4,
+      "description": "Your Life",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/LIFE.png"
+    },
+    {
+      "id": "e3c220c7ca12c65b3dc710a6078b982b51e1b5e49d9a5cb94babb7c09bba4900",
+      "name": "CYXE",
+      "symbol": "CYXE",
+      "decimals": 4,
+      "description": "Your Eyes.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/CYXE.png"
     }
   ]
 }
