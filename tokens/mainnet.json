@@ -130,6 +130,14 @@
       "decimals": 4,
       "description": "The most contagious token on the Alephium Blockchain.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/VIRL.png"
+    },
+    {
+      "id": "130f008dcc71ad5138bdae00d918acef3b78ddbe95e627215a36a47b6b151100",
+      "name": "BUBBLE",
+      "symbol": "BUBBLE",
+      "decimals": 9,
+      "description": "Governance token for the AlphDolphins NFT Collections",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BUBBLE.png"
     }
   ]
 }
