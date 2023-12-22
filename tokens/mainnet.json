@@ -116,10 +116,10 @@
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DAI.png"
     },
     {
-      "id": "0a1f4e4aa09407ad226952ddfd5f7d451196f4ac8ea48902a6172ce171222200",
+      "id": "df3008f43a7cc1d4a37eef71bf581fc4b9c3be4e2d58ed6d1df483bbb83bd200",
       "name": "NUMBER GO UP",
       "symbol": "NGU",
-      "decimals": 0,
+      "decimals": 7,
       "description": "Number Go Up",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/NGU.png"
     },
@@ -130,6 +130,14 @@
       "decimals": 4,
       "description": "The most contagious token on the Alephium Blockchain.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/VIRL.png"
+    },
+    {
+      "id": "130f008dcc71ad5138bdae00d918acef3b78ddbe95e627215a36a47b6b151100",
+      "name": "BUBBLE",
+      "symbol": "BUBBLE",
+      "decimals": 9,
+      "description": "Governance token for the AlphDolphins NFT Collections",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BUBBLE.png"
     }
   ]
 }
