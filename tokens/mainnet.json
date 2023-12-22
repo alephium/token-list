@@ -138,6 +138,14 @@
       "decimals": 9,
       "description": "Governance token for the AlphDolphins NFT Collections",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BUBBLE.png"
+    },
+    {
+      "id": "7dd0c01b2c835ed659c85c1ae64c7c10b916c06f13cf5b91f1369a5a3feda000",
+      "name": "CYXE",
+      "symbol": "CYXE",
+      "decimals": 4,
+      "description": "Your Memory. Your Eyes. Your Life.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BUBBLE.png"
     }
   ]
 }
