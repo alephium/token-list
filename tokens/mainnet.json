@@ -10,16 +10,6 @@
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALF.png"
     },
     {
-      "id": "c0c0af7a481e3e50c50e418bf8ff6923dc4d878ac3744474e8c708a8adccfb00",
-      "name": "OGAlf",
-      "onChainName": "Alf",
-      "symbol": "OGALF",
-      "onChainSymbol": "ALF",
-      "decimals": 0,
-      "description": "OG Alf, real first token deployed on the mainnet",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/OGALF.png"
-    },
-    {
       "id": "b2d71c116408ae47b931482a440f675dc9ea64453db24ee931dacd578cae9002",
       "name": "ALPHpaca",
       "symbol": "PACA",
