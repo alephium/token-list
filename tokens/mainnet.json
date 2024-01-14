@@ -137,5 +137,12 @@
       "description": "Your Memory. Your Eyes. Your Life.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/CYXE.png"
     }
-  ]
+    {
+    "id": "24rVgFY192f63RxqBpN9d316CvpDDyKbHfENr6a7ZXfBu",
+    "name": "Super Mario Alpha Shibu inu"
+    "symbol": "SMASH",
+    "decimals": "4",
+    "description": "meme coin for entertainment purposes only"
+    "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SMASH.png"
+    }
 }
