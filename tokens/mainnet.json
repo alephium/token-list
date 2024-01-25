@@ -144,6 +144,14 @@
       "decimals": 0,
       "description": "The first mystical coin, endowing its holders with the spirit of Alephium.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WANG.png"
+    },
+    {
+      "id": "4e0eb20afb173cd534ae29acd013861115482c1e3d8ed626294bbe1008a3f900",
+      "name": "KleoMixer",
+      "symbol": "MIX",
+      "decimals": 8,
+      "description": "$MIX is the native token of the KleoMixer platform",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/MIX.png"
     }
   ]
 }
