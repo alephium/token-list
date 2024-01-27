@@ -152,7 +152,7 @@
       "decimals": 8,
       "description": "$MIX is the native token of the KleoMixer platform",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/MIX.png"
-    }
+    },
     {
       "id": "93cc555d3dfc0a81aa6f3127c0108e529a32c87c595c1b89f1855e698c2bc700",
       "name": "SUCC",
