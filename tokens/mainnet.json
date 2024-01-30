@@ -138,10 +138,10 @@
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/CYXE.png"
     },
     {
-      "id": "21905b605da57e1fc239a75862aa63d4a20b4ae4f3d6fe3258dc4e84e0e35202",
+      "id": "c1aeea313e36454f35beaf40130c9219faa40ba645aff93e16429146039f8202",
       "name": "Wang",
       "symbol": "WANG",
-      "decimals": 0,
+      "decimals": 5,
       "description": "The first mystical coin, endowing its holders with the spirit of Alephium.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WANG.png"
     },
