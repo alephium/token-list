@@ -160,7 +160,14 @@
       "decimals": 10,
       "description": "Tribute to Sir Moist. 1 alph = 1 SUCC",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SUCC.png"
+     },
+    {
+      "id": "3f0139e1b0aa2cf0a9400ccdb73d00750bcfc8c7be0e858052d794491c8a5900",
+      "name": "Shin Inu",
+      "symbol": "SHIN",
+      "decimals": 5,
+      "description": "Fun collectible coin and first dog token on Alephium",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SHIN.png"
      }
-    
   ]
 }
