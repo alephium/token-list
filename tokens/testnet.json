@@ -64,6 +64,14 @@
       "decimals": 18,
       "description": "DJ Fetamin fanclub token",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/FETA.png"
+    },
+    {
+      "id": "99d91e5ab1b054da64c9933c126297c5067d7e2c8b08be8095d1aeab9f0c9201",
+      "name": "Squirrel",
+      "symbol": "SQRL",
+      "decimals": 4,
+      "description": "Your passive-aggressive backyard squirrel",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SQRL.png"
     }
   ]
 }
