@@ -184,6 +184,14 @@
       "decimals": 7,
       "description": "NGU LOVE. NUMBER GO UP",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/LOVE.png"
+     },
+     {
+       "id": "e565d11d6d5194dc2a65c7d67c324d341bc55f1e7131a9ef5577e8e75e199000",
+       "name": "Squirrel",
+       "symbol": "SQRL",
+       "decimals": 4,
+       "description": "Your passive-aggressive backyard squirrel",
+       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SQRL.png"
      }
   ]
 }
