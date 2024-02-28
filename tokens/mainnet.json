@@ -195,7 +195,7 @@
      },
      {
         "id": "f251784031eaea09e4521ecab9dcda5ba8f94d62ce1ab71a952086f2c5d19c00",
-        "name": "ALPH/SQRL LP",
+        "name": "ALPHSQRL",
         "symbol": "ALPHSQRL",
         "decimals": 18,
         "description": "Liquidty Pool Token for ALPH/SQRL pair on Ayin DEX",
