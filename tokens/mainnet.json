@@ -208,6 +208,14 @@
         "decimals": 10,
         "description": "Who doesn't like NUTS?!?",
         "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/NUTS.png"
+     },
+     {
+        "id": "b49031320af0ff6fd2764ec7176687257efe1d491eff1baf315db21f10412c00",
+        "name": "Mira",
+        "symbol": "MIRA",
+        "decimals": 9,
+        "description": "$MIRA - First Cat Meme on Alephium.",
+        "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/MIRA.png"
      }
   ]
 }
