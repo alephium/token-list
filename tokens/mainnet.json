@@ -200,6 +200,14 @@
         "decimals": 18,
         "description": "Liquidty Pool Token for ALPH/SQRL pair on Ayin DEX",
         "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPHSQRL.png"
+     },
+     {
+        "id": "1db28d7bf24e0e6dcd600d3ece2c3ac70947af8c115aa4d32670608c0e49f900",
+        "name": "Nature's Ultimate Treasure Stash",
+        "symbol": "NUTS",
+        "decimals": 10,
+        "description": "Who doesn't like NUTS?!?",
+        "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/NUTS.png"
      }
   ]
 }
