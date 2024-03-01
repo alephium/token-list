@@ -216,6 +216,14 @@
         "decimals": 9,
         "description": "$MIRA - The First Cat Meme on Alephium.",
         "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/MIRA.png"
+     },
+     {
+        "id": "e94c25c10044a9db9c4c2e191a5f520ad0e58a29ce480b8edc5dd0fb7b65aa00",
+        "name": "Canna",
+        "symbol": "LEAF",
+        "decimals": 6,
+        "description": "Go Green with the Token for Tokin'",
+        "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/LEAF.png"
      }
   ]
 }
