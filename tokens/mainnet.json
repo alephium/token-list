@@ -224,6 +224,14 @@
         "decimals": 6,
         "description": "Go Green with the Token for Tokin'",
         "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/LEAF.png"
+     },
+     {
+        "id": "147a7acd3fe8804c37ac6012a8c72660551473d641abb9bd6ff5b1f2545bb200",
+        "name": "COFFEE",
+        "symbol": "COFFEE",
+        "decimals": 4,
+        "description": "Crypto adoption by sharing a cup of COFFEE'",
+        "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/COFFEE.png"
      }
   ]
 }
