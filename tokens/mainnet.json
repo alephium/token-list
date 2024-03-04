@@ -232,6 +232,14 @@
         "decimals": 4,
         "description": "Crypto adoption by sharing a cup of COFFEE'",
         "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/COFFEE.png"
+     },
+     {
+        "id": "55cdaa051f83c408f128ca8888b58bb685ed9974997cc902821b69e352915f00",
+        "name": "DRAGON",
+        "symbol": "DRAGON",
+        "decimals": 8,
+        "description": "The Dragon Awakens...",
+        "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DRAGON.png"
      }
   ]
 }
