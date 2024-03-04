@@ -234,6 +234,14 @@
         "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/COFFEE.png"
      },
      {
+        "id": "3923a61dcb8e1892ae19a634a20348b250037cd7fece3f4c3868d437d507fc00",
+        "name": "ALPHMIX",
+        "symbol": "ALPHMIX",
+        "decimals": 18,
+        "description": "Liquidty Pool Token for ALPH/MIX pair on Ayin DEX",
+        "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPHMIX.png"
+     },
+     {
         "id": "55cdaa051f83c408f128ca8888b58bb685ed9974997cc902821b69e352915f00",
         "name": "DRAGON",
         "symbol": "DRAGON",
