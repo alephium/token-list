@@ -249,5 +249,13 @@
         "description": "The Dragon Awakens",
         "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DRAGON.png"
      }
+     {
+        "id": "d291da74b47ba566ae1fb0aee11ec571a24e7c184b0a43c32c93ea9f5df87600",
+        "name": "Number Go Down",
+        "symbol": "NGD",
+        "decimals": 6,
+        "description": "You Buy, Number Go Down. You Sell, Number Go Down",
+        "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/NGD.png"
+     }
   ]
 }
