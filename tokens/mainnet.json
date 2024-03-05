@@ -250,6 +250,14 @@
         "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DRAGON.png"
      },
      {
+        "id": "f79530d767a13ff4baef0870f18adfd17c7b418edd214f89b53ce24df62acf00",
+        "name": "Grape",
+        "symbol": "GRAPE",
+        "decimals": 9,
+        "description": "Graping charts and ravishing fruity maidens on Alephium blockchain | https://grapecoin.lol | https://t.me/grapecoincommunity",
+        "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/GRAPE.png"
+     },
+     {
         "id": "d291da74b47ba566ae1fb0aee11ec571a24e7c184b0a43c32c93ea9f5df87600",
         "name": "Number Go Down",
         "symbol": "NGD",
