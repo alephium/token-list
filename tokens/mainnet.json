@@ -2,14 +2,6 @@
   "networkId": 0,
   "tokens": [
     {
-      "id": "17809f390d15c8cb4d413f60b5640264b9be8b36cb13261c4d3c00a5c63e8800",
-      "name": "Alphrodite",
-      "symbol": "APD",
-      "decimals": 9,
-      "description": "Alphrodite - a goddess of love will bring luck for investors on Alephium | #ALPH #APD #MEME #GEM",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/APD.png"
-    },
-    {
       "id": "66da610efb5129c062e88e5fd65fe810f31efd1597021b2edf887a4360fa0800",
       "name": "Alf",
       "symbol": "ALF",
@@ -272,6 +264,14 @@
         "decimals": 6,
         "description": "You Buy, Number Go Down. You Sell, Number Go Down",
         "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/NGD.png"
+     },
+     {
+      "id": "17809f390d15c8cb4d413f60b5640264b9be8b36cb13261c4d3c00a5c63e8800",
+      "name": "Alphrodite",
+      "symbol": "APD",
+      "decimals": 9,
+      "description": "Alphrodite - a goddess of love will bring luck for investors on Alephium | #ALPH #APD #MEME #GEM",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/APD.png"
      }
   ]
 }
