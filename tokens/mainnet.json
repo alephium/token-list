@@ -264,14 +264,6 @@
         "decimals": 6,
         "description": "You Buy, Number Go Down. You Sell, Number Go Down",
         "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/NGD.png"
-     },
-     {
-        "id": "18ee870cfaa976627c4c6fa183ccbea869edd9db89ad4ae0ec7dbd52ac753100",
-        "name": "TROLL",
-        "symbol": "TROLL",
-        "decimals": 9,
-        "description": "Elon's fav meme on Alephium! Chief Troll Officer. Trollface vibes, community-driven fun. Follow us: https://twitter.com/troll_alph",
-        "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TROLL.png"
      }
   ]
 }
