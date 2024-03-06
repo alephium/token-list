@@ -23,15 +23,18 @@ export function checkDuplicates(tokensLike: { id: string; name: string; symbol: 
 
   for (const token of tokensLike) {
     //Ids
-    expect(ids.get(token.id)).toBeUndefined()
-    ids.set(token.id, true)
+    const idLower = token.id.toLowerCase()
+    expect(ids.get(idLower)).toBeUndefined()
+    ids.set(idLower, true)
 
     //Name
-    expect(names.get(token.name)).toBeUndefined()
-    names.set(token.name, true)
+    const nameLower = token.name.toLowerCase()
+    expect(names.get(nameLower)).toBeUndefined()
+    names.set(nameLower, true)
 
     //Symbol
-    expect(symbols.get(token.symbol)).toBeUndefined()
-    symbols.set(token.symbol, true)
+    const symbolLower = token.symbol.toLowerCase()
+    expect(symbols.get(symbolLower)).toBeUndefined()
+    symbols.set(symbolLower, true)
   }
 }
