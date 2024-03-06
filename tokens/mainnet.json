@@ -272,6 +272,14 @@
         "decimals": 9,
         "description": "Elon's fav meme on Alephium! Chief Troll Officer. Trollface vibes, community-driven fun. Follow us: https://twitter.com/troll_alph",
         "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TROLL.png"
+     },
+     {
+        "id": "11bf07230f5607f626773044414a196d0471d79ba9abc26f148b57b40d983a00",
+        "name": "Its 404ver",
+        "symbol": "TOP",
+        "decimals": 6,
+        "description": "It's over. this coin is a crazy crazy coin up only. This coin reminds me of the great SHIBA. I literally am holding on to dear life with this f ing coin",
+        "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TOP.png"
      }
   ]
 }
