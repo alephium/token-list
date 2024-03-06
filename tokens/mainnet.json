@@ -264,6 +264,14 @@
         "decimals": 6,
         "description": "You Buy, Number Go Down. You Sell, Number Go Down",
         "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/NGD.png"
+     },
+     {
+        "id": "fc0c89e96b1f548d9162d51f144fe304623d5da532466f5ab249810f373bae00",
+        "name": "TOP",
+        "symbol": "TOP",
+        "decimals": 6,
+        "description": "$TOP higher higher higher",
+        "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TOP.png"
      }
   ]
 }
