@@ -280,6 +280,14 @@
         "decimals": 6,
         "description": "It's over. this coin is a crazy crazy coin up only. This coin reminds me of the great SHIBA. I literally am holding on to dear life with this f ing coin",
         "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TOP.png"
-     }
+     },
+        {
+      "id": "bdf47283817a7be4aaaa1390006788a32ea6f4a116f4dd71a86dee891e3f4100",
+      "name": "SOCKS",
+      "symbol": "SOCKS",
+      "decimals": 0,
+      "description": "The most exclusive and elusive socks. First Socks token on Alephium. If you guess whose it is, you might get some.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SOCKS.png"
+    }
   ]
 }
