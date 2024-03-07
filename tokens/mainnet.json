@@ -280,6 +280,14 @@
         "decimals": 6,
         "description": "It's over. this coin is a crazy crazy coin up only. This coin reminds me of the great SHIBA. I literally am holding on to dear life with this f ing coin",
         "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TOP.png"
+     },
+     {
+        "id": "0beffdfa642818060ca796ff770bb42d437c93f4f5c381ef89b226ec6ae5f500",
+        "name": "Gold Castle Club",
+        "symbol": "GOLD",
+        "decimals": 9,
+        "description": "A Gold castle for ALPH holders'",
+        "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/GOLD.png"
      }
   ]
 }
