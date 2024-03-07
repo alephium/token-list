@@ -285,7 +285,7 @@
         "id": "0beffdfa642818060ca796ff770bb42d437c93f4f5c381ef89b226ec6ae5f500",
         "name": "Gold Castle Club",
         "symbol": "GOLD",
-        "decimals": 9,
+        "decimals": 0,
         "description": "A Gold castle for ALPH holders'",
         "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/GOLD.png"
      }
