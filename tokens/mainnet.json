@@ -288,6 +288,14 @@
         "decimals": 0,
         "description": "A Gold castle for ALPH holders'",
         "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/GOLD.png"
+     },
+     {
+        "id": "e87773d043032ad9a57d407766c3ae47018d56fbb0f1f2feeeb1b93f35942200",
+        "name": "PUTAN",
+        "symbol": "PUTAN",
+        "decimals": 18,
+        "description": "Da one and only meme crypto payin' respect to Vlad Putan himself. Bringin' da Putan power straight to da alephium blockchan",
+        "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/PUTAN.png"
      }
   ]
 }
