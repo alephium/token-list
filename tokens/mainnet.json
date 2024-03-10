@@ -296,6 +296,14 @@
         "decimals": 18,
         "description": "Da one and only meme crypto payin' respect to Vlad Putan himself. Bringin' da Putan power straight to da alephium blockchan",
         "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/PUTAN.png"
+     },
+     {
+        "id": "20fa2394b17d231220928632521ddaee7efef81b426212060602ef64ff821d00",
+        "name": "PEPE",
+        "symbol": "PEPE",
+        "decimals": 0,
+        "description": "PEPE loves to be on Alephium now. Respect apes!",
+        "logoURI": "https://raw.githubusercontent.com/maya2001xx/token-list/master/logos/PEPE.png"
      }
   ]
 }
