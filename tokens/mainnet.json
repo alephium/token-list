@@ -304,8 +304,14 @@
         "decimals": 8,
         "description": "Barking up crypto, swinging for moonshots, bonking FUD. Join the bonk! For the community by the community",
         "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WIFB.png"
+      },
+     {
+        "id": "6adb8983488fb726f94518c185f4a24de236c72cc2ff32889be4612e9c9d3100",
+        "name": "ALPEPE",
+        "symbol": "ALPEPE",
+        "decimals": 0,
+        "description": "$ALPEPE, PEPE on Alephium. We love apes",
+        "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPEPE.png"
       }
-
-     
   ]
 }
