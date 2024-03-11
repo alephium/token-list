@@ -297,6 +297,14 @@
         "description": "Da one and only meme crypto payin' respect to Vlad Putan himself. Bringin' da Putan power straight to da alephium blockchan",
         "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/PUTAN.png"
      },
+      {
+        "id": "f7a14d654ef98be45b57e1f45dd8419a5e8fb43c238d5941545a437a56073a00",
+        "name": "dogwifbat",
+        "symbol": "WIFB",
+        "decimals": 8,
+        "description": "Barking up crypto, swinging for moonshots, bonking FUD. Join the bonk! For the community by the community",
+        "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WIFB.png"
+      },
      {
         "id": "20fa2394b17d231220928632521ddaee7efef81b426212060602ef64ff821d00",
         "name": "PEPE",
