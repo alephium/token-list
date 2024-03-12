@@ -312,6 +312,14 @@
         "decimals": 0,
         "description": "$ALPEPE, PEPE on Alephium. We love apes",
         "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPEPE.png"
+      },
+      {
+        "id": "90c9ac3ff72b3043823fd814cd026536a745889d0b57b66e108c63165a00cb00",
+        "name": "Hunter x Hunter",
+        "symbol": "HUNTER",
+        "decimals": 9,
+        "description": "The first anime token on Alephium - 100x gem",
+        "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/HUNTER.png"
       }
   ]
 }
