@@ -320,14 +320,6 @@
         "decimals": 9,
         "description": "The first anime token on Alephium - 100x gem. Follow me on twitter: https://twitter.com/HunterX_alph and telegram: https://t.me/HunterXHunter_alph",
         "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/HUNTER.png"
-      },
-        {
-      "id": "bdf47283817a7be4aaaa1390006788a32ea6f4a116f4dd71a86dee891e3f4100",
-      "name": "SOCKS",
-      "symbol": "SOCKS",
-      "decimals": 0,
-      "description": "The most exclusive and elusive socks. First Socks token on Alephium. If you guess whose it is, you might get some.",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SOCKS.png"
-    }
+      }
   ]
 }
