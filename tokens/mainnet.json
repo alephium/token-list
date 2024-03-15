@@ -328,6 +328,14 @@
         "decimals": 0,
         "description": "The most exclusive and elusive socks. First Socks token on Alephium. If you guess whose it is, you might get some.",
         "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SOCKS.png"
+      },
+      {
+        "id": "e5c23038891ce8051317427a7a1e2ab5148412c8996ac58c7e2caf1c8e121a00",
+        "name": "LFG!",
+        "symbol": "LFG",
+        "decimals": 6,
+        "description": "Amolyus Community Coin",
+        "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/LFG.png"
       }
   ]
 }
