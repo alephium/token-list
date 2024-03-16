@@ -328,6 +328,14 @@
         "decimals": 0,
         "description": "The most exclusive and elusive socks. First Socks token on Alephium. If you guess whose it is, you might get some.",
         "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SOCKS.png"
+      },
+      {
+        "id": "457cf1d3c4592eeed0911cbaa823274115e7b30f566e473d07d38dc970373800",
+        "name": "Lasercat",
+        "symbol": "LCATS",
+        "decimals": 18,
+        "description": "Radiation-altered felines shooting lasers for good or evil? 🐱💥 Join the battle of LaserCats to see who triumphs",
+        "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/LCATS.png"
       }
   ]
 }
