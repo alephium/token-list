@@ -338,6 +338,14 @@
         "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/LCATS.png"
       },
       {
+        "id": "a292e477b18aa234a7275775d0c67c3d4427f361cbe84ba89f64737cbca51b00",
+        "name": "All Mine, Not Yours",
+        "symbol": "MINE",
+        "decimals": 0,
+        "description": "Stop looking, you can't have any, they are all MINE!",
+        "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/MINE.png"
+      },
+      {
         "id": "e5c23038891ce8051317427a7a1e2ab5148412c8996ac58c7e2caf1c8e121a00",
         "name": "LFG!",
         "symbol": "LFG",
