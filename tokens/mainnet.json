@@ -336,6 +336,14 @@
         "decimals": 18,
         "description": "Radiation-altered felines shooting lasers for good or evil? 🐱💥 Join the battle of LaserCats to see who triumphs",
         "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/LCATS.png"
+      },
+      {
+        "id": "e5c23038891ce8051317427a7a1e2ab5148412c8996ac58c7e2caf1c8e121a00",
+        "name": "LFG!",
+        "symbol": "LFG",
+        "decimals": 6,
+        "description": "Community Driven Digital Assets",
+        "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/LFG.gif"
       }
   ]
 }
