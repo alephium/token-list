@@ -26,6 +26,14 @@
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BERRY.png"
     },
     {
+      "id": "e80754811030f54ccc68d027cdd47c734ecc4c5a800383ad071881d83f510800",
+      "name": "WTD Bread Token",
+      "symbol": "BREAD",
+      "decimals": 18,
+      "description": "What The Duck Bread Token",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BREAD.png"
+    },
+    {
       "id": "1516c410b54470d667e1315ce2faa81870c76c5c7a491e3e86eeec8366495502",
       "name": "Montycoin",
       "symbol": "TAIL",
