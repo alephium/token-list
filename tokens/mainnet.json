@@ -346,6 +346,14 @@
         "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/MINE.png"
       },
       {
+        "id": "5dfc09e384aed88f9534bb30865d8028ebb3cee60593afbbbaf679c03f40d000",
+        "name": "LFG!",
+        "symbol": "LFG",
+        "decimals": 6,
+        "description": "Community Driven Digital Assets",
+        "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/LFG.png"
+      },
+      {
         "id": "f29dbb50fe511d5f44d2f67148c26a7c80ff045a82b9a8272471684880d2d600",
         "name": "hodlALPH",
         "symbol": "HALPH",
