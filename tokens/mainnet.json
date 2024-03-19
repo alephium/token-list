@@ -344,6 +344,14 @@
         "decimals": 0,
         "description": "Stop looking, you can't have any, they are all MINE!",
         "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/MINE.png"
+      },
+      {
+        "id": "5dfc09e384aed88f9534bb30865d8028ebb3cee60593afbbbaf679c03f40d000",
+        "name": "LFG!",
+        "symbol": "LFG",
+        "decimals": 6,
+        "description": "Community Driven Digital Assets",
+        "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/LFG.png"
       }
   ]
 }
