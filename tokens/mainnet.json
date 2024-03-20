@@ -368,6 +368,14 @@
       "decimals": 18,
       "description": "What The Duck Bread Token",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BREAD.png"
+    },
+    {
+      "id": "a2670056dbb723c8bcf33d46bda3ab17a6495b8c199609ead39b0aaf25e70800",
+      "name": "Retard Alephium Doggy",
+      "symbol": "ROGGY",
+      "decimals": 18,
+      "description": "A cute drooling doggy called Roggy",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ROGGY.png"
     }
   ]
 }
