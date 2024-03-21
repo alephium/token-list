@@ -376,6 +376,14 @@
       "decimals": 18,
       "description": "A cute drooling doggy called Roggy",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ROGGY.png"
+    },
+    {
+      "id": "1df2ca5985333ad434cfe4373f956f309c52fdb77d11975f0c705befab270800",
+      "name": "LAMAWIFHAT",
+      "symbol": "LAMAWIFHAT",
+      "decimals": 18,
+      "description": "LITERALLY JUST A LAMA WIF A HAT",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/LAMAWIFHAT.png"
     }
   ]
 }
