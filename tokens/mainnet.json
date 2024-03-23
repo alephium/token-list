@@ -384,6 +384,14 @@
       "decimals": 18,
       "description": "LITERALLY JUST A LAMA WIF A HAT",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/LAMAWIFHAT.png"
+    },
+    {
+      "id": "3e69ddf5982f2b9eda82153019b1362270787f5d895a4c22071ed1e47b9ffc00",
+      "name": "DIO",
+      "symbol": "Hail King DIO",
+      "decimals": 18,
+      "description": "The more sophisticated best friend of ROGGY",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DIO.png"
     }
   ]
 }
