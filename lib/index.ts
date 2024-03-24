@@ -25,13 +25,8 @@ export * from './types'
 export const mainnet = mainnetTokenList as TokenList
 export const testnet = testnetTokenList as TokenList
 
-export const ALPH: TokenInfo = {
-  id: ''.padStart(64, '0'),
-  name: 'Alephium',
-  symbol: 'ALPH',
-  decimals: 18,
-  logoURI: 'https://raw.githubusercontent.com/alephium/token-list/master/logos/alephium.png'
-}
+// eslint-disable-next-line @typescript-eslint/no-non-null-assertion
+export const ALPH: TokenInfo = mainnet.tokens.find((token) => token.symbol === 'ALPH')!
 
 export function getTokensURL(networkId: 'mainnet' | 'testnet'): string {
   return `https://raw.githubusercontent.com/alephium/token-list/master/tokens/${networkId}.json`
