@@ -29,7 +29,8 @@ export const ALPH: TokenInfo = {
   id: ''.padStart(64, '0'),
   name: 'Alephium',
   symbol: 'ALPH',
-  decimals: 18
+  decimals: 18,
+  logoURI: 'https://raw.githubusercontent.com/alephium/token-list/master/logos/alephium.png'
 }
 
 export function getTokensURL(networkId: 'mainnet' | 'testnet'): string {
