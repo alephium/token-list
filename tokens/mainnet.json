@@ -400,6 +400,14 @@
       "decimals": 18,
       "description": "The more sophisticated best friend of ROGGY",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DIO.png"
+    },
+    {
+      "id": "5476c9dd870691468fde042ca197af4039e98150313e1867b0aabe195b8f6a00",
+      "name": "Artisan",
+      "symbol": "ART",
+      "decimals": 1,
+      "description": "Rewarding NFT ownership with community-driven value",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ART.png"
     }
   ]
 }
