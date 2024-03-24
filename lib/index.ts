@@ -22,21 +22,12 @@ import { TokenInfo, TokenList } from './types'
 
 export * from './types'
 
-export const mainnetTokensMetadata = mainnetTokenList as TokenList
-export const testnetTokensMetadata = testnetTokenList as TokenList
+export const mainnet = mainnetTokenList as TokenList
+export const testnet = testnetTokenList as TokenList
 
-export default {
-  mainnet: {
-    tokens: mainnetTokensMetadata
-  },
-  testnet: {
-    tokens: testnetTokensMetadata
-  }
-}
+// eslint-disable-next-line @typescript-eslint/no-non-null-assertion
+export const ALPH: TokenInfo = mainnet.tokens.find((token) => token.symbol === 'ALPH')!
 
-export const ALPH: TokenInfo = {
-  id: ''.padStart(64, '0'),
-  name: 'Alephium',
-  symbol: 'ALPH',
-  decimals: 18
+export function getTokensURL(networkId: 'mainnet' | 'testnet'): string {
+  return `https://raw.githubusercontent.com/alephium/token-list/master/tokens/${networkId}.json`
 }

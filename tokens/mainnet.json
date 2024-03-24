@@ -2,6 +2,14 @@
   "networkId": 0,
   "tokens": [
     {
+      "id": "0000000000000000000000000000000000000000000000000000000000000000",
+      "name": "Alephium",
+      "symbol": "ALPH",
+      "decimals": 18,
+      "description": "Alephium is a scalable, decentralized, and secure blockchain platform that enables the creation of fast and secure applications.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPH.png"
+    },
+    {
       "id": "66da610efb5129c062e88e5fd65fe810f31efd1597021b2edf887a4360fa0800",
       "name": "Alf",
       "symbol": "ALF",

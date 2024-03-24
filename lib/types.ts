@@ -26,6 +26,6 @@ export interface TokenInfo {
   name: string
   symbol: string
   decimals: number
-  description?: string
-  logoURI?: string
+  description: string
+  logoURI: string
 }
