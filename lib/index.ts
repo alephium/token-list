@@ -31,3 +31,7 @@ export const ALPH: TokenInfo = {
   symbol: 'ALPH',
   decimals: 18
 }
+
+export function getTokensURL(networkId: 'mainnet' | 'testnet'): string {
+  return `https://raw.githubusercontent.com/alephium/token-list/master/tokens/${networkId}.json`
+}
