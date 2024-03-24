@@ -22,17 +22,8 @@ import { TokenInfo, TokenList } from './types'
 
 export * from './types'
 
-export const mainnetTokensMetadata = mainnetTokenList as TokenList
-export const testnetTokensMetadata = testnetTokenList as TokenList
-
-export default {
-  mainnet: {
-    tokens: mainnetTokensMetadata
-  },
-  testnet: {
-    tokens: testnetTokensMetadata
-  }
-}
+export const mainnet = mainnetTokenList as TokenList
+export const testnet = testnetTokenList as TokenList
 
 export const ALPH: TokenInfo = {
   id: ''.padStart(64, '0'),
