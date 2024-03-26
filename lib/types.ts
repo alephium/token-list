@@ -29,3 +29,5 @@ export interface TokenInfo {
   description: string
   logoURI: string
 }
+
+export type NetworkId = 'mainnet' | 'testnet'

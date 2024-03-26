@@ -18,7 +18,7 @@ along with the library. If not, see <http://www.gnu.org/licenses/>.
 
 import { FungibleTokenMetaData, hexToString, NodeProvider } from '@alephium/web3'
 
-import { ALPH } from '../../lib/index'
+import { getALPH } from '../../lib/index'
 import { TokenInfo, TokenList } from '../../lib/types'
 import mainnetJson from '../../tokens/mainnet.json'
 import testnetJson from '../../tokens/testnet.json'
@@ -81,25 +81,29 @@ describe('TokenList', function () {
     }
   })
 
+  const expectedALPH: TokenInfo = {
+    id: ''.padStart(64, '0'),
+    name: 'Alephium',
+    symbol: 'ALPH',
+    decimals: 18,
+    description:
+      'Alephium is a scalable, decentralized, and secure blockchain platform that enables the creation of fast and secure applications.',
+    logoURI: 'https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPH.png'
+  }
+
   it('should have ALPH token', () => {
-    const expected: TokenInfo = {
-      id: ''.padStart(64, '0'),
-      name: 'Alephium',
-      symbol: 'ALPH',
-      decimals: 18,
-      description:
-        'Alephium is a scalable, decentralized, and secure blockchain platform that enables the creation of fast and secure applications.',
-      logoURI: 'https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPH.png'
-    }
-    expect(ALPH).toEqual(expected)
+    expect(getALPH('testnet')).toEqual(expectedALPH)
+    expect(getALPH('mainnet')).toEqual(expectedALPH)
   })
 
   const testnetNodeProvider = new NodeProvider(testnetURL)
   testnetTokenList.tokens.forEach((token) => {
-    it(`validate testnet ${token.name}`, async () => {
-      await validateTokenMetadata(token, testnetNodeProvider)
-      await validateTokenType(token, testnetNodeProvider)
-    })
+    if (token.symbol !== 'ALPH') {
+      it(`validate testnet ${token.name}`, async () => {
+        await validateTokenMetadata(token, testnetNodeProvider)
+        await validateTokenType(token, testnetNodeProvider)
+      })
+    }
   })
 
   async function validateTokenType(token: TokenInfo, nodeProvider: NodeProvider) {
