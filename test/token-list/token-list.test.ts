@@ -18,7 +18,6 @@ along with the library. If not, see <http://www.gnu.org/licenses/>.
 
 import { FungibleTokenMetaData, hexToString, NodeProvider } from '@alephium/web3'
 
-import { ALPH } from '../../lib/index'
 import { TokenInfo, TokenList } from '../../lib/types'
 import mainnetJson from '../../tokens/mainnet.json'
 import testnetJson from '../../tokens/testnet.json'
@@ -82,7 +81,7 @@ describe('TokenList', function () {
   })
 
   it('should have ALPH token', () => {
-    const expected: TokenInfo = {
+    const expectedALPH: TokenInfo = {
       id: ''.padStart(64, '0'),
       name: 'Alephium',
       symbol: 'ALPH',
@@ -91,15 +90,20 @@ describe('TokenList', function () {
         'Alephium is a scalable, decentralized, and secure blockchain platform that enables the creation of fast and secure applications.',
       logoURI: 'https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPH.png'
     }
-    expect(ALPH).toEqual(expected)
+
+    tokenLists.forEach((tokenList) => {
+      expect(tokenList.tokens.find((token) => token.symbol === 'ALPH')).toEqual(expectedALPH)
+    })
   })
 
   const testnetNodeProvider = new NodeProvider(testnetURL)
   testnetTokenList.tokens.forEach((token) => {
-    it(`validate testnet ${token.name}`, async () => {
-      await validateTokenMetadata(token, testnetNodeProvider)
-      await validateTokenType(token, testnetNodeProvider)
-    })
+    if (token.symbol !== 'ALPH') {
+      it(`validate testnet ${token.name}`, async () => {
+        await validateTokenMetadata(token, testnetNodeProvider)
+        await validateTokenType(token, testnetNodeProvider)
+      })
+    }
   })
 
   async function validateTokenType(token: TokenInfo, nodeProvider: NodeProvider) {

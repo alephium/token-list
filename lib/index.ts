@@ -18,7 +18,7 @@ along with the library. If not, see <http://www.gnu.org/licenses/>.
 
 import mainnetTokenList from '../tokens/mainnet.json'
 import testnetTokenList from '../tokens/testnet.json'
-import { TokenInfo, TokenList } from './types'
+import { NetworkId, TokenInfo, TokenList } from './types'
 
 export * from './types'
 
@@ -28,6 +28,6 @@ export const testnet = testnetTokenList as TokenList
 // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
 export const ALPH: TokenInfo = mainnet.tokens.find((token) => token.symbol === 'ALPH')!
 
-export function getTokensURL(networkId: 'mainnet' | 'testnet'): string {
+export function getTokensURL(networkId: NetworkId): string {
   return `https://raw.githubusercontent.com/alephium/token-list/master/tokens/${networkId}.json`
 }

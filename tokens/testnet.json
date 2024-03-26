@@ -2,6 +2,14 @@
   "networkId": 1,
   "tokens": [
     {
+      "id": "0000000000000000000000000000000000000000000000000000000000000000",
+      "name": "Alephium",
+      "symbol": "ALPH",
+      "decimals": 18,
+      "description": "Alephium is a scalable, decentralized, and secure blockchain platform that enables the creation of fast and secure applications.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPH.png"
+    },
+    {
       "id": "bed35ce97166170f91a8cdb35948b8696aa67dbd573ee0c5cc572bb8c44ddb01",
       "name": "Test BTC",
       "symbol": "TBTC",
