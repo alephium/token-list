@@ -2,13 +2,22 @@
   "networkId": 2,
   "tokens": [
     {
+      "id": "0000000000000000000000000000000000000000000000000000000000000000",
+      "name": "Alephium",
+      "symbol": "ALPH",
+      "decimals": 18,
+      "description": "Alephium is a scalable, decentralized, and secure blockchain platform that enables the creation of fast and secure applications.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPH.png"
+    },
+    {
       "id": "8342e4f9a27d1f9c31eb85bde36a4b39332648fef67dd43a0d5dc2771de0abc5",
       "name": "Shiny Token",
       "symbol": "SHNY",
       "decimals": 0,
       "description": "Sniny Token (SHNY) is a decentralized token for the Alephium community.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SHNY.png"
-    },{
+    },
+    {
       "id": "141af4f9a27d1f9c31eb85bde36a4b39332648fef67dd43a0d5dc2771de0a381",
       "name": "Steak Token",
       "symbol": "STK",
