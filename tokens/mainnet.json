@@ -408,13 +408,13 @@
       "decimals": 1,
       "description": "Rewarding NFT ownership with community-driven value",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ART.png"
-    }
+    },
     {
       "id": "dce0417a662764e876e78142a3c72b8e04fb18b5a23ce26030a6c17f538c7600",
       "name": "Juralph",
       "symbol": "JURA",
       "decimals": 0,
-      "description": "Juralph is the unofficial token of 'République et canton du Jura'. In memory of January 1, 1979, there are 1979 non-divisible tokens mint by 'Blockchain Jura'",
+      "description": "Juralph is the unofficial token of 'République et canton du Jura'. In memory of January 1, 1979, there are 1979 non-divisible tokens minted by 'Blockchain Jura'",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/JURA.png"
     }
   ]
