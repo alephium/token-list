@@ -416,6 +416,14 @@
       "decimals": 0,
       "description": "Juralph is the unofficial token of 'République et canton du Jura'. In memory of January 1, 1979, there are 1979 non-divisible tokens minted by 'Blockchain Jura'",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/JURA.png"
+    },
+    {
+      "id": "bdde84659bc631c41976f796a3a166e108301b2dcbbd16acda10dac687c41e00",
+      "name": "ALPHLFG",
+      "symbol": "ALPHLFG",
+      "decimals": 18,
+      "description": "Liquidty Pool Token for ALPH/LFG pair on Ayin DEX",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPHLFG.png"
     }
   ]
 }
