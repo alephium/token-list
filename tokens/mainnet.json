@@ -424,6 +424,14 @@
       "decimals": 18,
       "description": "Liquidty Pool Token for ALPH/LFG pair on Ayin DEX",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPHLFG.png"
+    },
+    {
+      "id": "d87f077547df8783598e9e35d7bb22c59adc37c5fee288f2a103b8d14c1d2000",
+      "name": "Shio",
+      "symbol": "SHI",
+      "decimals": 9,
+      "description": "Shio Meme token created by noodz.io! Send it! 🚀",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SHI.png"
     }
   ]
 }
