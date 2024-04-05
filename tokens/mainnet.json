@@ -432,6 +432,14 @@
       "decimals": 9,
       "description": "Shio Meme token created by noodz.io! Send it! 🚀",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SHI.png"
-    }
+    },
+    {
+      "id": "b71a50e4e27a3e0465846d33ae79d0e5f66ee721fd88934228353fd59a8aac00",
+      "name": "Pig Fish",
+      "symbol": "PISH",
+      "decimals": 5,
+      "description": "Just your typical Pig Fish on the ALPH chain. what did you expect?",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/PISH.png"
+    } 
   ]
 }
