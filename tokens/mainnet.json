@@ -440,6 +440,14 @@
       "decimals": 5,
       "description": "Just your typical Pig Fish on the ALPH chain. what did you expect?",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/PISH.png"
+    },
+    {
+      "id": "b011a27f3f23dc64b56d0c001c4f981205f8448b48600326fd94c6bd9d5b1100",
+      "name": "ALPH GOLD liquidity token on Ayin",
+      "symbol": "ALPHGOLD",
+      "decimals": 18,
+      "description": "Liquidity token for the ALPH/GOLD pair on Ayin",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPHGOLD.gif"
     } 
   ]
 }
