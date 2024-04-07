@@ -443,7 +443,7 @@
     },
     {
       "id": "b011a27f3f23dc64b56d0c001c4f981205f8448b48600326fd94c6bd9d5b1100",
-      "name": "ALPHGOLD Ayin liquidity",
+      "name": "ALPHGOLD",
       "symbol": "ALPHGOLD",
       "decimals": 18,
       "description": "Token for liquidity providers on Ayin for the ALPH/GOLD pair",
