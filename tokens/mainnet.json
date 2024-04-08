@@ -448,6 +448,15 @@
       "decimals": 18,
       "description": "Token for liquidity providers on Ayin for the ALPH/GOLD pair",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPHGOLD.png"
+    },
+    {
+      "id": "68527f951fe706770409910e004a2976d02009e1da940fc85b2c4e34c3e5a800",
+      "name": "Alephium Rocks",
+      "symbol": "ROCK",
+      "decimals": 5,
+      "description": "100% onchain Alephium Rocks",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ROCK.png"
     } 
   ]
-}
+} 
+
