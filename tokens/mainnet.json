@@ -456,7 +456,16 @@
       "decimals": 5,
       "description": "100% onchain Alephium Rocks",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ROCK.png"
+    },
+    {
+      "id": "e4729194709bafb3b79995a17c6f7f5c0794a42b2b38bb20d00c65e396a6b400",
+      "name": "Rocks",
+      "symbol": "ROCKS",
+      "decimals": 5,
+      "description": "100% onchain Alephium Rocks",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ROCKS.png"
     } 
   ]
-} 
+}  
+ 
 
