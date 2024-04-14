@@ -456,6 +456,14 @@
       "decimals": 5,
       "description": "100% onchain Alephium Rocks",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ROCK.png"
+    },
+    {
+      "id": "1f7d2eceac37f6e61e3c373f9b77c340896793d31995c4c20cc5e5c4f6319100",
+      "name": "Seven Club",
+      "symbol": "777",
+      "decimals": 0,
+      "description": "Seven Club represents a unique opportunity and unrivalled exclusivity, designed for all those who aspire to success on a high-level blockchain",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/777.png"
     } 
   ]
 } 
