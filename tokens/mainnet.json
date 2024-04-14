@@ -464,6 +464,14 @@
       "decimals": 0,
       "description": "Seven Club represents a unique opportunity and unrivalled exclusivity, designed for all those who aspire to success on a high-level blockchain",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/777.png"
+    },
+    {
+      "id": "bb440a66dcffdb75862b6ad6df14d659aa6d1ba8490f6282708aa44ebc80a100",
+      "name": "AlphPad",
+      "symbol": "APAD",
+      "decimals": 18,
+      "description": "AlphPad The Premier Launchpad on Alephium - Elevating Projects to New Heights!",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/APAD.png"
     } 
   ]
 } 
