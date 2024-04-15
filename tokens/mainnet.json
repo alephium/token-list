@@ -472,7 +472,15 @@
       "decimals": 18,
       "description": "AlphPad The Premier Launchpad on Alephium - Elevating Projects to New Heights!",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/APAD.png"
-    } 
+    },
+     "id": "9a7cde102e0347a7079b44f923c8a6fb9a1e07f89c1eb5b0fcd54b678ac46100",
+      "name": "SPONGOBOBOBAMA420COINTOKENINUVERSE",
+      "symbol": "SPOBAMA",
+      "decimals": 3,
+      "description": "Worlds first spongobobobama420 hybrid technology cointokeninuverse, the community driven meme project!",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SPOBAMA.png"
+    }
+
   ]
 } 
 
