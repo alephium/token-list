@@ -480,6 +480,14 @@
       "decimals": 3,
       "description": "Worlds first spongobobobama420 hybrid technology cointokeninuverse, the community driven meme project!",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SPOBAMA.png"
+    },
+    {
+     "id": "9930e01d775c3b6f94f2d6e47315a0e18929e130370bd2f249cd4581b3ae5200",
+      "name": "Alephium Girls",
+      "symbol": "AGIRLS",
+      "decimals": 7,
+      "description": "We bring one simple promise to Alephium. Waifus for every HODLER, every Miner, every node operator! May God bless the harem of Chengis Wang!",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/AGIRLS.png"
     }
   ]
 } 
