@@ -461,7 +461,7 @@
       "id": "bb29d3ef7ed2709741e29a76a1a201e9fdb112c2deafe7504853789117c86b00",
       "name": "Seven Club",
       "symbol": "777",
-      "decimals": 0,
+      "decimals": 6,
       "description": "Seven Club represents a unique opportunity and unrivalled exclusivity, designed for all those who aspire to success on a high-level blockchain",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/777.png"
     },
