@@ -488,7 +488,17 @@
       "decimals": 7,
       "description": "We bring one simple promise to Alephium. Waifus for every HODLER, every Miner, every node operator! May God bless the harem of Chengis Wang!",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/AGIRLS.png"
-    }
+    },
+    {
+      "id": "133a82344bfca617a90eccb646fc89d50243c0639053591302d3a9b04468f500",
+      "name": "BEARZ WIF GUNZ 180042069",
+      "symbol": "BEARZWIFGUN180042069",
+      "decimals": 1,
+      "description": "BEARZ WITH GUNZ N SHIT CALL 1-800-420-69 THE MOST UNDERGROUND P2P UTXO BASED MEMECOIN ON ALEPHIUM",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BEARZWIFGUNZ180042069.png"
+    },
+
+      
   ]
 } 
 
