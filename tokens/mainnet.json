@@ -520,6 +520,14 @@
       "decimals": 1,
       "description": "This token may or may not be the biggest meme that you should or shouldn't buy.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DBM.png"
+    },
+    {
+      "id": "ec3f74643fcf9439d267c48e5b4a1c793cc0ec9619fa7528a2644b5af949c500",
+      "name": "Grumpy Cat",
+      "symbol": "GRUMPY",
+      "decimals": 10,
+      "description": "",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/GRUMPY.png"
     }
 
       
