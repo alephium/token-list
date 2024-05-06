@@ -512,6 +512,14 @@
       "decimals": 6,
       "description": "INVESTING WITH THE BEARZ DURING A FULL ON BULL MARKET, WAHT ARE YOU.. STOOOPID? JOIN DA BULLZ THE CUTEST MEMECOIN ON ALEPHIUM",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BULLZWIFTULIPZ133742069.png"
+    },
+    {
+      "id": "609278ae23ebe63619a57ada9d74b2126b3cfc83965426a66de0d7d59f9b1600",
+      "name": "DONT BUY MEME",
+      "symbol": "DBM",
+      "decimals": 1,
+      "description": "This token may or may not be the biggest meme that you should or shouldn't buy.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DBM.png"
     }
 
       
