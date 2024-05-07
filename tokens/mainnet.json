@@ -528,6 +528,14 @@
       "decimals": 10,
       "description": "",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/GRUMPY.png"
+    },
+     {
+      "id": "a2468923a5d69b152ddfc87dea4e6d5b09eb4aae239e47ac2bc6ad4807811700",
+      "name": "Happy Dog",
+      "symbol": "HAPPY",
+      "decimals": 10,
+      "description": "woff:DD",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/HAPPY.png"
     }
 
       
