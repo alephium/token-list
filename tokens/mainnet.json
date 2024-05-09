@@ -539,8 +539,8 @@
     },
     {
       "id": "44d9ff4d081c2f498e82d24425b71618738f9d69dd90def0598a3488ccde4a00",
-      "name": "TOOT",
-      "symbol": "TOOT THE ALPHTASTIC ELEPHANT",
+      "name": "TOOT THE ALPHTASTIC ELEPHANT",
+      "symbol": "TOOT",
       "decimals": 1,
       "description": "TOOOT TOOOT THE TOOTMENT IS HERE",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TOOT.png"
