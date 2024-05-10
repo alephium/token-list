@@ -544,6 +544,14 @@
       "decimals": 1,
       "description": "TOOOT TOOOT THE TOOTMENT IS HERE",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TOOT.png"
+    },
+    {
+      "id": "34b49f0dd151f8ef1e7f0605ca106d86621bf4f4f6c8855214f8db53cfc7c100",
+      "name": "Alegator",
+      "symbol": "GATOR",
+      "decimals": 9,
+      "description": "Alegator represents more than just a meme coin; it is a meme coin incubated from the Alephium spirit. Join us on Twitter: https://twitter.com/Alegator_Alph, Telegram: https://t.me/Alegator_Alph",
+      "logoURI": "https://ipfs.io/ipfs/QmR3sq3p7WzKMNyJckJHCtxB1xXgpBoe4XzLJR1rHCjumw"
     }
 
       
