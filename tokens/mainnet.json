@@ -552,6 +552,14 @@
       "decimals": 9,
       "description": "Alegator represents more than just a meme coin; it is a meme coin incubated from the Alephium spirit. Join us on Twitter: https://twitter.com/Alegator_Alph, Telegram: https://t.me/Alegator_Alph",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/GATOR.png"
+    },
+    {
+      "id": "12d65470da05a199256b35e1d5901dd31ec31aa3dd208077271c1dda7a583a00",
+      "name": "GIGACHENG",
+      "symbol": "GIGA",
+      "decimals": 0,
+      "description": "The $GIGA meme token has been meticulously engineered to propel the Alephium community to unprecedented levels of success and innovation. $GIGA is poised to ignite a surge towards uncharted heights of prosperity and decentralized excellence. Join us on Twitter: https://twitter.com/gigacheng, Telegram: https://t.me/gigacheng",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/GIGA.png"
     }
 
       
