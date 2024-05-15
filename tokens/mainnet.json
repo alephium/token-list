@@ -568,14 +568,6 @@
       "decimals": 18,
       "description": "Meee $ZMBI AlphZombie meme token, meeeh want be half-human toOo uh ! Twitter meeeh : https://twitter.com/AlphZombie",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ZMBI.png"
-    },
-    {
-      "id": "a1c0ce496b71b76863dd0c19b6199a5abe54d797e41a9561966eb679e14ef500",
-      "name": "ALPHPOST",
-      "symbol": "POST",
-      "decimals": 0,
-      "description": "First ever social network and task based marketplace on alephium ",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/POST.png"
     }
   ]
 } 
