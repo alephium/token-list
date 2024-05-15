@@ -560,10 +560,15 @@
       "decimals": 0,
       "description": "The $GIGA meme token has been meticulously engineered to propel the Alephium community to unprecedented levels of success and innovation. $GIGA is poised to ignite a surge towards uncharted heights of prosperity and decentralized excellence. Join us on Twitter: https://twitter.com/gigacheng, Telegram: https://t.me/gigacheng",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/GIGA.png"
+    },
+    {
+      "id": "bc2f9b3af9db12db1035b7683e3d76c319e22006de6c0f6a15e0c04ff183fd00",
+      "name": "AlphZombie",
+      "symbol": "ZMBI",
+      "decimals": 18,
+      "description": "Meee $ZMBI AlphZombie meme token, meeeh want be half-human toOo uh ! Twitter meeeh : https://twitter.com/AlphZombie",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ZMBI.png"
     }
-
-      
-    
   ]
 } 
 
