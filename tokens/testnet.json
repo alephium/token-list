@@ -80,6 +80,14 @@
       "decimals": 4,
       "description": "Your passive-aggressive backyard squirrel",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SQRL.png"
+    },
+    {
+      "id": "bc2f9b3af9db12db1035b7683e3d76c319e22006de6c0f6a15e0c04ff183fd00",
+      "name": "AlphZombie",
+      "symbol": "ZMBI",
+      "decimals": 18,
+      "description": "Meee $ZMBI AlphZombie meme token, meeeh want be half-human toOo uh ! Twitter meeeh : https://twitter.com/AlphZombie",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ZMBI.png"
     }
   ]
 }
