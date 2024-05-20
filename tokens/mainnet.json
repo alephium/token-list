@@ -554,10 +554,10 @@
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/GATOR.png"
     },
     {
-      "id": "12d65470da05a199256b35e1d5901dd31ec31aa3dd208077271c1dda7a583a00",
-      "name": "GIGACHENG",
+      "id": "97082198354e3652a2efe4346a0d3f5d786a0cf5331146ecac70a5ac3c208900",
+      "name": "GIGA",
       "symbol": "GIGA",
-      "decimals": 0,
+      "decimals": 2,
       "description": "The $GIGA meme token has been meticulously engineered to propel the Alephium community to unprecedented levels of success and innovation. $GIGA is poised to ignite a surge towards uncharted heights of prosperity and decentralized excellence. Join us on Twitter: https://twitter.com/gigacheng, Telegram: https://t.me/gigacheng",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/GIGA.png"
     },
@@ -568,6 +568,14 @@
       "decimals": 18,
       "description": "Meee $ZMBI AlphZombie meme token, meeeh want be half-human toOo uh ! Twitter meeeh : https://twitter.com/AlphZombie",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ZMBI.png"
+    },
+    {
+      "id": "b685d42c4461ad587626085d9233831a79aea3317116f0d7b30b04b32c65e200",
+      "name": "GIGACHENG",
+      "symbol": "CHENG",
+      "decimals": 0,
+      "description": "The $CHENG meme token has been meticulously engineered to propel the Alephium community to unprecedented levels of success and decentralized excellence. Join us on Twitter: https://twitter.com/gigacheng, Telegram: https://t.me/gigacheng",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/CHENG.png"
     }
   ]
 } 
