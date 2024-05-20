@@ -554,6 +554,14 @@
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/GATOR.png"
     },
     {
+      "id": "97082198354e3652a2efe4346a0d3f5d786a0cf5331146ecac70a5ac3c208900",
+      "name": "GIGA",
+      "symbol": "GIGA",
+      "decimals": 2,
+      "description": "The $GIGA meme token has been meticulously engineered to propel the Alephium community to unprecedented levels of success and innovation. $GIGA is poised to ignite a surge towards uncharted heights of prosperity and decentralized excellence. Join us on Twitter: https://twitter.com/gigacheng, Telegram: https://t.me/gigacheng",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/GIGA.png"
+    },
+    {
       "id": "bc2f9b3af9db12db1035b7683e3d76c319e22006de6c0f6a15e0c04ff183fd00",
       "name": "AlphZombie",
       "symbol": "ZMBI",
