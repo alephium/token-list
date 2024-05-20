@@ -576,6 +576,14 @@
       "decimals": 0,
       "description": "The $CHENG meme token has been meticulously engineered to propel the Alephium community to unprecedented levels of success and decentralized excellence. Join us on Twitter: https://twitter.com/gigacheng, Telegram: https://t.me/gigacheng",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/CHENG.png"
+    },
+    {
+      "id": "dd1b44a7e6879318418f8b238c494606981b054c8d3e44f037b76f2395e04e00",
+      "name": "LEMUR",
+      "symbol": "LEMUR",
+      "decimals": 3,
+      "description": "The unbeatable LEMUR joins alephium, check our X https://x.com/LEMURalph and watch our veteran devs cook something never before seen on alephium. Partly memes, mostly utility.. Too Daa Moon!",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/LEMUR.png"
     }
   ]
 } 
