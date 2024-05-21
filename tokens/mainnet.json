@@ -584,6 +584,22 @@
       "decimals": 3,
       "description": "The unbeatable LEMUR joins alephium, check our X https://x.com/LEMURalph and watch our veteran devs cook something never before seen on alephium. Partly memes, mostly utility.. Too Daa Moon!",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/LEMUR.png"
+    },
+    {
+      "id": "b0417ab164526a00b8ddb66afe5b76041cd4987f825e5b51459476fd01f60700",
+      "name": "Wrapped OG Alf",
+      "symbol": "WALF",
+      "decimals": 4,
+      "description": "A wrapped version of the first token launched on Alephium. OG Alf.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALF.png"
+    },
+    {
+      "id": "c0c0af7a481e3e50c50e418bf8ff6923dc4d878ac3744474e8c708a8adccfb00",
+      "name": "Alf",
+      "symbol": "ALF",
+      "decimals": 0,
+      "description": "Alf, first token deployed on the mainnet. In OG Alf we Trust.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALF.png"
     }
   ]
 } 
