@@ -586,10 +586,10 @@
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/LEMUR.png"
     },
     {
-      "id": "b0417ab164526a00b8ddb66afe5b76041cd4987f825e5b51459476fd01f60700",
+      "id": "e8b7cc961cb7689649234d9e7890e134c5a6619759ea0212d6457b06cbed9c00",
       "name": "Wrapped OG Alf",
       "symbol": "WALF",
-      "decimals": 4,
+      "decimals": 18,
       "description": "A wrapped version of the first token launched on Alephium. OG Alf.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WALF.png"
     }
