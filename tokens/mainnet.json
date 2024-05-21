@@ -592,14 +592,6 @@
       "decimals": 4,
       "description": "A wrapped version of the first token launched on Alephium. OG Alf.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WALF.png"
-    },
-    {
-      "id": "c0c0af7a481e3e50c50e418bf8ff6923dc4d878ac3744474e8c708a8adccfb00",
-      "name": "Alf",
-      "symbol": "ALF",
-      "decimals": 0,
-      "description": "Alf, first token deployed on the mainnet. In OG Alf we Trust.",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALF.png"
     }
   ]
 } 
