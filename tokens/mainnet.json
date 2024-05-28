@@ -570,6 +570,14 @@
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ZMBI.png"
     },
     {
+      "id": "14f9b8fc93f5c4c4d83a53d95870479bd5943ee6f0a57388b0001e80b499ec00",
+      "name": "GIGACHENG",
+      "symbol": "CHENG",
+      "decimals": 6,
+      "description": "The $CHENG meme token has been meticulously engineered to propel the Alephium community to unprecedented levels of success and decentralized excellence. Join us on Twitter: https://twitter.com/gigacheng, Telegram: https://t.me/gigacheng",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/CHENG.png"
+    },
+    {
       "id": "dd1b44a7e6879318418f8b238c494606981b054c8d3e44f037b76f2395e04e00",
       "name": "LEMUR",
       "symbol": "LEMUR",
