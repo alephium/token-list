@@ -592,11 +592,14 @@
       "decimals": 18,
       "description": "A wrapped version of the first token launched on Alephium. OG Alf.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WALF.png"
+    },
+    {
+      "id": "ad5f393479088d8669874f991d5f52ffaf9c946d9703152eccc1cf70efc37200",
+      "name": "ALPHAGA",
+      "symbol": "ALPHAGA",
+      "decimals": 18,
+      "description": "Token of the Alphaga Marketplace ecosystem",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPHAGA.png"
     }
   ]
-} 
-
-      
-    
-  
-
+}
