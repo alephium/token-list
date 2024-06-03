@@ -600,6 +600,14 @@
       "decimals": 18,
       "description": "Token of the Alphaga Marketplace ecosystem",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPHAGA.png"
+    },
+    {
+      "id": "fc6601c50e9f2e9bf957967f9ae05850e90eb82d44770b4003f9dfd30e2a1d00",
+      "name": "TEST",
+      "symbol": "TEST",
+      "decimals": 18,
+      "description": "TEST",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TEST.png"
     }
   ]
 }
