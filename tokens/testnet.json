@@ -88,6 +88,14 @@
       "decimals": 6,
       "description": "Gee Arc Gee",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/GAG.png"
+    },
+    {
+      "id": "1441e27ae0fa5217ad8c75fc20e6311247c159b12949d79e461e98bd02ca8e00",
+      "name": "XDF",
+      "symbol": "XDF",
+      "decimals": 6,
+      "description": "Token Description",
+      "logoURI": "https://raw.githubusercontent.com/AdamCooke00/token-list/master/logos/XDF.png"
     }
   ]
 }
