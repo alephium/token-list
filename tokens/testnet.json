@@ -80,6 +80,14 @@
       "decimals": 4,
       "description": "Your passive-aggressive backyard squirrel",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SQRL.png"
+    },
+    {
+      "id": "649fcbc20e2dbbc42b55c8415b372c6bea96e7d0984698d045a1fd11f6f11f00",
+      "name": "GAG",
+      "symbol": "GAG",
+      "decimals": 6,
+      "description": "Gee Arc Gee",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/GAG.png"
     }
   ]
 }
