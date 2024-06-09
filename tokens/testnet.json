@@ -96,6 +96,14 @@
       "decimals": 6,
       "description": "Token Description",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/XDF.png"
+    },
+    {
+      "id": "43c18bb5049377028a2f3b1cd0ab980c25cf45603ab8ac7451a6c3e25c301700",
+      "name": "GGD",
+      "symbol": "GGD",
+      "decimals": 6,
+      "description": "Token Description",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/GGD.png"
     }
   ]
 }
