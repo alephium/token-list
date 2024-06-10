@@ -104,6 +104,14 @@
       "decimals": 6,
       "description": "Token Description",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/GGD.png"
+    },
+    {
+      "id": "03f2a63cef2530ecbc637da7f6dbf99fee493772c64ef19179349a6db4f67e00",
+      "name": "FOX",
+      "symbol": "FOX",
+      "decimals": 6,
+      "description": "Token Description",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/FOX.png"
     }
   ]
 }
