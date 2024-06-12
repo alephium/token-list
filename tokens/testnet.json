@@ -112,6 +112,14 @@
       "decimals": 6,
       "description": "Token Description",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/FOX.png"
+    },
+    {
+      "id": "54e825faa9e6d9d393b1c4fddd6d2a330b76e9ea630738a409cf07ccf7af3300",
+      "name": "KOBE",
+      "symbol": "KOBE",
+      "decimals": 6,
+      "description": "Token Description",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/KOBE.png"
     }
   ]
 }
