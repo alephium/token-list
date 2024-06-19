@@ -608,6 +608,14 @@
       "decimals": 18,
       "description": "TEST",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TEST.png"
+    },
+    {
+      "id": "edcd9b5c59f23d545faa6d5e91d196098f4d0a14146ace422a8b367ef3b34000",
+      "name": "ANS",
+      "symbol": "ANS",
+      "decimals": 18,
+      "description": "The token of the Alephium Name Service.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ANS.png"
     }
   ]
 }

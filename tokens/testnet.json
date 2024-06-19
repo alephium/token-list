@@ -120,6 +120,14 @@
       "decimals": 6,
       "description": "Token Description",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/KOBE.png"
+    },
+    {
+      "id": "7140fef3f630aef6effc6aa03d879cb549718636cfb83718097da887a72dae00",
+      "name": "ANS",
+      "symbol": "ANS",
+      "decimals": 18,
+      "description": "The token of the Alephium Name Service.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ANS.png"
     }
   ]
 }
