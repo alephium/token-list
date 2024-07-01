@@ -616,6 +616,14 @@
       "decimals": 18,
       "description": "The token of the Alephium Name Service.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ANS.png"
+    },
+    {
+      "id": "6b894505030718e45cdf7c59be1f8c6167542e43522e95303871e8280037b000",
+      "name": "TRUMP 2024",
+      "symbol": "TRUMP",
+      "decimals": 10,
+      "description": "Winning in 2024",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TRUMP.png"
     }
   ]
 }
