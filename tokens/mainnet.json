@@ -640,6 +640,14 @@
       "decimals": 4,
       "description": "TKCOIN, pour le fun, la bière et la communauté",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TKCOIN.png"
+    },
+    {
+      "id": "7236e1b5ddbf8c56a37e02bb282913996c246a14193a57237cfd9fcf1eab5000",
+      "name": "UwU",
+      "symbol": "UWU",
+      "decimals": 6,
+      "description": "Ayaya",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/uwu.png"
     }
   ]
 }
