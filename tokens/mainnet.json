@@ -632,6 +632,14 @@
       "decimals": 4,
       "description": "Pippa la Pip",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/PIPPA.png"
+    },
+    {
+      "id": "33f62fbeebd621996860fe35504c8958f24060040ee7a02c1be9cb62154adf00",
+      "name": "TKCOIN",
+      "symbol": "TKCOIN",
+      "decimals": 4,
+      "description": "TKCOIN, pour le fun, la bière et la communauté",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TKCOIN.png"
     }
   ]
 }
