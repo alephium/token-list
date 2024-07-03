@@ -624,6 +624,14 @@
       "decimals": 10,
       "description": "Winning",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TRUMP.png"
+    },
+    {
+      "id": "84e7a6754ea11002b1b06e99819699b2342f4d48f91eee98165c76a49d397400",
+      "name": "Pippa Coin",
+      "symbol": "PIPPA",
+      "decimals": 4,
+      "description": "Pippa la Pip",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/PIPPA.png"
     }
   ]
 }
