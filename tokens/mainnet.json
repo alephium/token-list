@@ -648,6 +648,14 @@
       "decimals": 6,
       "description": "Ayaya! Launching first on  CandySwap - https://candyswap.gg/token/UWU",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/UWU.png"
+    },
+    {
+      "id": "2a7c1a01644e5119c5e7aaa42690476eb971f299d99e39b885a828e5994da300",
+      "name": "Bongo Cat",
+      "symbol": "BONG",
+      "decimals": 10,
+      "description": "Bongo Cat! Launching first on  CandySwap - https://candyswap.gg/token/BONG",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BONG.png"
     }
   ]
 }
