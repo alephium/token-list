@@ -656,6 +656,14 @@
       "decimals": 10,
       "description": "Bongo Cat! Launching first on  CandySwap - https://candyswap.gg/token/BONG",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BONG.png"
+    },
+    {
+      "id": "6678b5c8125b9b7019a4d39d0077ad7f6304cbad86ddc6c59b906de4b1267100",
+      "name": "DragonCoin",
+      "symbol": "DRGN",
+      "decimals": 3,
+      "description": "Alephium Dragons! Trade on: https://candyswap.gg/token/DRGN",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DRGN.png"
     }
   ]
 }
