@@ -677,7 +677,7 @@
       "id": "9365b3c817c2c287d5a78763af9620c7d37d496cb6d556790fddf5ab9d2e6c00",
       "name": "ALPH TEKKI",
       "symbol": "TEKKI",
-      "decimals": 8,
+      "decimals": 1,
       "description": "Meme Token in Alephium live in CandySwap - https://candyswap.gg/token/TEKKI",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TEKKI.png"
     }
