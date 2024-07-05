@@ -664,6 +664,14 @@
       "decimals": 3,
       "description": "Alephium Dragons! Trade on: https://candyswap.gg/token/DRGN",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DRGN.png"
+    },
+    {
+      "id": "7430cebfc525c36b30637830696c1141f02963c06ddf010a1a33134ced2e8b00",
+      "name": "Crawly The Gnome",
+      "symbol": "CRAWLY",
+      "decimals": 8,
+      "description": "Crawly is a green wizard gnome with a net. He enjoys catching things.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/CRAWLY.png"
     }
   ]
 }
