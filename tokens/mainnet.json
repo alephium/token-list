@@ -688,6 +688,14 @@
       "decimals": 2,
       "description": "« When something is important enough, you do it even if the odds are not in your favor »",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ELON.png"
+    },
+    {
+      "id": "162f3606cc6bde743f10d6586197f20e89c1dd9a212a01479cc29e98e0a31d00",
+      "name": "JEET",
+      "symbol": "JEET",
+      "decimals": 7,
+      "description": "Wen $jeet on $alph 😂",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/Jeet.png"
     }
   ]
 }
