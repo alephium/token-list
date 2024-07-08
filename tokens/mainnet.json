@@ -682,20 +682,20 @@
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TEKKI.png"
     },
     {
-      "id": "162f3606cc6bde743f10d6586197f20e89c1dd9a212a01479cc29e98e0a31d00",
-      "name": "JEET",
-      "symbol": "JEET",
-      "decimals": 10,
-      "description": "Wen $JEET on $ALPH 😂",
-      "logoURI": "https://github.com/Delta0x33/token-list/blob/59a4f6ee80aac4e9206f2a685b2199be63832b25/logos/Jeet.png"
-    }
-    {
       "id": "89e424f5b43fe72246001484423f6b06379be4eefed8b42cc380e1dc6ec0c100",
       "name": "ELON",
       "symbol": "ELON",
       "decimals": 2,
       "description": "« When something is important enough, you do it even if the odds are not in your favor »",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ELON.png"
+    },
+    {
+      "id": "162f3606cc6bde743f10d6586197f20e89c1dd9a212a01479cc29e98e0a31d00",
+      "name": "JEET",
+      "symbol": "JEET",
+      "decimals": 10,
+      "description": "Wen $JEET on $ALPH 😂",
+      "logoURI": "https://github.com/Delta0x33/token-list/blob/59a4f6ee80aac4e9206f2a685b2199be63832b25/logos/Jeet.png"
     }
   ]
 }
