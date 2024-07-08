@@ -704,6 +704,14 @@
       "decimals": 10,
       "description": "Why jeet when you can build?",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/JEET.png"
+    },
+    {
+      "id": "99ffbde485e4e594667a0843d264471e6a4630339c8396608ef1032dc8b04000",
+      "name": "SHIBA",
+      "symbol": "SHIBBO",
+      "decimals": 18,
+      "description": "SHIBA SHIBBO coin",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SHIBBO.png"
     }
   ]
 }
