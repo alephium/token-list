@@ -688,6 +688,14 @@
       "decimals": 2,
       "description": "« When something is important enough, you do it even if the odds are not in your favor »",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ELON.png"
+    },
+    {
+      "id": "80b0270f1edce67afd5fc1b42d370308d77011165b8c05338b0bb990d685d500",
+      "name": "BETA",
+      "symbol": "BETA",
+      "decimals": 8,
+      "description": "Alephium Community Token",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BETA.png"
     }
   ]
 }
