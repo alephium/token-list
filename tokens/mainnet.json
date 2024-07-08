@@ -696,6 +696,14 @@
       "decimals": 8,
       "description": "Alephium Community Token",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BETA.png"
+    },
+    {
+      "id": "162f3606cc6bde743f10d6586197f20e89c1dd9a212a01479cc29e98e0a31d00",
+      "name": "JEET",
+      "symbol": "JEET",
+      "decimals": 10,
+      "description": "Why jeet when you can build?",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BETA.png"
     }
   ]
 }
