@@ -704,6 +704,14 @@
       "decimals": 10,
       "description": "Why jeet when you can build?",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/JEET.png"
+    },
+    {
+      "id": "f590df65b35f52958209331c317ece5de8b2d1f946736dc1764dcab776044200",
+      "name": "Candy Crash",
+      "symbol": "CC",
+      "decimals": 8,
+      "description": "A celebratory meme for CANDYSWAP SEASON 1. Earn CANDY tokens while trading any token on CANDYSWAP platform",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/CC.png"
     }
   ]
 }
