@@ -712,6 +712,14 @@
       "decimals": 6,
       "description": "A celebratory meme for CANDYSWAP SEASON 1. Earn CANDY tokens while trading any token on CANDYSWAP platform",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/CC.png"
+    },
+    {
+      "id": "395884e83af097c658ae5561f98697028f5f99f6cc15036bbd245b8a173c8100",
+      "name": "SWAPA",
+      "symbol": "SWAPA veDex",
+      "decimals": 8,
+      "description": "Swapa is the first ve(3,3) decentralized exchange on the Alephium network that uses a specific tokenomics model to incentivize liquidity providers and deepen projects' liquidity while rewarding and fostering a strong community governance system",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SWAPA.png"
     }
   ]
 }
