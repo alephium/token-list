@@ -672,6 +672,46 @@
       "decimals": 8,
       "description": "Crawly is a green wizard gnome with a net. He enjoys catching things.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/CRAWLY.png"
+    },
+    {
+      "id": "9365b3c817c2c287d5a78763af9620c7d37d496cb6d556790fddf5ab9d2e6c00",
+      "name": "ALPH TEKKI",
+      "symbol": "TEKKI",
+      "decimals": 1,
+      "description": "Meme Token in Alephium live in CandySwap - https://candyswap.gg/token/TEKKI",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TEKKI.png"
+    },
+    {
+      "id": "89e424f5b43fe72246001484423f6b06379be4eefed8b42cc380e1dc6ec0c100",
+      "name": "ELON",
+      "symbol": "ELON",
+      "decimals": 2,
+      "description": "« When something is important enough, you do it even if the odds are not in your favor »",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ELON.png"
+    },
+    {
+      "id": "80b0270f1edce67afd5fc1b42d370308d77011165b8c05338b0bb990d685d500",
+      "name": "BETA",
+      "symbol": "BETA",
+      "decimals": 8,
+      "description": "Alephium Community Token",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BETA.png"
+    },
+    {
+      "id": "162f3606cc6bde743f10d6586197f20e89c1dd9a212a01479cc29e98e0a31d00",
+      "name": "JEET",
+      "symbol": "JEET",
+      "decimals": 10,
+      "description": "Why jeet when you can build?",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/JEET.png"
+    },
+    {
+      "id": "f590df65b35f52958209331c317ece5de8b2d1f946736dc1764dcab776044200",
+      "name": "Candy Crash",
+      "symbol": "CC",
+      "decimals": 6,
+      "description": "A celebratory meme for CANDYSWAP SEASON 1. Earn CANDY tokens while trading any token on CANDYSWAP platform",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/CC.png"
     }
   ]
 }
