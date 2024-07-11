@@ -712,6 +712,14 @@
       "decimals": 6,
       "description": "A celebratory meme for CANDYSWAP SEASON 1. Earn CANDY tokens while trading any token on CANDYSWAP platform",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/CC.png"
+    },
+    {
+      "id": "99ffbde485e4e594667a0843d264471e6a4630339c8396608ef1032dc8b04000",
+      "name": "SHIBA SHIBBO",
+      "symbol": "SHIBBO",
+      "decimals": 18,
+      "description": "shiba meme coin for fun",
+      "logoURI": "https://raw.githubusercontent.com/khank12/token-list/master/logos/SHIBBO.png"
     }
   ]
 }
