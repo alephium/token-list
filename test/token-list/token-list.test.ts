@@ -24,14 +24,24 @@ import testnetJson from '../../tokens/testnet.json'
 import { checkDuplicates } from '../utils'
 import devnetJson from './devnet.json'
 
-const mainnetTokenList = mainnetJson as TokenList
-const testnetTokenList = testnetJson as TokenList
-const devnetTokenList = devnetJson as TokenList
+interface TokenListJson extends TokenList {
+  networkId: number
+  tokens: TokenInfoJson[]
+}
+
+interface TokenInfoJson extends TokenInfo {
+  nameOnChain?: string
+  symbolOnChain?: string
+}
+
+const mainnetTokenList = mainnetJson as TokenListJson
+const testnetTokenList = testnetJson as TokenListJson
+const devnetTokenList = devnetJson as TokenListJson
 
 const tokenLists = [mainnetTokenList, testnetTokenList, devnetTokenList]
 
-const mainnetURL = 'https://wallet-v20.mainnet.alephium.org'
-const testnetURL = 'https://wallet-v20.testnet.alephium.org'
+const mainnetURL = 'https://node.mainnet.alephium.org'
+const testnetURL = 'https://node.testnet.alephium.org'
 
 describe('TokenList', function () {
   it('should contains no duplicate', () => {
@@ -114,9 +124,9 @@ describe('TokenList', function () {
     await nodeProvider.fetchFungibleTokenMetaData(token.id).then((metadata) => checkMetadata(metadata, token))
   }
 
-  function checkMetadata(metadata: FungibleTokenMetaData, token: TokenInfo) {
-    expect(hexToString(metadata.name)).toEqual(token.name)
-    expect(hexToString(metadata.symbol)).toEqual(token.symbol)
+  function checkMetadata(metadata: FungibleTokenMetaData, token: TokenInfoJson) {
+    expect(hexToString(metadata.name)).toEqual(token.nameOnChain ?? token.name)
+    expect(hexToString(metadata.symbol)).toEqual(token.symbolOnChain ?? token.symbol)
     expect(metadata.decimals).toEqual(token.decimals)
   }
 })
