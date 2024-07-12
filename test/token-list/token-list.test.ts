@@ -124,9 +124,15 @@ describe('TokenList', function () {
     await nodeProvider.fetchFungibleTokenMetaData(token.id).then((metadata) => checkMetadata(metadata, token))
   }
 
+  const tokensWithSymbolVariant = ['ALF', 'ANS']
+
   function checkMetadata(metadata: FungibleTokenMetaData, token: TokenInfoJson) {
     expect(hexToString(metadata.name)).toEqual(token.nameOnChain ?? token.name)
     expect(hexToString(metadata.symbol)).toEqual(token.symbolOnChain ?? token.symbol)
     expect(metadata.decimals).toEqual(token.decimals)
+
+    if (token.symbolOnChain !== undefined) {
+      expect(tokensWithSymbolVariant.includes(token.symbolOnChain)).toBe(true)
+    }
   }
 })
