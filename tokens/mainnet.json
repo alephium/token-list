@@ -10,6 +10,16 @@
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPH.png"
     },
     {
+      "id": "c0c0af7a481e3e50c50e418bf8ff6923dc4d878ac3744474e8c708a8adccfb00",
+      "name": "OGAlf",
+      "nameOnChain": "Alf",
+      "symbol": "OGALF",
+      "symbolOnChain": "ALF",
+      "decimals": 0,
+      "description": "OG Alf, real first token deployed on the mainnet",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/OGALF.png"
+    },
+    {
       "id": "66da610efb5129c062e88e5fd65fe810f31efd1597021b2edf887a4360fa0800",
       "name": "Alf",
       "symbol": "ALF",
@@ -611,11 +621,13 @@
     },
     {
       "id": "edcd9b5c59f23d545faa6d5e91d196098f4d0a14146ace422a8b367ef3b34000",
-      "name": "ANS",
-      "symbol": "ANS",
+      "name": "ANS (alephium.domains)",
+      "nameOnChain": "ANS",
+      "symbol": "ANSd",
+      "symbolOnChain": "ANS",
       "decimals": 18,
-      "description": "The token of the Alephium Name Service.",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ANS.png"
+      "description": "The token of the Alephium Name Service (alephium.domains).",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ANSd.png"
     },
     {
       "id": "6b894505030718e45cdf7c59be1f8c6167542e43522e95303871e8280037b000",
@@ -720,6 +732,16 @@
       "decimals": 18,
       "description": "shiba meme coin for fun",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SHIBBO.png"
+    },
+    {
+      "id": "2df4cc8296aa5078f034eedeafec4139f23af440158204a93f76f21b74854500",
+      "name": "ANS (Open Source)",
+      "nameOnChain": "Alephium Name Service",
+      "symbol": "ANSo",
+      "symbolOnChain": "ANS",
+      "decimals": 18,
+      "description": "The token of the Alephium Name Service (alphnames.com).",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ANSo.svg"
     }
   ]
 }
