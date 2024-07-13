@@ -1,6 +1,6 @@
 {
   "name": "@alephium/token-list",
-  "version": "0.0.18",
+  "version": "0.0.19",
   "main": "dist/lib/index.js",
   "types": "dist/lib/index.d.ts",
   "engines": {
