@@ -742,6 +742,14 @@
       "decimals": 18,
       "description": "The token of the Alephium Name Service (alphnames.com).",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ANSo.svg"
+    },
+    {
+      "id": "ed8d67fb6363aa69b9df581997394b43349da4aa3de7f992b5239a259a42de00",
+      "name": "0XBIIGBANG",
+      "symbol": "0XB",
+      "decimals": 5,
+      "description": "The one and only 'MEM corner 100% for the community, imminent takeoff towards the stars!",
+      "logoURI": "https://github.com/0xbiigbang/0XBIIGBANG/blob/main/logo.png"
     }
   ]
 }
