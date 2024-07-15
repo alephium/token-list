@@ -742,6 +742,14 @@
       "decimals": 18,
       "description": "The token of the Alephium Name Service (alphnames.com).",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ANSo.svg"
+    },
+    {
+      "id" : "881a844f3e6511441b5d6fa4896d8bbf87d365f87b3b0c183cb4c4c35268cf00",
+      "name" : "HarryPoter",
+      "symbol" : "HP",
+      "decimals" : 1,
+      "description" : "Wingardium Leviosa !",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/HP.png"
     }
   ]
 }
