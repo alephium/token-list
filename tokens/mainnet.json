@@ -750,6 +750,14 @@
       "decimals" : 1,
       "description" : "Wingardium Leviosa !",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/HP.png"
+    },
+    {
+      "id" : "ed8d67fb6363aa69b9df581997394b43349da4aa3de7f992b5239a259a42de00",
+      "name" : "0XBIIGBANG",
+      "symbol" : "0XB",
+      "decimals" : 5,
+      "description" : "The BIIGBANG and the beginning of everything, see the light and the infinite expansion!",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/0XB.png"
     }
   ]
 }
