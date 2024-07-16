@@ -774,6 +774,14 @@
       "decimals" : 0,
       "description" : "Pepe is here to make memecoins great again.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/PEPE.png"
-    }    
+    },
+    {
+      "id" : "f7f9b116c02896e27c7a98b1eb09c39f4dc4cf517e7df72ea8ca93ad70a23100",
+      "name" : "I DON'T LIKE YOUR FACE",
+      "symbol" : "FACE",
+      "decimals" : 10,
+      "description" : "I DON'T LIKE YOUR FACE meme token a digital asset that's here to shake up the crypto world",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/FACE.png"
+    }
   ]
 }
