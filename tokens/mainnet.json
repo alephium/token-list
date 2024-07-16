@@ -766,6 +766,14 @@
       "decimals": 10,
       "description": "We are passionate crypto enthusiasts, Alephium enthusiasts and active community members.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SINX.png"
-    }
+    },
+    {
+      "id" : "fb68e484625b53c62581f2d358a6a83eb1ad918bfb64790d90c2357ca63ceb00",
+      "name" : "PEPE",
+      "symbol" : "PEPE",
+      "decimals" : 0,
+      "description" : "Pepe is here to make memecoins great again.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/PEPE.png"
+    }    
   ]
 }
