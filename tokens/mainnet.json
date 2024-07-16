@@ -758,6 +758,15 @@
       "decimals" : 5,
       "description" : "The BIIGBANG and the beginning of everything, see the light and the infinite expansion!",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/0XB.png"
+    },
+    {
+      "id": "de830579a9b874ad6de9d102d48e9479a45eb5037e64615479b21476e0d8f600",
+      "name": "SingularityX",
+      "symbol": "SINX",
+      "decimals": 10,
+      "description": "We are passionate crypto enthusiasts, Alephium enthusiasts and active community members.
+We created our own MEME token - SingularityX - which is not fueled by humor, but by respect for technology and the Alephium ecosystem.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SINX.png"
     }
   ]
 }
