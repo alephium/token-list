@@ -782,6 +782,22 @@
       "decimals" : 10,
       "description" : "I DON'T LIKE YOUR FACE meme token a digital asset that's here to shake up the crypto world",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/FACE.png"
+    },
+    {
+      "id" : "da9be0b21e10aa45e960c94a15aa51feb0f336617ae29541e555613af9b27300",
+      "name" : "Pingu",
+      "symbol" : "PINGU",
+      "decimals" : 4,
+      "description" : "🐧 Welcome to the $PINGU Colony 🐧We're Alephium OGs here to make memecoins COOL again. Blessed to be so based 🤝Official Links:💱 Buy/Swap: https://candyswap.gg/token/PINGU",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/PINGU.png"
+    },
+    {
+      "id" : "0debef738a9097963d4cb4c02aafcf1a07cbc74a6e7a77e57439329a159d0900",
+      "name" : "ONETOKEN",
+      "symbol" : "ONE",
+      "decimals" : 18,
+      "description" : "1 token, 18 decimal! Pure madness, just look 👀👀👀💱 Buy/Swap: https://candyswap.gg/token/ONE",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ONE.png"
     }
   ]
 }
