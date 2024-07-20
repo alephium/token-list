@@ -798,6 +798,14 @@
       "decimals" : 18,
       "description" : "1 token, 18 decimal! Pure madness, just look 👀👀👀💱 Buy/Swap: https://candyswap.gg/token/ONE",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ONE.png"
+    },
+    {
+      "id" : "56392bdd8541948e69b9c784d778ca07979bfdc75c2acb15381781d828557500",
+      "name" : "Hoppy",
+      "symbol" : "HOPPY",
+      "decimals" : 2,
+      "description" : "From now until 10: 00 p.m. EST on July 22nd, any purchase of $Hoppy will receive an airdrop of the equivalent tokens. $ALPHWe will appear in the new dex later.🤫https://candyswap.gg/token/HOPPY. https://x.com/HoppyAlph",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/HOPPY.png"
     }
   ]
 }
