@@ -806,6 +806,14 @@
       "decimals" : 2,
       "description" : "From now until 10: 00 p.m. EST on July 22nd, any purchase of $Hoppy will receive an airdrop of the equivalent tokens. $ALPHWe will appear in the new dex later.🤫https://candyswap.gg/token/HOPPY. https://x.com/HoppyAlph",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/HOPPY.png"
+    },
+    {
+      "id" : "5999e01b8c23cf1e50ab784e056ebb4bce00ddf0abd3c499146a76bb00d75200",
+      "name" : "AlphPost",
+      "symbol" : "POST",
+      "decimals" : 18,
+      "description" : "The first social network and task based marketplace platform in Alephium. https://alphPost.com",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/POST.png"
     }
   ]
 }
