@@ -822,6 +822,14 @@
       "decimals" : 7,
       "description" : "ALPH moons and we eat CHIMKEN",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/CHIMKEN.png"
+    },
+    {
+      "id": "3c51b5b11063ae4f5677a071d8576854618de299983f613da843a8a6ed51c600",
+      "name": "ALPH to the MOON",
+      "symbol": "MOON",
+      "decimals": 8,
+      "description": " ALPH road to $100 is not meme. Best L1 Blockchain POLW. https://x.com/AlphMoon alphmoon.xyz ",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/MOON.png"
     }
   ]
 }
