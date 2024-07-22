@@ -814,6 +814,14 @@
       "decimals" : 18,
       "description" : "The first social network and task based marketplace platform in Alephium. https://alphPost.com",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/POST.png"
+    },
+    {
+      "id" : "077e81b3a3d1d40581621f0255e86df395db2282704adc6e3be6ab19644a3100",
+      "name" : "CHIMKEN",
+      "symbol" : "CHIMKEN",
+      "decimals" : 7,
+      "description" : "ALPH moons and we eat CHIMKEN",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/CHIMKEN.png"
     }
   ]
 }
