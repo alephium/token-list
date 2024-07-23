@@ -830,6 +830,14 @@
       "decimals": 8,
       "description": " ALPH road to $100 is not meme. Best L1 Blockchain POLW. https://x.com/AlphMoon alphmoon.xyz ",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/MOON.png"
+    },
+    {
+      "id": "406fe39186e740b5df681e758adae4765c1463047c15c053a048026dd4468900",
+      "name": "HarryPotterObamaSonic10Inu",
+      "symbol": "BITCOIN",
+      "decimals": 18,
+      "description": "HarryPotterObamaSonic10Inu (Ticker: BITCOIN) is a endgame of crypto-assets (0 Tax). BITCOIN incentivizes the creation of novel and entertaining meme content. With ownership renounced and Liquidity locked, our robust growing community has taken the lead; we have successfully completed a full audit, an NFT collection, and are exploring partnerships with other tokens in the space, a one-of-a -kind website, and one-of-a-kind merchandise and ecommerce site in the works based on the legendary meme that inspired BITCOIN's creation. Our goal is to create an ecosystem for active community members to meet, collaborate, and share our rich lore (the archive of our token's storied history) with the world.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BITCOIN.png"
     }
   ]
 }
