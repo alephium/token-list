@@ -838,6 +838,14 @@
       "decimals": 0,
       "description": "A fun token reflecting the meme market sentiment and the overall direction still to come",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/MGU.png"
+    },
+    {
+      "id": "de0d3c6fc589cac8378e767ac4b7b3c288079e176c8b12a3548d0d7bc7ba4400",
+      "name": "CryptoPlayboy",
+      "symbol": "CPLBY",
+      "decimals": 16,
+      "description": "CryptoPlayboy CPLBY is a meme token created for entertainment purposes",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/CPLBY.png"
     }    
   ]
 }
