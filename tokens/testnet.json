@@ -136,6 +136,46 @@
       "decimals": 6,
       "description": "Token Description",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/123.png"
+    },
+    {
+      "id": "8e6877d8dee708506625a77d73f62210dce24564cfa9ec93c0df02f2ba519b00",
+      "name": "SWAPA",
+      "symbol": "SWAPA",
+      "decimals": 18,
+      "description": "SWAPA on testnet. The first veDEX on Alephium",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SWAPA.webp"
+    },
+    {
+      "id": "2e15aa445eb2ed419cd786b8640955272d6f86b7ff5405d08f279623c3a83900",
+      "name": "xSWAPA",
+      "symbol": "xSWAPA",
+      "decimals": 18,
+      "description": "xSWAPA on testnet. xSWAPA is converted SWAPA, serving enabling you to vote and earn fees",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/xSWAPA.webp"
+    },
+    {
+      "id": "c7da969f8a4000ca5d8a589d8df5424a30cb7dbc66a9bb196fc0191ed7423b00",
+      "name": "Vereenigde Oostindische Compagnie",
+      "symbol": "VOC",
+      "decimals": 30,
+      "description": "spices for all",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/VOC.png"
+    },
+    {
+      "id": "da757dd1da7016d3376c5176beeeb4a5561b44da3d292d99abdf4b38946f6c00",
+      "name": "silver",
+      "symbol": "SILVER",
+      "decimals": 30,
+      "description": "Silver, almost as good as $GOLD",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SILVER.png"
+    },
+    {
+      "id": "40af97e88f2c79311ebce21b8e0d575fed6d555713fdec05dfbf5d863d6d1e00",
+      "name": "Gold Castle Club",
+      "symbol": "GOLD",
+      "decimals": 0,
+      "description": "$GOLD on testnet",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/GOLD.png"
     }
   ]
 }
