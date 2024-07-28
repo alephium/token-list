@@ -143,7 +143,7 @@
       "symbol": "SWAPA",
       "decimals": 18,
       "description": "SWAPA on testnet. The first veDEX on Alephium",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SWAPA.webp"
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SWAPA.png"
     },
     {
       "id": "2e15aa445eb2ed419cd786b8640955272d6f86b7ff5405d08f279623c3a83900",
@@ -151,7 +151,7 @@
       "symbol": "xSWAPA",
       "decimals": 18,
       "description": "xSWAPA on testnet. xSWAPA is converted SWAPA, serving enabling you to vote and earn fees",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/xSWAPA.webp"
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/xSWAPA.png"
     },
     {
       "id": "c7da969f8a4000ca5d8a589d8df5424a30cb7dbc66a9bb196fc0191ed7423b00",
