@@ -854,6 +854,14 @@
       "decimals": 8,
       "description": "Wayang Token belongs to Alephium fans from Indonesia. Wayang is the nation's ancestral cultural heritage https://x.com/WayangAlephium",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WAYANG.png"
+    },
+    {
+      "id": "520e5d8c8c98490e7aae61b37b87fcc80d60da6cebfc94b95f1335125aa26e00",
+      "name": "WAVE",
+      "symbol": "WAVE",
+      "decimals": 10,
+      "description": "Wave on Alephium is Meme Token. Twitter ID https://x.com/WaveOnAlephium",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WAVE.png"
     }
   ]
 }
