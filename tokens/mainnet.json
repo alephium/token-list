@@ -862,6 +862,14 @@
       "decimals": 10,
       "description": "Wave on Alephium is Meme Token. Twitter ID https://x.com/WaveOnAlephium",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WAVE.png"
+    },
+    {
+      "id": "5a16414ee706c9c5e48e513fca082703b2e7652ecb3f56837697a1d553020a00",
+      "name": "HUG",
+      "symbol": "HUG",
+      "decimals": 10,
+      "description": "Game Token on Alephium",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/HUG.png"
     }
   ]
 }
