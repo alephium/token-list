@@ -870,6 +870,14 @@
       "decimals": 10,
       "description": "Game Token on Alephium",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/HUG.png"
+    },
+    {
+      "id": "32488b0870d1d92f7d20bde89edfbdb9e6f071ad58bb8b1432f482b539391600",
+      "name": "Crashmarket2024",
+      "symbol": "CRASH",
+      "decimals": 9,
+      "description": "Crash memecoin on Alephium in the crash market. https://x.com/marketcrash2024",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/CRASH.png"
     }
   ]
-}
+} 
