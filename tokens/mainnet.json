@@ -878,6 +878,14 @@
       "decimals": 9,
       "description": "Crash memecoin on Alephium in the crash market. https://x.com/marketcrash2024",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/CRASH.png"
+    },
+    {
+      "id": "ffb5d35dbc9d3d29d592da59bb0bb1b3d85db69d5ba710b15aedd51e7e2b2a00",
+      "name": "NoNeedToRush",
+      "symbol": "NNTR",
+      "decimals": 6,
+      "description": "NO NEED TO RUSH, $ALPH #ALEPHIUM ALWAYS ARRIVES RIGHT ON TIME, KEEP BELIEVING",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/NNTR.png"
     }
   ]
 } 
