@@ -886,6 +886,14 @@
       "decimals": 6,
       "description": "NO NEED TO RUSH, $ALPH #ALEPHIUM ALWAYS ARRIVES RIGHT ON TIME, KEEP BELIEVING",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/NNTR.png"
+    },
+     {
+      "id": "93db3ced5685c6e5438afcc94fc20a1bca8885be75c02f6f164da30f217c2500",
+      "name": "DOH",
+      "symbol": "DOH",
+      "decimals": 18,
+      "description": "Hear ye! Hear ye! The intergalactic jester proclaims this conformity factory closed!",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DOH.png"
     }
   ]
 } 
