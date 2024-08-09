@@ -886,6 +886,14 @@
       "decimals": 6,
       "description": "No Need To Rush, Wojak on Alephium to make ALPH OG's Memecoins Great Again ",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WOJAK.png"
+    },
+     {
+      "id": "93db3ced5685c6e5438afcc94fc20a1bca8885be75c02f6f164da30f217c2500",
+      "name": "DOH",
+      "symbol": "DOH",
+      "decimals": 18,
+      "description": "Roads are just a suggestion Marge, just like pants.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DOH.png"
     }
   ]
 } 
