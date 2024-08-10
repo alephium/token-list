@@ -894,6 +894,13 @@
       "decimals": 18,
       "description": "Roads are just a suggestion Marge, just like pants.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DOH.png"
+    },
+    {"id": "8e871cf2cd3e612cfac25ae822351ac4f9a027130ad14b53d4c9ff57022740bf",
+      "name": "DORKLORD",
+      "symbol": "DORKL",
+      "decimals": 18,
+      "description": "Your feeble skills are no match for the power of the dork side ... Execute Order 69. Destroy the Jeeti.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DORKL.png"
     }
   ]
 } 
