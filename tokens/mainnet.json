@@ -894,6 +894,14 @@
       "decimals": 18,
       "description": "Roads are just a suggestion Marge, just like pants.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DOH.png"
+    },
+    {
+      "id": "d1a047c957c450b8459d71138ac0d8abdf669e4f61852af73f6ac654fb9af100",
+      "name": "FROG",
+      "symbol": "FROG",
+      "decimals": 10,
+      "description": "DESKRIPSI : new meme token on alephium https://x.com/AlphFrog83564 ",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/FROG.png"
     }
   ]
 } 
