@@ -895,11 +895,19 @@
       "description": "Roads are just a suggestion Marge, just like pants.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DOH.png"
     },
+    {
+      "id": "d1a047c957c450b8459d71138ac0d8abdf669e4f61852af73f6ac654fb9af100",
+      "name": "FROG",
+      "symbol": "FROG",
+      "decimals": 10,
+      "description": "DESKRIPSI : new meme token on alephium https://x.com/AlphFrog83564 ",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/FROG.png"
+    },
     {"id": "8e871cf2cd3e612cfac25ae822351ac4f9a027130ad14b53d4c9ff57022740bf",
       "name": "DORKLORD",
       "symbol": "DORKL",
       "decimals": 18,
-      "description": "Your feeble skills are no match for the power of the dork side ... Execute Order 69. Destroy the Jeeti.",
+      "description": "Your feeble skills are no match for the power of the dork side Execute Order 69. Destroy the Jeeti.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DORKL.png"
     }
   ]
