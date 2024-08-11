@@ -902,6 +902,14 @@
       "decimals": 10,
       "description": "DESKRIPSI : new meme token on alephium https://x.com/AlphFrog83564 ",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/FROG.png"
+    },
+    {
+      "id": "18608da087ea4e173d20637b5dd9e93fffa37dc97e71014a98a46deefbbcec00",
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "decimals": 4,
+      "description": "Much wow, so alph, very doge.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DOGE.png"
     }
   ]
 } 
