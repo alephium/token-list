@@ -918,6 +918,14 @@
       "decimals": 2,
       "description": "Memecoin for CryptoGriffons Community and Alph Community.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/GRFN.png"
+    },
+    {
+      "id": "8d97f8ab9aa1ad84188e853df4f1544131a61d03fce2b9f9054cbc368c31f400",
+      "name": "Candy",
+      "symbol": "CANDY",
+      "decimals": 18,
+      "description": "The CandySwap reward token!",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/CANDY.png"
     }
   ]
 } 
