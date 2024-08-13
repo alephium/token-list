@@ -926,6 +926,14 @@
       "decimals": 18,
       "description": "The CandySwap reward token!",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/CANDY.png"
+    },
+    {
+      "id": "c4f0066f85ab8a57a547f6b0b32f06472a5eb0dd0a9467968990af74946d5100",
+      "name": "Blackjack",
+      "symbol": "BJ",
+      "decimals": 18,
+      "description": "21000 token Only!",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/Blackjack.png"
     }
   ]
 } 
