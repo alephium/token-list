@@ -934,6 +934,14 @@
       "decimals": 18,
       "description": "21000 token Only!",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BJ.png"
+    },
+    {
+      "id": "7cf121bdb82ab12adf0028bafff8181523cd30219f46064706696ffde55a2c00",
+      "name": "Poker",
+      "symbol": "PKR",
+      "decimals": 18,
+      "description": "21000 token Only!",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/PKR.png"
     }
   ]
 } 
