@@ -942,6 +942,14 @@
       "decimals": 18,
       "description": "21000 token Only!",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/PKR.png"
+    },
+    {
+      "id": "f5a47fe7c6670e32ea6afdfadd0c5068cc7fe1ac83fd81e58e379ad45c93a800",
+      "name": "Bubble",
+      "symbol": "BBL",
+      "decimals": 0,
+      "description": "Unique 1000 token, 0 decimal, Utility NFT token",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BBL.png"
     }
   ]
 } 
