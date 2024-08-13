@@ -80,6 +80,16 @@ describe('TokenList', function () {
     expect(testnetJson.networkId).toEqual(1)
   })
 
+  it('should not contain extra fields', () => {
+    const allowedFields = ['id', 'name', 'nameOnChain', 'symbol', 'symbolOnChain', 'decimals', 'description', 'logoURI']
+    tokenLists.forEach((tokenList) => {
+      tokenList.tokens.forEach((token) => {
+        const tokenFields = Object.keys(token)
+        tokenFields.forEach((field) => expect(allowedFields).toContain(field))
+      })
+    })
+  })
+
   const mainnetNodeProvider = new NodeProvider(mainnetURL)
   mainnetTokenList.tokens.forEach((token) => {
     if (token.symbol !== 'ALPH') {
