@@ -958,6 +958,14 @@
       "decimals": 0,
       "description": "literally just a dog wif a hat",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DOGWIFHAT.png"
+    },
+    {
+      "id": "25d74e048ae06c4888a8b5e1522201a208c93b1d44677eaecf36b20124129900",
+      "name": "69",
+      "symbol": "69",
+      "decimals": 18,
+      "description": "Name: 69/ Symbol: 69/ Supply: 69/ Decimals: 18/ AYIN SWAP launch 69-->ALPH_69-->69/ Let's Go too the MOON !",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/69.png"
     }
   ]
 }
