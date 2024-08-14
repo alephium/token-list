@@ -966,6 +966,14 @@
       "decimals": 18,
       "description": "Name: 69/ Symbol: 69/ Supply: 69/ Decimals: 18/ AYIN SWAP launch 69-->ALPH_69-->69/ Let's Go too the MOON !",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/69.png"
+    },
+    {
+      "id": "1bf2158a307e11dc3cb12a44a5c0255a01c16a73df402332c9330848268d3a00",
+      "name": "HAPPY420",
+      "symbol": "HAPPY420",
+      "decimals": 2,
+      "description": "Happy420!Relax,takeoff to the moon imminent!🚬🗿🌡️🚀🌒(https://x.com/HAPPY_420_)",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/420.png"
     }
   ]
 }
