@@ -484,7 +484,7 @@
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/APAD.png"
     },
     {
-     "id": "9a7cde102e0347a7079b44f923c8a6fb9a1e07f89c1eb5b0fcd54b678ac46100",
+      "id": "9a7cde102e0347a7079b44f923c8a6fb9a1e07f89c1eb5b0fcd54b678ac46100",
       "name": "SPONGOBOBOBAMA420COINTOKENINUVERSE",
       "symbol": "SPOBAMA",
       "decimals": 3,
@@ -492,7 +492,7 @@
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SPOBAMA.png"
     },
     {
-     "id": "9930e01d775c3b6f94f2d6e47315a0e18929e130370bd2f249cd4581b3ae5200",
+      "id": "9930e01d775c3b6f94f2d6e47315a0e18929e130370bd2f249cd4581b3ae5200",
       "name": "Alephium Girls",
       "symbol": "AGIRLS",
       "decimals": 7,
@@ -539,7 +539,7 @@
       "description": "",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/GRUMPY.png"
     },
-     {
+    {
       "id": "a2468923a5d69b152ddfc87dea4e6d5b09eb4aae239e47ac2bc6ad4807811700",
       "name": "Happy Dog",
       "symbol": "HAPPY",
@@ -744,19 +744,19 @@
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ANSo.svg"
     },
     {
-      "id" : "881a844f3e6511441b5d6fa4896d8bbf87d365f87b3b0c183cb4c4c35268cf00",
-      "name" : "HarryPoter",
-      "symbol" : "HP",
-      "decimals" : 1,
-      "description" : "Wingardium Leviosa ! https://www.ayin.app/swap ! https://candyswap.gg/swap !",
+      "id": "881a844f3e6511441b5d6fa4896d8bbf87d365f87b3b0c183cb4c4c35268cf00",
+      "name": "HarryPoter",
+      "symbol": "HP",
+      "decimals": 1,
+      "description": "Wingardium Leviosa ! https://www.ayin.app/swap ! https://candyswap.gg/swap !",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/HP.png"
     },
     {
-      "id" : "ed8d67fb6363aa69b9df581997394b43349da4aa3de7f992b5239a259a42de00",
-      "name" : "0XBIIGBANG",
-      "symbol" : "0XB",
-      "decimals" : 5,
-      "description" : "The BIIGBANG and the beginning of everything, see the light and the infinite expansion!",
+      "id": "ed8d67fb6363aa69b9df581997394b43349da4aa3de7f992b5239a259a42de00",
+      "name": "0XBIIGBANG",
+      "symbol": "0XB",
+      "decimals": 5,
+      "description": "The BIIGBANG and the beginning of everything, see the light and the infinite expansion!",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/0XB.png"
     },
     {
@@ -768,59 +768,59 @@
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SINX.png"
     },
     {
-      "id" : "fb68e484625b53c62581f2d358a6a83eb1ad918bfb64790d90c2357ca63ceb00",
-      "name" : "PEPE",
-      "symbol" : "PEPE",
-      "decimals" : 0,
-      "description" : "Pepe is here to make memecoins great again.",
+      "id": "fb68e484625b53c62581f2d358a6a83eb1ad918bfb64790d90c2357ca63ceb00",
+      "name": "PEPE",
+      "symbol": "PEPE",
+      "decimals": 0,
+      "description": "Pepe is here to make memecoins great again.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/PEPE.png"
     },
     {
-      "id" : "f7f9b116c02896e27c7a98b1eb09c39f4dc4cf517e7df72ea8ca93ad70a23100",
-      "name" : "I DON'T LIKE YOUR FACE",
-      "symbol" : "FACE",
-      "decimals" : 10,
-      "description" : "I DON'T LIKE YOUR FACE meme token a digital asset that's here to shake up the crypto world",
+      "id": "f7f9b116c02896e27c7a98b1eb09c39f4dc4cf517e7df72ea8ca93ad70a23100",
+      "name": "I DON'T LIKE YOUR FACE",
+      "symbol": "FACE",
+      "decimals": 10,
+      "description": "I DON'T LIKE YOUR FACE meme token a digital asset that's here to shake up the crypto world",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/FACE.png"
     },
     {
-      "id" : "da9be0b21e10aa45e960c94a15aa51feb0f336617ae29541e555613af9b27300",
-      "name" : "Pingu",
-      "symbol" : "PINGU",
-      "decimals" : 4,
-      "description" : "🐧 Welcome to the $PINGU Colony 🐧We're Alephium OGs here to make memecoins COOL again. Blessed to be so based 🤝Official Links:💱 Buy/Swap: https://candyswap.gg/token/PINGU",
+      "id": "da9be0b21e10aa45e960c94a15aa51feb0f336617ae29541e555613af9b27300",
+      "name": "Pingu",
+      "symbol": "PINGU",
+      "decimals": 4,
+      "description": "🐧 Welcome to the $PINGU Colony 🐧We're Alephium OGs here to make memecoins COOL again. Blessed to be so based 🤝Official Links:💱 Buy/Swap: https://candyswap.gg/token/PINGU",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/PINGU.png"
     },
     {
-      "id" : "0debef738a9097963d4cb4c02aafcf1a07cbc74a6e7a77e57439329a159d0900",
-      "name" : "ONETOKEN",
-      "symbol" : "ONE",
-      "decimals" : 18,
-      "description" : "1 token, 18 decimal! Pure madness, just look 👀👀👀💱 Buy/Swap: https://candyswap.gg/token/ONE",
+      "id": "0debef738a9097963d4cb4c02aafcf1a07cbc74a6e7a77e57439329a159d0900",
+      "name": "ONETOKEN",
+      "symbol": "ONE",
+      "decimals": 18,
+      "description": "1 token, 18 decimal! Pure madness, just look 👀👀👀💱 Buy/Swap: https://candyswap.gg/token/ONE",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ONE.png"
     },
     {
-      "id" : "56392bdd8541948e69b9c784d778ca07979bfdc75c2acb15381781d828557500",
-      "name" : "Hoppy",
-      "symbol" : "HOPPY",
-      "decimals" : 2,
-      "description" : "From now until 10: 00 p.m. EST on July 22nd, any purchase of $Hoppy will receive an airdrop of the equivalent tokens. $ALPHWe will appear in the new dex later.🤫https://candyswap.gg/token/HOPPY. https://x.com/HoppyAlph",
+      "id": "56392bdd8541948e69b9c784d778ca07979bfdc75c2acb15381781d828557500",
+      "name": "Hoppy",
+      "symbol": "HOPPY",
+      "decimals": 2,
+      "description": "From now until 10: 00 p.m. EST on July 22nd, any purchase of $Hoppy will receive an airdrop of the equivalent tokens. $ALPHWe will appear in the new dex later.🤫https://candyswap.gg/token/HOPPY. https://x.com/HoppyAlph",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/HOPPY.png"
     },
     {
-      "id" : "5999e01b8c23cf1e50ab784e056ebb4bce00ddf0abd3c499146a76bb00d75200",
-      "name" : "AlphPost",
-      "symbol" : "POST",
-      "decimals" : 18,
-      "description" : "The first social network and task based marketplace platform in Alephium. https://alphPost.com",
+      "id": "5999e01b8c23cf1e50ab784e056ebb4bce00ddf0abd3c499146a76bb00d75200",
+      "name": "AlphPost",
+      "symbol": "POST",
+      "decimals": 18,
+      "description": "The first social network and task based marketplace platform in Alephium. https://alphPost.com",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/POST.png"
     },
     {
-      "id" : "077e81b3a3d1d40581621f0255e86df395db2282704adc6e3be6ab19644a3100",
-      "name" : "CHIMKEN",
-      "symbol" : "CHIMKEN",
-      "decimals" : 7,
-      "description" : "ALPH moons and we eat CHIMKEN",
+      "id": "077e81b3a3d1d40581621f0255e86df395db2282704adc6e3be6ab19644a3100",
+      "name": "CHIMKEN",
+      "symbol": "CHIMKEN",
+      "decimals": 7,
+      "description": "ALPH moons and we eat CHIMKEN",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/CHIMKEN.png"
     },
     {
@@ -887,7 +887,7 @@
       "description": "No Need To Rush, Wojak on Alephium to make ALPH OG's Memecoins Great Again ",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WOJAK.png"
     },
-     {
+    {
       "id": "93db3ced5685c6e5438afcc94fc20a1bca8885be75c02f6f164da30f217c2500",
       "name": "DOH",
       "symbol": "DOH",
@@ -950,6 +950,14 @@
       "decimals": 18,
       "description": "FIVE Token All pooled in ayin swap 5 FIVE/5 AYIN 🚀pool FIVE/AYIN🚀!",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/FIVE.png"
+    },
+    {
+      "id": "8907cab001af8ff1057e22f69533606cd3e207a0d879a9006527a31a7d670b00",
+      "name": "dogwifhat",
+      "symbol": "DOGWIFHAT",
+      "decimals": 0,
+      "description": "literally just a dog wif a hat",
+      "logoURI": "https://raw.githubusercontent.com/DigitalAssetForge/token-list/master/logos/DOGWIFHAT.PNG"
     }
   ]
-} 
+}
