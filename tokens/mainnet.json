@@ -942,6 +942,14 @@
       "decimals": 18,
       "description": "21000 token Only!",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/PKR.png"
+    },
+    {
+      "id": "f1d3d24ef3325827a8bb9c29911f61baee4f146d28ab37d16e5d379434cea600",
+      "name": "FIVE",
+      "symbol": "FIVE",
+      "decimals": 18,
+      "description": "FIVE Token All pooled in ayin swap 5 FIVE/5 AYIN 🚀pool FIVE/AYIN🚀!",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/FIVE.png"
     }
   ]
 } 
