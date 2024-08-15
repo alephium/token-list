@@ -10,6 +10,14 @@
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPH.png"
     },
     {
+      "id": "xVGNK9wh2MYanM3WhfcGyif8mkvKZNj9vgBgLbojoYEb",
+"name": "Niero",
+"symbol": "Niro",
+"decimals": 18,
+"description": "This is a meme token with utility.",
+"logoURI": "https://github.com/coded-del/token-list/blob/master/logos/Niro.png"
+    },
+    {
       "id": "c0c0af7a481e3e50c50e418bf8ff6923dc4d878ac3744474e8c708a8adccfb00",
       "name": "OGAlf",
       "nameOnChain": "Alf",
