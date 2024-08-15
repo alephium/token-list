@@ -974,6 +974,14 @@
       "decimals": 2,
       "description": "Happy420!Relax,takeoff to the moon imminent!🚬🗿🌡️🚀🌒(https://x.com/HAPPY_420_)",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/HAPPY420.png"
+    },
+    {
+      "id": "3b679c6393160a4be222ac3f76c73fbbb5cfac07e62aeaa7eb501dbab5c6a300",
+      "name": "KAMASUTRA",
+      "symbol": "KAMA",
+      "decimals": 4,
+      "description": "🥵 The only token that will put your head upside down and your purse in the right place 🥵",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/KAMASUTRA.png"
     }
   ]
 }
