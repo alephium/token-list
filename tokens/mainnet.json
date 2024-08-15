@@ -982,6 +982,14 @@
       "decimals": 4,
       "description": "(https://x.com/KAMASUTRA_TOKEN)🥵 The only token that will put your head upside down and your purse in the right place 🥵",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/KAMA.png"
+    },
+    {
+      "id": "57233d9cddd3023278db9babb6ed059399bc405c447da7ecf4256db8c3063500",
+      "name": "POOOH",
+      "symbol": "POOOH",
+      "decimals": 18,
+      "description": "ONE POOOH TOKEN !ONE POOOH TOKEN !ONE POOOH TOKEN !ONE POOOH TOKEN !ONE POOOH TOKEN !ONE POOOH TOKEN !ONE POOOH TOKEN !ONE POOOH TOKEN !ONE POOOH TOKEN !ONE POOOH TOKEN !ONE POOOH TOKEN !ONE POOOH TOKEN !ONE POOOH TOKEN !ONE POOOH TOKEN ! ",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/POOOH.png"
     }
   ]
 }
