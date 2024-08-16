@@ -998,6 +998,14 @@
       "decimals": 18,
       "description": "more info:'https://x.com/Poooh_Token' ONE POOOH TOKEN! ONE POOOH TOKEN! ONE POOOH TOKEN! ONE POOOH TOKEN! ONE POOOH TOKEN! ONE POOOH TOKEN! ONE POOOH TOKEN! ONE POOOH TOKEN! ONE POOOH TOKEN!",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/POOOH.png"
+    },
+    {
+      "id": "5e87d8440456d721df5ab4bfb9003ed3ca7882f90b8ba6447b8262c456b37300",
+      "name": "ALPHa BULL",
+      "symbol": "BULL",
+      "decimals": 3,
+      "description": "more info:'https://x.com/AlphaBULLtoken' Don't miss out $BULL - It's Bull season.Next big meme on ALEPHIUM 🚀",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BULL.png"
     }
   ]
 }
