@@ -982,6 +982,14 @@
       "decimals": 4,
       "description": "(https://x.com/KAMASUTRA_TOKEN)🥵 The only token that will put your head upside down and your purse in the right place 🥵",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/KAMA.png"
+    },
+    {
+      "id": "38706b6e53a0270927b3751dcabd5ef78058bbfc470753b5560eb8d81e48e000",
+      "name": "Niero",
+      "symbol": "Niro",
+      "decimals": 1,
+      "description": "A meme token with utilty. ",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/Niro.png"
     }
   ]
 }
