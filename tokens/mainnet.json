@@ -990,6 +990,14 @@
       "decimals": 1,
       "description": "A meme token with utilty. ",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/Niro.png"
+    },
+    {
+      "id": "57233d9cddd3023278db9babb6ed059399bc405c447da7ecf4256db8c3063500",
+      "name": "POOOH",
+      "symbol": "POOOH",
+      "decimals": 18,
+      "description": "More info:(https://x.com/Poooh_Token) ONE POOOH TOKEN !ONE POOOH TOKEN !ONE POOOH TOKEN !ONE POOOH TOKEN !ONE POOOH TOKEN !ONE POOOH TOKEN !ONE POOOH TOKEN !ONE POOOH TOKEN !ONE POOOH TOKEN !ONE POOOH TOKEN !ONE POOOH TOKEN ! ",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/POOOH.png"
     }
   ]
 }
