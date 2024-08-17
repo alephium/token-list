@@ -1014,6 +1014,14 @@
       "decimals": 0,
       "description": " New fruit meme token on Alephium ecosystem ",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BANANA.png"
+    },
+    {
+      "id": "d633131779aa9b02ea7fe187c1e542d7fb1bbde113a6330e929697183347c800",
+      "name": "0xbiigbang.alph",
+      "symbol": "0XBIIG",
+      "decimals": 18,
+      "description": "0xbiigbang.alph",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/0XBIIG.png"
     }
   ]
 }
