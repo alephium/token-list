@@ -1030,6 +1030,14 @@
       "decimals": 3,
       "description": "Don't miss out $BULL - It's Bull season. Biggest meme on ALEPHIUM 🚀. ",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BULL.png"
+    },
+    {
+      "id": "15rzhsULhAhrfBNbCp4sS6uye8gVbzmkahjXLxF4vbQn1",
+      "name": "ANGRY FROG",
+      "symbol": "ANGRY",
+      "decimals": 6,
+      "description": " CROKK CROKK !!!! ",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ANGRY.png"
     }
   ]
 }
