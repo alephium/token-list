@@ -1030,6 +1030,14 @@
       "decimals": 3,
       "description": "Don't miss out $BULL - It's Bull season. Biggest meme on ALEPHIUM 🚀. ",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BULL.png"
+    },
+    {
+      "id": "3d0682dacac0af251c8090e7241fc0087d85b7cca818c2b991d754e89cf98b00",
+      "name": "SOUL",
+      "symbol": "SOUL",
+      "decimals": 10,
+      "description": " SOUL FAMILY TOKEN ",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SOUL.png"
     }
   ]
 }
