@@ -1007,5 +1007,12 @@
       "description": "more info:'https://x.com/AlphaBULLtoken' Don't miss out $BULL - It's Bull season.Next big meme on ALEPHIUM 🚀",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BULL.png"
     }
+      "id": "122d0fdfe07429b84427c3be39a01a28d979deee80b7d848fb299dcd6f760100",
+      "name": "NOTHING",
+      "symbol": "NOT",
+      "decimals": 2,
+      "description": "NOTHING",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/NOT.png"
+    }
   ]
 }
