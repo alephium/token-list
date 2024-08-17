@@ -1046,6 +1046,14 @@
       "decimals": 6,
       "description": " CROKK CROKK !!!!! ",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ANGRY.png"
+    },
+    {
+      "id": "dbbe467ce88865f1907d80fd0fc1e8437db7dcc03b7afbc8beb5ac35d338da00",
+      "name": "LOGI",
+      "symbol": "LOGI",
+      "decimals": 9,
+      "description": "LOGIC TOKen ",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/LOGI.png"
     }
   ]
 }
