@@ -1022,6 +1022,14 @@
       "decimals": 18,
       "description": "0xbiigbang.alph",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/0XBIIG.png"
+    },
+    {
+      "id": "5e87d8440456d721df5ab4bfb9003ed3ca7882f90b8ba6447b8262c456b37300",
+      "name": "ALPHa BULL",
+      "symbol": "BULL",
+      "decimals": 3,
+      "description": "Don't miss out $BULL - It's Bull season. Biggest meme on ALEPHIUM 🚀. ",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BULL.png"
     }
   ]
 }
