@@ -1013,6 +1013,14 @@
       "decimals": 2,
       "description": "NOTHING",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/NOT.png"
+    },
+    {
+      "id": "dee94e403a91ba1964fece605dc5145961ca5d978929e842e409e811357d0b00",
+      "name": "BANANA",
+      "symbol": "BANANA",
+      "decimals": 0,
+      "description": " New fruit meme token on Alephium ecosystem ",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BANANA.png"
     }
   ]
 }
