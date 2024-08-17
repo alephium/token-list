@@ -998,6 +998,14 @@
       "decimals": 18,
       "description": "more info:'https://x.com/Poooh_Token' ONE POOOH TOKEN! ONE POOOH TOKEN! ONE POOOH TOKEN! ONE POOOH TOKEN! ONE POOOH TOKEN! ONE POOOH TOKEN! ONE POOOH TOKEN! ONE POOOH TOKEN! ONE POOOH TOKEN!",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/POOOH.png"
+    },
+    {
+      "id": "122d0fdfe07429b84427c3be39a01a28d979deee80b7d848fb299dcd6f760100",
+      "name": "NOT",
+      "symbol": "NOTHING",
+      "decimals": 2,
+      "description": "NOTHING",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/NOT.png"
     }
   ]
 }
