@@ -1062,6 +1062,14 @@
       "decimals": 4,
       "description": " memeable token ",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DUCK.png"
+    },
+    {
+      "id": "a37efba541a7a1c9a25247aceb3c17deaff399a9a69d6e6b3f061ccdaed32d00",
+      "name": "CANDYAYIN",
+      "symbol": "CANDYAYIN",
+      "decimals": 18,
+      "description": " POOL CANDY-AYIN https://www.ayin.app/swap/ ",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/CANDYAYIN.png"
     }
   ]
 }
