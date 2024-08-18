@@ -1046,6 +1046,14 @@
       "decimals": 6,
       "description": " CROKK CROKK !!!!! ",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ANGRY.png"
+    },
+    {
+      "id": "02f8a4ff414e6ba6230ce7eef2dcb73907b8ee50e88f67bc3a3a1792abfe2a00",
+      "name": "twenty-one",
+      "symbol": "TWENTYONE",
+      "decimals": 18,
+      "description": "21",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TWENTYONE.png"
     }
   ]
 }
