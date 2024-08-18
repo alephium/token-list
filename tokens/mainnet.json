@@ -1054,6 +1054,14 @@
       "decimals": 18,
       "description": "21",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TWENTYONE.png"
+    },
+    {
+      "id": "aae97382bf0b6a105e7f11327e02eb73ae425b2ac46da78a4fe0f42c8fcf8e00",
+      "name": "DUCKIE",
+      "symbol": "DUCK",
+      "decimals": 4,
+      "description": " memeable token ",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DUCK.png"
     }
   ]
 }
