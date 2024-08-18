@@ -1062,6 +1062,14 @@
       "decimals": 4,
       "description": " memeable token ",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DUCK.png"
+    },
+    {
+      "id": "32f71d6629ce72912ce484edc86c72db96a830118868248534be8dbdf0fd6d00",
+      "name": "NoirNeko",
+      "symbol": "NNEKO",
+      "decimals": 18,
+      "description": "NoirNeko is a captivating and mysterious meme coin",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/NNEKO.png"
     }
   ]
 }
