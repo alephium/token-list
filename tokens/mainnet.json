@@ -1086,6 +1086,14 @@
       "decimals": 0,
       "description": " $APE uses both FOMO and meme frenzy technology. $APE is 100% experimental, and 100% meme. $APE at your own risk. ",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/APE.png"
+    },
+    {
+      "id": "1f050d54200df57b8ee6734a4c0e58cf645eb01ea89ef5a833eb230e6e9bda00",
+      "name": "TRADE",
+      "symbol": "TRADE",
+      "decimals": 0,
+      "description": "Speculative token with exponential objective",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TRADE.png"
     }
   ]
 }
