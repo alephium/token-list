@@ -176,6 +176,14 @@
       "decimals": 0,
       "description": "$GOLD on testnet",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/GOLD.png"
+    },
+    {
+      "id": "9af4bfbcbbfdef017e9cadfa2110cb5d3b8dafe150ed7852bc7fb32b44fdaf00",
+      "name": "BEER",
+      "symbol": "BEER",
+      "decimals": 6,
+      "description": "Token Description",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BEER.png"
     }
   ]
 }
