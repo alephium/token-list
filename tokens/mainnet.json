@@ -1070,6 +1070,14 @@
       "decimals": 18,
       "description": "NoirNeko is a captivating and mysterious meme coin",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/NNEKO.png"
+    },
+    {
+      "id": "8b96fa9225058358c673daeab4e51930ab095e4638b7f8f9db8496bef60ffc00",
+      "name": "DELPHINA",
+      "symbol": "DELPHINA",
+      "decimals": 10,
+      "description": " Crypto Tokens on the Alephium network. As support for the role of women in the crypto world ",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DELPHINA.png"
     }
   ]
 }
