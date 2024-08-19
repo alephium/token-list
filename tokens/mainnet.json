@@ -1078,6 +1078,14 @@
       "decimals": 10,
       "description": " Crypto Tokens on the Alephium network. As support for the role of women in the crypto world ",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DELPHINA.png"
+    },
+    {
+      "id": "924b1d641a4bd7cad4db26c154e2d7972a9b1f692dd304a2d63c7f1748c9f300",
+      "name": "APE",
+      "symbol": "APE",
+      "decimals": 0,
+      "description": " $APE uses both FOMO and meme frenzy technology. $APE is 100% experimental, and 100% meme. $APE at your own risk. ",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/APE.png"
     }
   ]
 }
