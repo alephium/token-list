@@ -1094,6 +1094,14 @@
       "decimals": 0,
       "description": "Speculative token with exponential objective",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TRADE.png"
+    },
+    {
+      "id": "4b05972dee373110bbfb3f2141b64954294755006198414931b161805b99e200",
+      "name": "Alephium Flash",
+      "symbol": "FLASH",
+      "decimals": 8,
+      "description": "A flash that will give vibrations to Alephium ",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/FLASH.png"
     }
   ]
 }
