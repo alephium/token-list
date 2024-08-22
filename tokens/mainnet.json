@@ -1102,6 +1102,14 @@
       "decimals": 8,
       "description": "A flash that will give vibrations to Alephium ",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/FLASH.png"
+    },
+    {
+      "id": "9c9da9375f291bee8738e481b0386f8c2c6b0779365d935dc3502e762ac4fb00",
+      "name": "dontbuy",
+      "symbol": "DONT",
+      "decimals": 10,
+      "description": "just another nonsense token with no utility. send alph, get happy. but dont buy",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DONT.png"
     }
   ]
 }
