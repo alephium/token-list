@@ -1110,6 +1110,14 @@
       "decimals": 10,
       "description": "just another nonsense token with no utility. send alph, get happy. but dont buy",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DONT.png"
+    },
+    {
+      "id": "7bb148bbcb04bad4700563a22e25c3b12712327ec647792b163c87669933a700",
+      "name": "AlephiumSolana",
+      "symbol": "ALPHSOL",
+      "decimals": 10,
+      "description": "From Solana Community To Alephium Community market https://candyswap.gg/token/ALPHSOL ",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPHSOL.png"
     }
   ]
 }
