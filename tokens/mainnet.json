@@ -1114,10 +1114,21 @@
     {
       "id": "7bb148bbcb04bad4700563a22e25c3b12712327ec647792b163c87669933a700",
       "name": "AlephiumSolana",
-      "symbol": "ALPHSOL",
+      "symbol": "ALPHSOL","id": "b522184377a33e376e997a950288fa76c1f48e97bc29cd10779adc7cfb673200",
+      "name": "Berry",
+      "symbol": "BERRY",
+      "decimals": 0,
+      "description": "Mr Berry's coin",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/
       "decimals": 10,
       "description": "From Solana Community To Alephium Community market https://candyswap.gg/token/ALPHSOL ",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPHSOL.png"
     }
+    "id": "685d167791a07c1932b33fb64206faddf5c133783aaed49a76c6fe182d1a9600",
+      "name": "Book of Degen",
+      "symbol": "DEGEN",
+      "decimals": 4,
+      "description": "Ready to live by the code? The Book of Degen is here. Only the worthy shall prosper in the Alephium realm.",
+      "logoURI": "https://github.com/CapitalAlph/token-list/blob/5f7a201ce67088fb4bf5583db95b0b2acc2df79e/logos/Degen.jpg"
   ]
 }
