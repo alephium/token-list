@@ -1118,6 +1118,14 @@
       "decimals": 10,
       "description": "From Solana Community To Alephium Community market https://candyswap.gg/token/ALPHSOL ",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPHSOL.png"
+    },
+    {
+      "id": "aac8be70739c7c96015fbe8b323a11f9b86f7992999c91ef65fcb0bf8496a700",
+      "name": "Alephium Dot Fun",
+      "symbol": "AL.FUN",
+      "decimals": 3,
+      "description": "Introducing Alephium.fun official token $AL.FUN ! Bringing the meme revolution to Alephium. Unleash your inner degen, create, trade, and explore the world of memecoins like never before. https://x.com/alephiumdotfun/",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/AL.FUN.png"
     }
   ]
 }
