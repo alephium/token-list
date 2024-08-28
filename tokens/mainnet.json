@@ -1118,14 +1118,6 @@
       "decimals": 10,
       "description": "From Solana Community To Alephium Community market https://candyswap.gg/token/ALPHSOL ",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPHSOL.png"
-    },
-    {
-      "id": "5092529efcbe0f468cb7890597c0cc61fbb3fca6e47feafbb9aad8df69c57900",
-      "name": "ALCA meme coin",
-      "symbol": "ALCA",
-      "decimals": 3,
-      "description": "ALCA meme coin https://x.com/FoxPool_BTC/ ",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALCA.png"
     }
   ]
 }
