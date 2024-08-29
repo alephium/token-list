@@ -1123,7 +1123,7 @@
       "id": "eb220949deae1e755cf06b944e700c4662f790a7b2a7656da4755cfa73f30700",
       "name": "Bernard",
       "symbol": "BERN",
-      "decimals": 6,
+      "decimals": 8,
       "description": "The bestest boy on Alephium!",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BERN.png"
     }
