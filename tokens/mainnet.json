@@ -1126,6 +1126,14 @@
       "decimals": 8,
       "description": "The bestest boy on Alephium!",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BERN.png"
+    },
+    {
+      "id": "8933767d71a11de0d1c93a4a4d33b0396634d29961049ac8d0101e15fe0e4e00",
+      "name": "Dogs on Alph",
+      "symbol": "DOGS",
+      "decimals": 0,
+      "description": " Woof Woof",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DOGS.png"
     }
   ]
 }
