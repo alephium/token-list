@@ -184,6 +184,14 @@
       "decimals": 6,
       "description": "Token Description",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BEER.png"
+    },
+    {
+      "id": "72de7990fe11bd6d7da06f229594191428eecbc6b58b86029410753aed892103",
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "decimals": 0,
+      "description": "Dogecoin on Alephium",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DOGETEST.jpg"
     }
   ]
 }
