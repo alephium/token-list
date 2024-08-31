@@ -1142,6 +1142,14 @@
       "decimals": 18,
       "description": " bada BOOM",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BOOM.png"
+    },
+    {
+      "id": "a99163814096cc7aed3a6f6f0c869a01beb2bb30f249ebdb7f8607ceb1fe7200",
+      "name": "Luka Magic 77",
+      "symbol": "LD77",
+      "decimals": 4,
+      "description": "Meme token about one of the greatest NBA players Luka Dončič",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/LD77.png"
     }
   ]
 }
