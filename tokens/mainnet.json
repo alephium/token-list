@@ -1134,6 +1134,14 @@
       "decimals": 0,
       "description": " Woof Woof",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DOGS.png"
+    },
+    {
+      "id": "c84cbfaae99c012f3cc1baf37faf6f7e6b5a7e9510afc2813127ea8e85002400",
+      "name": "BOOM",
+      "symbol": "BOOM",
+      "decimals": 18,
+      "description": " bada BOOM",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BOOM.png"
     }
   ]
 }
