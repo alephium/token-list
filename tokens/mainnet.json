@@ -1142,6 +1142,14 @@
       "decimals": 18,
       "description": " bada BOOM",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BOOM.png"
+    },
+    {
+      "id": "edabe8fa7c61061419dc238c7947518d27df9f0494fe845ffc34cea4e414f600",
+      "name": "SNOWY",
+      "symbol": "SNOWY",
+      "decimals": 4,
+      "description": " Be prepared for a blizzard. You must have $SNOWY ",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SNOWY.png"
     }
   ]
 }
