@@ -1158,6 +1158,14 @@
       "decimals": 4,
       "description": " Be prepared for a blizzard. You must have $SNOWY ",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SNOWY.png"
+    },
+    {
+      "id": "f9a626d0465d183e0145e35bdc2836c0d98c37f1af7dd28878584e3e9d123f00",
+      "name": "MEMEX",
+      "symbol": "MEMEX",
+      "decimals": 10,
+      "description": " JUST MEMEX DIGITAL ASSET FROM ALEPHIUM BLOCKCHAIN",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/MEMEX.png"
     }
   ]
 }
