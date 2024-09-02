@@ -1166,6 +1166,14 @@
       "decimals": 10,
       "description": " JUST MEMEX DIGITAL ASSET FROM ALEPHIUM BLOCKCHAIN",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/MEMEX.png"
+    },
+        {
+      "id": "9583c452482f5afb7f5a459605349b517cc2ee6885ad3344e72c7cff64fd6b00",
+      "name": "SWAPA",
+      "symbol": "SWAPA",
+      "decimals": 18,
+      "description": "Swapa, the first veDEX on Alephium",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SWAPA.png"
     }
   ]
 }
