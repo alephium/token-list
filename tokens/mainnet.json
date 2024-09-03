@@ -1174,6 +1174,15 @@
       "decimals": 18,
       "description": "Swapa, the first veDEX on Alephium",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SWAPA.png"
+    },
+    {
+      "id": "672daef37cc0924c0449ef091a8b60ae6e83f8a0c60b1196f00e6b1167df9c00",
+      "name": "Doggies on ALPH",
+      "symbol": "$DOGGIES",
+      "decimals": 5,
+      "description": "Inspired by the Original Gangster $DOGE on the Alephium Network $DOGGIES was born",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/$DOGGIES.png"
     }
+    
   ]
 }
