@@ -1175,5 +1175,14 @@
       "description": "Swapa, the first veDEX on Alephium",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SWAPA.png"
     }
+    ,
+    {
+      "id": "41158ce697223f207f7f4173f50dd43a038d6517e1f7e0a570bd8d5963e61200",
+      "name": "ALPA",
+      "symbol": "ALPA",
+      "decimals": 2,
+      "description": "FoxPool, the first MEME COIN issued by ALPH mining pool",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPA.png"
+    }
   ]
 }
