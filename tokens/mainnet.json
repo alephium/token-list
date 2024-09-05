@@ -1183,6 +1183,14 @@
       "decimals": 2,
       "description": "FoxPool, the first MEME COIN issued by ALPH mining pool",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPA.png"
+    },
+    {
+      "id": "cbdb77a40f1b4785382f41c4aa9dccbd5914496776c4721d5e1bf085b64f3e00",
+      "name": "DOGGIESALPH",
+      "symbol": "DOGGIES",
+      "decimals": 18,
+      "description": "Inspired by the Original Gangster $DOGE on the Alephium Network DOGGIES was born.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DOGGIES.png"
     }
   ]
 }
