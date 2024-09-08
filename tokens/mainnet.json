@@ -1199,6 +1199,14 @@
       "decimals": 0,
       "description": " New meta apes memecoins on Alephium ",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WUKONG.png"
+    },
+{
+      "id": "685d167791a07c1932b33fb64206faddf5c133783aaed49a76c6fe182d1a9600",
+      "name": "Book of Degen",
+      "symbol": "DEGEN",
+      "decimals": 4,
+      "description": " Ready to live by the code? The Book of Degen is here. Only the worthy shall prosper in the Alephium realm. ",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DEGEN.png"
     }
   ]
 }
