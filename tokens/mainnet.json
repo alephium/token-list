@@ -1191,6 +1191,14 @@
       "decimals": 18,
       "description": "Inspired by the Original Gangster $DOGE on the Alephium Network DOGGIES was born.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DOGGIES.png"
+    },
+    {
+      "id": "400934ce887d8f98d667b7529642ea657a05b3de035d3e60735a1cc11440cf00",
+      "name": "ALEPHIUM WUKONG",
+      "symbol": "WUKONG",
+      "decimals": 0,
+      "description": " New meta apes memecoins on Alephium ",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WUKONG.png"
     }
   ]
 }
