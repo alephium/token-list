@@ -1207,6 +1207,14 @@
       "decimals": 4,
       "description": " Ready to live by the code? The Book of Degen is here. Only the worthy shall prosper in the Alephium realm. ",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DEGEN.png"
+    },
+    {
+      "id": "05a830ddab06bb9266e8c4fab28da2c7fdd1e0544e2fd9d282873ed9cece2e00",
+      "name": "AlephiumBear",
+      "symbol": "BEAR",
+      "decimals": 1,
+      "description": "Meme Token Alephium",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BEAR.png"
     }
   ]
 }
