@@ -1222,6 +1222,14 @@
       "decimals": 0,
       "description": "TURBO",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TURBO.png"
+    },
+    {
+      "id": "755ba7fb419c415f1f6b3c84b10aebc9666d670efd183acf211dcf85d3f9a800",
+      "name": "WEN",
+      "symbol": "WEN",
+      "decimals": 6,
+      "description": "Wen? SOON",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WEN.png"
     }
   ]
 }
