@@ -1174,8 +1174,7 @@
       "decimals": 18,
       "description": "Swapa, the first veDEX on Alephium",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SWAPA.png"
-    }
-    ,
+    },
     {
       "id": "41158ce697223f207f7f4173f50dd43a038d6517e1f7e0a570bd8d5963e61200",
       "name": "ALPA",
@@ -1200,7 +1199,7 @@
       "description": " New meta apes memecoins on Alephium ",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WUKONG.png"
     },
-{
+    {
       "id": "685d167791a07c1932b33fb64206faddf5c133783aaed49a76c6fe182d1a9600",
       "name": "Book of Degen",
       "symbol": "DEGEN",
@@ -1215,6 +1214,14 @@
       "decimals": 1,
       "description": "Meme Token Alephium",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BEAR.png"
+    },
+    {
+      "id": "0dc93f0254d9e1e7ef115c697883a3d14f7e933ec6578e60dbc38656f7a88800",
+      "name": "Tad",
+      "symbol": "TAD",
+      "decimals": 10,
+      "description": "Say hi to Tad, Pepe's son!  He's not a big meme yet, but he hopes to grow up to be just like his father!",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TAD.png"
     }
   ]
 }
