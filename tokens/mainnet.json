@@ -1230,6 +1230,14 @@
       "decimals": 6,
       "description": "Wen? SOON",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WEN.png"
+    },
+    {
+      "id": "166a41f14087b459ce112a2009d54237707b36a577dac64babe33e5a95c31d00",
+      "name": "AlephiumApes",
+      "symbol": "APES",
+      "decimals": 10,
+      "description": "Alephium Apes is the second meme token to be listed via Digital Asset Forge.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/APES.png"
     }
   ]
 }
