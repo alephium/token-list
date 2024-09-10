@@ -1230,6 +1230,14 @@
       "decimals": 6,
       "description": "Wen? SOON",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WEN.png"
+    },
+    {
+      "id": "8c83e3d01bc4acd88d3c34ad911114954b711cc59218671576253838a3b7f000",
+      "name": "HONEY",
+      "symbol": "HONEY",
+      "decimals": 10,
+      "description": "Honey, it's so sweet!",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/HONEY.png"
     }
   ]
 }
