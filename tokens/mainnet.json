@@ -1230,6 +1230,14 @@
       "decimals": 6,
       "description": "Wen? SOON",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WEN.png"
+    },
+    {
+      "id": "0dc93f0254d9e1e7ef115c697883a3d14f7e933ec6578e60dbc38656f7a88800",
+      "name": "Tad",
+      "symbol": "TAD",
+      "decimals": 10,
+      "description": "Say hi to Tad, Pepe's son!  He's not a big meme yet, but he hopes to grow up to be just like his father!",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TAD.png"
     }
   ]
 }
