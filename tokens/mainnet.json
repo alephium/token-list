@@ -1246,6 +1246,14 @@
       "decimals": 6,
       "description": "When cool cats meet AI. Official X https://x.com/VowdanC Gets your bags in https://candyswap.gg/token/CATS",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/CATS.png"
+    },
+    {
+      "id": "28959aa1087133cf59e5cd188d032b48fe10018f23339de38055a6da21712500",
+      "name": "Pepe wif Bat",
+      "symbol": "PIB",
+      "decimals": 0,
+      "description": "Pepe with Bat, a new frog has been born into the The PEPE multiverse. https://x.com/PIB_Alephium",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/PIB.png"
     }
   ]
 }
