@@ -1254,6 +1254,14 @@
       "decimals": 0,
       "description": "Pepe with Bat, a new frog has been born into the The PEPE multiverse. https://x.com/PIB_Alephium",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/PIB.png"
+    },
+    {
+      "id": "8c83e3d01bc4acd88d3c34ad911114954b711cc59218671576253838a3b7f000",
+      "name": "HONEY",
+      "symbol": "HONEY",
+      "decimals": 10,
+      "description": "Honey!  It's so sweet!",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/HONEY.png"
     }
   ]
 }
