@@ -1257,8 +1257,8 @@
     },
     {
       "id": "6cc3cd7a703daa2367342a0c6c1c90ca7f69c9b42e28de3a80c322512b205200",
-      "name": "ARK",
-      "symbol": "The ARK",
+      "name": "The ARK",
+      "symbol": "ARK",
       "decimals": 10,
       "description": "The Ark\\nChrist – Centered Sober Living\\nA transitional home in northern Colorado equipping men with faith, fellowship and life skills to STAY sober for a lifetime",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ARK.png"
