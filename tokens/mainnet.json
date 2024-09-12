@@ -1254,6 +1254,14 @@
       "decimals": 0,
       "description": "Pepe with Bat, a new frog has been born into the The PEPE multiverse. https://x.com/PIB_Alephium",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/PIB.png"
+    },
+    {
+      "id": "8f0b69628c2bbd0e61da286bbd2e0f169e20ca4f27663fd0ec6dd03fd4ef8400",
+      "name": "ARK",
+      "symbol": "ARK",
+      "decimals": 0,
+      "description": "The Ark\\nChrist – Centered Sober Living\\nA transitional home in northern Colorado equipping men with faith, fellowship and life skills to STAY sober for a lifetime",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ARK.png"
     }
   ]
 }
