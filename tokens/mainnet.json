@@ -1262,6 +1262,14 @@
       "decimals": 10,
       "description": "The Ark\\nChrist – Centered Sober Living\\nA transitional home in northern Colorado equipping men with faith, fellowship and life skills to STAY sober for a lifetime",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ARK.png"
+    },
+    {
+      "id": "8c83e3d01bc4acd88d3c34ad911114954b711cc59218671576253838a3b7f000",
+      "name": "HONEY",
+      "symbol": "HONEY",
+      "decimals": 10,
+      "description": "Honey",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/HONEY.png"
     }
   ]
 }
