@@ -1262,6 +1262,14 @@
       "decimals": 10,
       "description": "The Ark\\nChrist – Centered Sober Living\\nA transitional home in northern Colorado equipping men with faith, fellowship and life skills to STAY sober for a lifetime",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ARK.png"
+    },
+    {
+      "id": "a9e6b252707d632d57275fd00d7ba8e5585b4b35bc7ff2bf9ec440a66d5efb00",
+      "name": "JustBuyTheCoin",
+      "symbol": "JBTC",
+      "decimals": 8,
+      "description": "JustBuyTheCoin and own some JBTC on Alephium. This is for entertainment purpose and JBTC represents ownership of JustBuyTheCoin token and no ownership in Bitcoin or any form of wrapped Bitcoin.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/JBTC.png"
     }
   ]
 }
