@@ -1262,6 +1262,14 @@
       "decimals": 10,
       "description": "The Ark\\nChrist – Centered Sober Living\\nA transitional home in northern Colorado equipping men with faith, fellowship and life skills to STAY sober for a lifetime",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ARK.png"
+    },
+    {
+      "id": "68badc0a18164ac8342115d8d26be851c25cc3b6fd881bd2505288194f57a300",
+      "name": "BuyTheCoin",
+      "symbol": "BTC",
+      "decimals": 8,
+      "description": "Buy The Coin and own some BTC on Alephium. This token is for entertainment purposes only and represents owning BuyTheCoin(BTC) and does not represent any ownership in Bitcoin.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BTC.png"
     }
   ]
 }
