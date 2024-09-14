@@ -1262,6 +1262,14 @@
       "decimals": 10,
       "description": "The Ark\\nChrist – Centered Sober Living\\nA transitional home in northern Colorado equipping men with faith, fellowship and life skills to STAY sober for a lifetime",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ARK.png"
+    },
+    {
+      "id": "ec0a63c759cab26626356d4788152af6a0f6e0bef56147c7c1454b4f3fa9b800",
+      "name": "Super Cluck",
+      "symbol": "CLUCK",
+      "decimals": 10,
+      "description": "This better clucking work!",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/CLUCK.png"
     }
   ]
 }
