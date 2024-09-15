@@ -1270,6 +1270,14 @@
       "decimals": 8,
       "description": "JustBuyTheCoin and own some JBTC on Alephium. This is for entertainment purpose and JBTC represents ownership of JustBuyTheCoin token and no ownership in Bitcoin or any form of wrapped Bitcoin.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/JBTC.png"
+    },
+    {
+      "id": "73ffdde0d09bd833312605c5ebf69b28fc4a47bbaef8fc2263890ac203fa1800",
+      "name": "0",
+      "symbol": "0",
+      "decimals": 0,
+      "description": "Zero roadmap Zero utility Zero value all about 0",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/0.png"
     }
   ]
 }
