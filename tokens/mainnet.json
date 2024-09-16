@@ -1294,6 +1294,14 @@
       "decimals": 6,
       "description": "cooq cooq",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/COOQ.png"
+    },
+    {
+      "id": "98f8f31b3acb578fea0d31a2f834e95dc4e594dee53b57f55994d6cb75b58f00",
+      "name": "Pokeman on Alph",
+      "symbol": "POKEMAN",
+      "decimals": 4,
+      "description": "Bringing together two of the best options in their world, Pokemon in anime and Alph on blockchain ",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/POKEMAN.png"
     }
   ]
 }
