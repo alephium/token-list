@@ -1286,6 +1286,14 @@
       "decimals": 10,
       "description": "$Hamster is a token created via candyswap. Celebrating Candyswap reward session 2. https://candyswap.gg/token/HAMSTER",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/HAMSTER.png"
+    },
+    {
+      "id": "08bba34d2012d8f83a175e0b5527c4aef8cf476f417da06ac9c108b6e4b4dd00",
+      "name": "COOQ Alephium",
+      "symbol": "COOQ",
+      "decimals": 6,
+      "description": "cooq cooq",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/COOQ.png"
     }
   ]
 }
