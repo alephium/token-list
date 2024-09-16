@@ -1278,6 +1278,14 @@
       "decimals": 0,
       "description": "Zero roadmap Zero utility Zero value all about 0",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/0.png"
+    },
+    {
+      "id": "401f56150e17c10320ce69fc6471affa7e240e2052a78e2e4a3c7b136ae65300",
+      "name": "AlephiumHamster",
+      "symbol": "HAMSTER",
+      "decimals": 10,
+      "description": "$Hamster is a token created via candyswap. Celebrating Candyswap reward session 2. https://candyswap.gg/token/HAMSTER",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/HAMSTER.png"
     }
   ]
 }
