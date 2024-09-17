@@ -1302,6 +1302,14 @@
       "decimals": 4,
       "description": "Bringing together two of the best options in their world, Pokemon in anime and Alph on blockchain ",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/POKEMAN.png"
+    },
+    {
+      "id": "e1ffd397dcaff947177489e5df62cc0da958c689558a46555efc7f495ae00400",
+      "name": "Good Boi",
+      "symbol": "Boi",
+      "decimals": 4,
+      "description": "Boi is a good boi! Boi just wants to make everyone happy and play! Get your life long mans best friend.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BOI.png"
     }
   ]
 }
