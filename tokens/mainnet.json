@@ -1310,6 +1310,15 @@
       "decimals": 4,
       "description": "Boi is a good boi! Boi just wants to make everyone happy and play! Get your life long mans best friend.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BOI.png"
+    },
+    
+    {
+      "id": "2ebc4903b2ab405b3ba8c83bdc0697d3aca9f8ef9c5e0c6362fabd296446fc00",
+      "name": "ALPHCOLONY",
+      "symbol": "ALPHCOL",
+      "decimals": 18,
+      "description": "ALPHCOL is the newest gamefi-coin set to launch on the Alpheuim Blockchain. This innovative coin merges the cutting-edge technology of Alpheuim with the collaborative spirit of a bee colony. https://x.com/alphcolony",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPHCOL.png"
     }
   ]
 }
