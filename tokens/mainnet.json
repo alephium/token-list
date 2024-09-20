@@ -1,4 +1,4 @@
-{
+ol{
   "networkId": 0,
   "tokens": [
     {
@@ -1319,6 +1319,14 @@
       "decimals": 18,
       "description": "ALPHCOL is the newest gamefi-coin set to launch on the Alpheuim Blockchain. This innovative coin merges the cutting-edge technology of Alpheuim with the collaborative spirit of a bee colony. https://x.com/alphcolony",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPHCOL.png"
+    },
+    {
+      "id": "d64d8c00f83b8dd6e87dea4fb5760e0419e0ca1a90070758eb03a1c28c9c0300",
+      "name": "STONK",
+      "symbol": "STONK",
+      "decimals": 4,
+      "description": "ALPH VERY STONK. DONT FADE",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/STONK.png"
     }
   ]
 }
