@@ -1311,7 +1311,6 @@
       "description": "Boi is a good boi! Boi just wants to make everyone happy and play! Get your life long mans best friend.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BOI.png"
     },
-    
     {
       "id": "2ebc4903b2ab405b3ba8c83bdc0697d3aca9f8ef9c5e0c6362fabd296446fc00",
       "name": "ALPHCOLONY",
@@ -1327,6 +1326,14 @@
       "decimals": 4,
       "description": "ALPH VERY STONK. DONT FADE",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/STONK.png"
+    },
+    {
+      "id": "c75f34ee6972b760e99feff8f79e607ce82b874bd8663b4c00594c54060fd800",
+      "name": "HIPPO",
+      "symbol": "HIPPO",
+      "decimals": 4,
+      "description": "The Hippo is Trending\nIYKYK",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/HIPPO.png"
     }
   ]
 }
