@@ -1327,6 +1327,14 @@
       "decimals": 4,
       "description": "ALPH VERY STONK. DONT FADE",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/STONK.png"
+    },
+    {
+      "id": "7161c1af07d9c2b3b2112d374c4e1405e8c50598d148646c72e96358af9ecf00",
+      "name": "Token 2049",
+      "symbol": "TOKEN2049",
+      "decimals": 2,
+      "description": "Fun meme token to celebrating the success of TOKEN2049 event, The Worlds Largest Crypto Event which was attended by Alephium Blockchain",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TOKEN2049.png"
     }
   ]
 }
