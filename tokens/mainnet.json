@@ -1334,6 +1334,14 @@
       "decimals": 4,
       "description": "The Hippo is Trending\nIYKYK",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/HIPPO.png"
+    },
+    {
+      "id": "dfad4db2af0294d2333fdbe6f2f249038cc84de5badf70580089b82b31098f00",
+      "name": "Whale",
+      "symbol": "WHALE",
+      "decimals": 2,
+      "description": "Whale meme tooen was not created for whales",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WHALE.png"
     }
   ]
 }
