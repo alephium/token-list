@@ -1334,6 +1334,14 @@
       "decimals": 4,
       "description": "The Hippo is Trending\nIYKYK",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/HIPPO.png"
+    },
+    {
+      "id": "d49bb73e342af8e9ce5388c7a2208899e3219d9ac57897bccb1a4e865a138100",
+      "name": "Different Token 2049",
+      "symbol": "DIF2049",
+      "decimals": 2,
+      "description": "Meme token to celebrating the success of TOKEN2049 event, The Worlds Largest Crypto Event which was attended by Alephium Blockchain",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DIF2049.png"
     }
   ]
 }
