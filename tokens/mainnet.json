@@ -1342,6 +1342,14 @@
       "decimals": 2,
       "description": "Whale meme tooen was not created for whales",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WHALE.png"
+    },
+    {
+      "id": "71701415463ab05b2d27994203e713317173b98bb3a4d63e397221acdd82ae00",
+      "name": "Book of Alph Memes",
+      "symbol": "BOAM",
+      "decimals": 18,
+      "description": "The wise shall read the BOOK\n\nhttps://discord.gg/JRRKvmEt\n\nhttps://x.com/bookofalphmemes?s=21&t=M_ltNCL9UZGhebQdHIIGtg ",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BOAM.png"
     }
   ]
 }
