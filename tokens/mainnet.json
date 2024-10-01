@@ -1350,6 +1350,14 @@
       "decimals": 18,
       "description": "The wise shall read the BOOK\n\nhttps://discord.gg/JRRKvmEt\n\nhttps://x.com/bookofalphmemes?s=21&t=M_ltNCL9UZGhebQdHIIGtg ",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BOAM.png"
+    },
+    {
+      "id": "33b3aa1bb4bb76119e2bdd2c1f6fd92fa22e5e8b52d42645049166c57be73200",
+      "name": "WANG INU",
+      "symbol": "WIN",
+      "decimals": 8,
+      "description": "WANG INU aims to be the most recognized and respected meme token on Alephium. At its heart WANG INU is the crypto movement thats built on & utilizes Alephium’s trilemma solving technology.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WIN.png"
     }
   ]
 }
