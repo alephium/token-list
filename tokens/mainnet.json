@@ -1358,6 +1358,14 @@
       "decimals": 8,
       "description": "WANG INU aims to be the most recognized and respected meme token on Alephium. At its heart WANG INU is the crypto movement thats built on & utilizes Alephium’s trilemma solving technology.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WIN.png"
+    },
+    {
+      "id": "1a895ae70ae689cf858225016e173c0eeef53ffcfd0ae6716d93a11d12673700",
+      "name": "POOP PIXEL",
+      "symbol": "POOP",
+      "decimals": 6,
+      "description": "SAFE THE WORLD WITH POOP",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/POOP.png"
     }
   ]
 }
