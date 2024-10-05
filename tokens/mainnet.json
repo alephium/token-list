@@ -1366,6 +1366,14 @@
       "decimals": 6,
       "description": "SAFE THE WORLD WITH POOP",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/POOP.png"
+    },
+    {
+      "id": "e07eb63588f67b5aa3fd59d01f8558046d33de90f33f2a474a74780468386e00",
+      "name": "Dare",
+      "symbol": "DARE",
+      "decimals": 18,
+      "description": "The Deadrare reward token!",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DARE.png"
     }
   ]
 }
