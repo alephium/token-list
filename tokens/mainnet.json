@@ -1374,6 +1374,14 @@
       "decimals": 18,
       "description": "The Deadrare reward token!",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DARE.png"
+    },
+    {
+      "id": "7189bb8a1c8cc1b513f54aae765ce48e0bd12593d4f36ab5dfe69734ed89dd00",
+      "name": "POPCAT",
+      "symbol": "POPCAT",
+      "decimals": 0,
+      "description": "$POPCAT on $ALPH",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/POPCAT.png"
     }
   ]
 }
