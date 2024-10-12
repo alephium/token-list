@@ -1390,6 +1390,14 @@
       "decimals": 18,
       "description": " indicate coincidence or coexistence",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SYNC.png"
+    },
+    {
+      "id": "1bd0e357b5ab392f6a2bcc23c94b79c9a766c76bbc51ffdd99ee084f8b139600",
+      "name": "FIRE of GRFN",
+      "symbol": "FIRE",
+      "decimals": 2,
+      "description": "FIRE of GRFN - Let's burn GRFN together - with every FIRE swap on candyswap.gg, 50% GRFN will be burned via buyback. 25% will be used for FIRE liquidity on AYIN and the remaining 25% for upcoming events.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/FIRE.png"
     }
   ]
 }
