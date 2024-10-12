@@ -1382,6 +1382,14 @@
       "decimals": 0,
       "description": "$POPCAT on $ALPH",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/POPCAT.png"
+    },
+    {
+      "id": "c59bf85bbef49601b0b7ad23811f194293040f6a2b7ed8ed52e7420005c34d00",
+      "name": "synchronize",
+      "symbol": "SYNC",
+      "decimals": 18,
+      "description": " indicate coincidence or coexistence",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SYNC.png"
     }
   ]
 }
