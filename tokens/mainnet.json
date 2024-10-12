@@ -1385,7 +1385,7 @@
     },
     {
       "id": "c59bf85bbef49601b0b7ad23811f194293040f6a2b7ed8ed52e7420005c34d00",
-      "name": "synchronize",
+      "name": "Synchronization",
       "symbol": "SYNC",
       "decimals": 18,
       "description": " indicate coincidence or coexistence",
