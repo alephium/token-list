@@ -1398,6 +1398,14 @@
       "decimals": 2,
       "description": "FIRE of GRFN - Let's burn GRFN together - with every FIRE swap on candyswap.gg, 50% GRFN will be burned via buyback. 25% will be used for FIRE liquidity on AYIN and the remaining 25% for upcoming events.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/FIRE.png"
+    },
+    {
+      "id": "48b8c4bc5d036c59baca66268c14b08c3a1fe45f7284d5b094a420a0561ebe00",
+      "name": "DOGESWAPA",
+      "symbol": "DOGESWAPA",
+      "decimals": 10,
+      "description": "Dogeswapa is a meme token that will be launched on many dexes. https://candyswap.gg/token/DOGESWAPA",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DOGESWAPA.png"
     }
   ]
 }
