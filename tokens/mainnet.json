@@ -1406,6 +1406,14 @@
       "decimals": 10,
       "description": "Dogeswapa is a meme token that will be launched on many dexes. https://candyswap.gg/token/DOGESWAPA",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DOGESWAPA.png"
+    },
+    {
+      "id": "4efaf744d8d9089e44d72f27a0c2ba5463f4fd62cbe8b9c3b94ecdaf2bb71e00",
+      "name": "GOAT",
+      "symbol": "GOAT",
+      "decimals": 8,
+      "description": ".",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/GOAT.png"
     }
   ]
 }
