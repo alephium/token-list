@@ -1414,6 +1414,14 @@
       "decimals": 8,
       "description": ".",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/GOAT.png"
+    },
+    {
+      "id": "832bd3d6b2f6cfb4e83cde65fa962a0000291c6900b7563d2a842efb676b8800",
+      "name": "ICE of GRFN",
+      "symbol": "ICE",
+      "decimals": 2,
+      "description": "ICE of GRFN - Fixed presale on candyswap. 50% buyback and liquidity GRFN, 25% buyback GRFN for upcoming rewards, 25% for liquidity ICE on AYIN.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ICE.png"
     }
   ]
 }
