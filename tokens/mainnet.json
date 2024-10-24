@@ -1422,6 +1422,15 @@
       "decimals": 2,
       "description": "ICE of GRFN - Fixed presale on candyswap. 50% buyback and liquidity GRFN, 25% buyback GRFN for upcoming rewards, 25% for liquidity ICE on AYIN.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ICE.png"
-    }
+    },
+		{
+			"id": "cad22f7c98f13fe249c25199c61190a9fb4341f8af9b1c17fcff4cd4b2c3d200",
+			"name": "Elexium",
+			"symbol": "EX",
+			"decimals": 18,
+			"description": "Elexium: The People’s Choice. The first VE dex on Alephium Blockchain",
+			"logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/EX.png"
+		}
   ]
 }
+
