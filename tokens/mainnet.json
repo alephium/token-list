@@ -1430,6 +1430,14 @@
 			"decimals": 18,
 			"description": "Elexium: The People’s Choice. The first VE dex on Alephium Blockchain",
 			"logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/EX.png"
+		},
+		{
+			"id": "05fceaf3d6f0e5e3ebce239f6c5503d42f9595ee4dcb1c8f21965f089e4b9600",
+			"name": "Wrapped Wang",
+			"symbol": "wWANG",
+			"decimals": 5,
+			"description": "A wrapped version of Wang that can be traded on high finance DEX Elexium Finance.",
+			"logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/wWANG.png"
 		}
   ]
 }
