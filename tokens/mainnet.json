@@ -1446,6 +1446,14 @@
       "decimals": 18,
       "description": "Fuel of the RalphBuilder ecosystem",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BUILD.png"
+    },
+    {
+      "id": "491fabc415d141f87ac0adfd9dac071a345ac99a0044a6daacde15ce9b883e00",
+      "name": "AleDEX",
+      "symbol": "ADEX",
+      "decimals": 18,
+      "description": "The truly decentralized leveraged exchange on the Alephium Blockchain.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ADEX.png"
     }
   ]
 }
