@@ -1454,6 +1454,14 @@
       "decimals": 18,
       "description": "The truly decentralized leveraged exchange on the Alephium Blockchain.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ADEX.png"
+    },
+    {
+      "id": "c1a33b163fc45db6b8466ee78d20c61072b6aac07baa37ffbf33a3dec9f17800",
+      "name": "Wrapped BNB (AlphBridge)",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "description": "BNB Bridged to Alephium from Alephium Bridge",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WBNB.png"
     }
   ]
 }
