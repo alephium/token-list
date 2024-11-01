@@ -34,11 +34,11 @@
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WETH.png"
     },
     {
-      "id": "4db93c3e58ca4c3392b9d47be17b62fcbabccba61a7d7c1fa1c3baa40181f700",
-      "name": "Wrapped BNB (Wormhole)",
+      "id": "8f8cc15f28a76f2a2a0400a49691a645b2ba2287fa415c9612417a0403fb6500",
+      "name": "Wrapped BNB (AlphBridge)",
       "symbol": "WBNB",
       "decimals": 18,
-      "description": "BNB Bridged to Alephium from Wormhole",
+      "description": "BNB Bridged to Alephium from Alephium Bridge",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WBNB.png"
     },
     {
