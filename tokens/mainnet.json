@@ -107,7 +107,7 @@
       "symbolOnChain": "USDT",
       "decimals": 6,
       "description": "USDT Bridged to Alephium from Ethereum via Alephium Bridge",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDT.png"
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDTet.png"
     },
     {
       "id": "7ff5e72636f640eb2c28056df3b6879e4c86933505abebf566518ad396335700",
@@ -117,7 +117,7 @@
       "symbolOnChain": "USDT",
       "decimals": 18,
       "description": "USDT Bridged to Alephium from BSC via Alephium Bridge",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDT.png"
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDTbs.png"
     },
     {
       "id": "722954d9067c5a5ad532746a024f2a9d7a18ed9b90e27d0a3a504962160b5600",
@@ -127,7 +127,7 @@
       "symbolOnChain": "USDC",
       "decimals": 6,
       "description": "USDC Bridged to Alephium from Ethereum via Alephium Bridge",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDC.png"
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDCet.png"
     },
     {
       "id": "75e1e9f91468616a371fe416430819bf5386a3e6a258864c574271a404ec8900",
@@ -137,7 +137,7 @@
       "symbolOnChain": "USDC",
       "decimals": 18,
       "description": "USDC Bridged to Alephium from BSC via Alephium Bridge",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDC.png"
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDCbs.png"
     },
     {
       "id": "3d0a1895108782acfa875c2829b0bf76cb586d95ffa4ea9855982667cc73b700",
