@@ -28,6 +28,7 @@ export interface TokenInfo {
   decimals: number
   description: string
   logoURI: string
+  originChain?: string
 }
 
 export type NetworkId = 'mainnet' | 'testnet'

@@ -81,7 +81,17 @@ describe('TokenList', function () {
   })
 
   it('should not contain extra fields', () => {
-    const allowedFields = ['id', 'name', 'nameOnChain', 'symbol', 'symbolOnChain', 'decimals', 'description', 'logoURI']
+    const allowedFields = [
+      'id',
+      'name',
+      'nameOnChain',
+      'symbol',
+      'symbolOnChain',
+      'decimals',
+      'description',
+      'logoURI',
+      'originChain'
+    ]
     tokenLists.forEach((tokenList) => {
       tokenList.tokens.forEach((token) => {
         const tokenFields = Object.keys(token)
@@ -135,6 +145,7 @@ describe('TokenList', function () {
   }
 
   const tokensWithSymbolVariant = ['ALF', 'ANS', 'USDT', 'USDC']
+  const originChains = ['BSC', 'Ethereum']
 
   function checkMetadata(metadata: FungibleTokenMetaData, token: TokenInfoJson) {
     expect(hexToString(metadata.name)).toEqual(token.nameOnChain ?? token.name)
@@ -143,6 +154,10 @@ describe('TokenList', function () {
 
     if (token.symbolOnChain !== undefined) {
       expect(tokensWithSymbolVariant.includes(token.symbolOnChain)).toBe(true)
+    }
+
+    if (token.originChain !== undefined) {
+      expect(originChains.includes(token.originChain)).toBe(true)
     }
   }
 })
