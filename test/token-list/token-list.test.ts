@@ -90,7 +90,8 @@ describe('TokenList', function () {
       'decimals',
       'description',
       'logoURI',
-      'originChain'
+      'originChain',
+      'unchainedLogoURI'
     ]
     tokenLists.forEach((tokenList) => {
       tokenList.tokens.forEach((token) => {
@@ -145,7 +146,7 @@ describe('TokenList', function () {
   }
 
   const tokensWithSymbolVariant = ['ALF', 'ANS', 'USDT', 'USDC']
-  const originChains = ['BSC', 'Ethereum']
+  const originChains = ['ETH', 'BSC']
 
   function checkMetadata(metadata: FungibleTokenMetaData, token: TokenInfoJson) {
     expect(hexToString(metadata.name)).toEqual(token.nameOnChain ?? token.name)
@@ -158,6 +159,16 @@ describe('TokenList', function () {
 
     if (token.originChain !== undefined) {
       expect(originChains.includes(token.originChain)).toBe(true)
+      expect(token.logoURI).toMatch(
+        new RegExp(
+          `https://raw.githubusercontent.com/alephium/token-list/master/logos/${token.symbol}${token.originChain.toLowerCase()}.png`
+        )
+      )
+      expect(token.unchainedLogoURI).toMatch(
+        new RegExp(
+          `https://raw.githubusercontent.com/alephium/token-list/master/logos/${token.symbol}${token.originChain.toLowerCase()}-unchained.png`
+        )
+      )
     }
   }
 })
