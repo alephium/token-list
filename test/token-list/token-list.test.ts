@@ -161,12 +161,16 @@ describe('TokenList', function () {
       expect(originChains.includes(token.originChain)).toBe(true)
       expect(token.logoURI).toMatch(
         new RegExp(
-          `https://raw.githubusercontent.com/alephium/token-list/master/logos/${token.symbol}${token.originChain.toLowerCase()}.png`
+          `https://raw.githubusercontent.com/alephium/token-list/master/logos/${
+            token.symbol
+          }${token.originChain.toLowerCase()}.png`
         )
       )
       expect(token.unchainedLogoURI).toMatch(
         new RegExp(
-          `https://raw.githubusercontent.com/alephium/token-list/master/logos/${token.symbol}${token.originChain.toLowerCase()}-unchained.png`
+          `https://raw.githubusercontent.com/alephium/token-list/master/logos/${
+            token.symbol
+          }${token.originChain.toLowerCase()}-unchained.png`
         )
       )
     }
