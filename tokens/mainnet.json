@@ -103,45 +103,49 @@
       "id": "556d9582463fe44fbd108aedc9f409f69086dc78d994b88ea6c9e65f8bf98e00",
       "name": "Tether USD (Ethereum via AlphBridge)",
       "nameOnChain": "Tether USD (AlphBridge)",
-      "symbol": "USDTet",
+      "symbol": "USDTeth",
       "symbolOnChain": "USDT",
       "decimals": 6,
       "description": "USDT Bridged to Alephium from Ethereum via Alephium Bridge",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDTet.png",
-      "originChain": "Ethereum"
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDTeth.png",
+      "originChain": "ETH",
+      "unchainedLogoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDTeth-unchained.png"
     },
     {
       "id": "7ff5e72636f640eb2c28056df3b6879e4c86933505abebf566518ad396335700",
       "name": "Tether USD (BSC via AlphBridge)",
       "nameOnChain": "Tether USD (AlphBridge)",
-      "symbol": "USDTbs",
+      "symbol": "USDTbsc",
       "symbolOnChain": "USDT",
       "decimals": 18,
       "description": "USDT Bridged to Alephium from BSC via Alephium Bridge",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDTbs.png",
-      "originChain": "BSC"
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDTbsc.png",
+      "originChain": "BSC",
+      "unchainedLogoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDTbsc-unchained.png"
     },
     {
       "id": "722954d9067c5a5ad532746a024f2a9d7a18ed9b90e27d0a3a504962160b5600",
       "name": "USD Coin (Ethereum via AlphBridge)",
       "nameOnChain": "USD Coin (AlphBridge)",
-      "symbol": "USDCet",
+      "symbol": "USDCeth",
       "symbolOnChain": "USDC",
       "decimals": 6,
       "description": "USDC Bridged to Alephium from Ethereum via Alephium Bridge",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDCet.png",
-      "originChain": "Ethereum"
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDCeth.png",
+      "originChain": "ETH",
+      "unchainedLogoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDCeth-unchained.png"
     },
     {
       "id": "75e1e9f91468616a371fe416430819bf5386a3e6a258864c574271a404ec8900",
       "name": "USD Coin (BSC via AlphBridge)",
       "nameOnChain": "USD Coin (AlphBridge)",
-      "symbol": "USDCbs",
+      "symbol": "USDCbsc",
       "symbolOnChain": "USDC",
       "decimals": 18,
       "description": "USDC Bridged to Alephium from BSC via Alephium Bridge",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDCbs.png",
-      "originChain": "BSC"
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDCbsc.png",
+      "originChain": "BSC",
+      "unchainedLogoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDCbsc-unchained.png"
     },
     {
       "id": "3d0a1895108782acfa875c2829b0bf76cb586d95ffa4ea9855982667cc73b700",
