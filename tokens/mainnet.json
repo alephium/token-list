@@ -1451,14 +1451,14 @@
       "description": "ICE of GRFN - Fixed presale on candyswap. 50% buyback and liquidity GRFN, 25% buyback GRFN for upcoming rewards, 25% for liquidity ICE on AYIN.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ICE.png"
     },
-		{
-			"id": "cad22f7c98f13fe249c25199c61190a9fb4341f8af9b1c17fcff4cd4b2c3d200",
-			"name": "Elexium",
-			"symbol": "EX",
-			"decimals": 18,
-			"description": "Elexium: The People’s Choice. The first VE dex on Alephium Blockchain",
-			"logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/EX.png"
-		},
+    {
+      "id": "cad22f7c98f13fe249c25199c61190a9fb4341f8af9b1c17fcff4cd4b2c3d200",
+      "name": "Elexium",
+      "symbol": "EX",
+      "decimals": 18,
+      "description": "Elexium: The People’s Choice. The first VE dex on Alephium Blockchain",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/EX.png"
+    },
     {
       "id": "05fceaf3d6f0e5e3ebce239f6c5503d42f9595ee4dcb1c8f21965f089e4b9600",
       "name": "Wrapped Wang",
@@ -1498,6 +1498,14 @@
       "decimals": 18,
       "description": "The first meme token launched on Elexium Finance, and the sexiest meme token on Alephium",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/EXY.png"
+    },
+    {
+      "id": "aee1a1d09864da0708cf7d7a5c50839c4ed9e72fe3004b3465cb3042689e2f00",
+      "name": "PNUT",
+      "symbol": "PNUT",
+      "decimals": 10,
+      "description": "Time for the squirrel to represent.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/PNUT.png"
     }
   ]
 }
