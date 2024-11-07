@@ -1510,6 +1510,14 @@
       "decimals": 10,
       "description": "Time for the squirrel to represent.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/PNUT.png"
+    },
+    {
+      "id": "7a78192bc26c31acdcb48b80905901523de83c99ce2ae36329cb99ce20546900",
+      "name": "Not a docter",
+      "symbol": "JERKYLL",
+      "decimals": 4,
+      "description": "Fan bois love a good Jerkyll. The wanna be chad, yacht owning, chatroom dictator who loyal followers want to be T-bagged by. The good new is that they most likely will. He makes a great dapp but this coincides with his egotistical chatroom totalitarianism. It's almost like he has two sides. A chad developer with the heart and mind of Lemongrab. ",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/JERKYLL.png"
     }
   ]
 }
