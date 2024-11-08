@@ -184,6 +184,14 @@
       "decimals": 6,
       "description": "Token Description",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BEER.png"
+    },
+    {
+      "id": "d16177300fc9dc1320b45ddcc9e7689273ba7c93b3f521abdadd951077e85800",
+      "name": "AIRSQRL",
+      "symbol": "AIRSQRL",
+      "decimals": 6,
+      "description": "Token Description",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/AIRSQRL.png"
     }
   ]
 }
