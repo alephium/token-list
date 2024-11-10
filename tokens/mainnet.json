@@ -1526,6 +1526,14 @@
       "decimals": 4,
       "description": "LONG was created to represent the spirit of bullishness and positivity needed to carry every trader to the heights of success despite their despair and suffering through the anguish of seemingly hopeless market conditions. Let the light into your situation with the LONG token and rise with the Pheonix to great heights. Embrace positivity and Full Send LONG.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/LONG.png"
+    },
+    {
+      "id": "3a3ace1be9faed706a5c2e810a00ef10cf6843db7386d331438dc1a0cdfd7500",
+      "name": "HATTER",
+      "symbol": "HATT",
+      "decimals": 16,
+      "description": "Welcome to Alphs Wonderland, we've got it all.\nTokens and Defi that make your bags grow tall.\nHolding your diamond hands under sapphire skies.\nOh Alephium I love.\n",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/HATT.png"
     }
   ]
 }
