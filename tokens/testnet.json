@@ -192,6 +192,14 @@
       "decimals": 6,
       "description": "Token Description",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/AIRSQRL.png"
+    },
+    {
+      "id": "0b842b6ecf19f8e4b917097f7ee59382af16edc4fdcc8b0b22c055fc05d13d00",
+      "name": "Nutty the smoking squirrel",
+      "symbol": "NUTTY",
+      "decimals": 18,
+      "description": "Nutty the smoking squirrel is a meme token that was created to bring joy and laughter to the Alephium community.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/NUTTY.png"
     }
   ]
 }
