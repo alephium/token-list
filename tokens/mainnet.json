@@ -1534,6 +1534,14 @@
       "decimals": 16,
       "description": "Welcome to Alphs Wonderland, we've got it all.\nTokens and Defi that make your bags grow tall.\nHolding your diamond hands under sapphire skies.\nOh Alephium I love.\n",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/HATT.png"
+    },
+    {
+      "id": "24e2e1e7b27e9eb768cd3a72cb12ace9f13cb4f7b6daf89199215d1759664100",
+      "name": "Nutty the smoking squirrel",
+      "symbol": "NUTTY",
+      "decimals": 18,
+      "description": "Nutty the smoking squirrel is a meme token that was created to bring joy and laughter to the Alephium community.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/NUTTY.png"
     }
   ]
 }
