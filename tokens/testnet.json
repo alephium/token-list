@@ -27,7 +27,7 @@
     },
     {
       "id": "e70d225282dc48e76740a6533d4ff76c93a26b4ae9a81e2ef584bb781a815300",
-      "name": "Wrapped Ether (Wormhole)",
+      "name": "Wrapped Ether (AlphBridge)",
       "symbol": "WETH",
       "decimals": 18,
       "description": "ETH Bridged to Alephium from Wormhole",
