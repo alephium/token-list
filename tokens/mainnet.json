@@ -1542,6 +1542,14 @@
       "decimals": 18,
       "description": "Nutty the smoking squirrel is a meme token that was created to bring joy and laughter to the Alephium community.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/NUTTY.png"
+    },
+        {
+      "id": "9b3070a93fd5127d8c39561870432fdbc79f598ca8dbf2a3398fc100dfd45f00",
+      "name": "AlphBanX",
+      "symbol": "ABX",
+      "decimals": 9,
+      "description": "AlphBanX is a decentralized lending platform that allows you to borrow AlphBanX Dollars using ALPH as collateral. Choose your own interest rate and bet on liquidations - earning yield from borrowing fees and from liquidated loans.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ABX.png"
     }
   ]
 }
