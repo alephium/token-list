@@ -10,6 +10,16 @@
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPH.png"
     },
     {
+      "id": "c0c0af7a481e3e50c50e418bf8ff6923dc4d878ac3744474e8c708a8adccfb00",
+      "name": "OGAlf",
+      "nameOnChain": "Alf",
+      "symbol": "OGALF",
+      "symbolOnChain": "ALF",
+      "decimals": 0,
+      "description": "OG Alf, real first token deployed on the mainnet",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/OGALF.png"
+    },
+    {
       "id": "66da610efb5129c062e88e5fd65fe810f31efd1597021b2edf887a4360fa0800",
       "name": "Alf",
       "symbol": "ALF",
@@ -91,19 +101,51 @@
     },
     {
       "id": "556d9582463fe44fbd108aedc9f409f69086dc78d994b88ea6c9e65f8bf98e00",
-      "name": "Tether USD (AlphBridge)",
-      "symbol": "USDT",
+      "name": "Tether USD (Ethereum via AlphBridge)",
+      "nameOnChain": "Tether USD (AlphBridge)",
+      "symbol": "USDTeth",
+      "symbolOnChain": "USDT",
       "decimals": 6,
-      "description": "USDT Bridged to Alephium from Alephium Bridge",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDT.png"
+      "description": "USDT Bridged to Alephium from Ethereum via Alephium Bridge",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDTeth.png",
+      "originChain": "ETH",
+      "unchainedLogoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDTeth-unchained.png"
+    },
+    {
+      "id": "7ff5e72636f640eb2c28056df3b6879e4c86933505abebf566518ad396335700",
+      "name": "Tether USD (BSC via AlphBridge)",
+      "nameOnChain": "Tether USD (AlphBridge)",
+      "symbol": "USDTbsc",
+      "symbolOnChain": "USDT",
+      "decimals": 18,
+      "description": "USDT Bridged to Alephium from BSC via Alephium Bridge",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDTbsc.png",
+      "originChain": "BSC",
+      "unchainedLogoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDTbsc-unchained.png"
     },
     {
       "id": "722954d9067c5a5ad532746a024f2a9d7a18ed9b90e27d0a3a504962160b5600",
-      "name": "USD Coin (AlphBridge)",
-      "symbol": "USDC",
+      "name": "USD Coin (Ethereum via AlphBridge)",
+      "nameOnChain": "USD Coin (AlphBridge)",
+      "symbol": "USDCeth",
+      "symbolOnChain": "USDC",
       "decimals": 6,
-      "description": "USDC Bridged to Alephium from Alephium Bridge",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDC.png"
+      "description": "USDC Bridged to Alephium from Ethereum via Alephium Bridge",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDCeth.png",
+      "originChain": "ETH",
+      "unchainedLogoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDCeth-unchained.png"
+    },
+    {
+      "id": "75e1e9f91468616a371fe416430819bf5386a3e6a258864c574271a404ec8900",
+      "name": "USD Coin (BSC via AlphBridge)",
+      "nameOnChain": "USD Coin (AlphBridge)",
+      "symbol": "USDCbsc",
+      "symbolOnChain": "USDC",
+      "decimals": 18,
+      "description": "USDC Bridged to Alephium from BSC via Alephium Bridge",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDCbsc.png",
+      "originChain": "BSC",
+      "unchainedLogoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDCbsc-unchained.png"
     },
     {
       "id": "3d0a1895108782acfa875c2829b0bf76cb586d95ffa4ea9855982667cc73b700",
@@ -474,7 +516,7 @@
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/APAD.png"
     },
     {
-     "id": "9a7cde102e0347a7079b44f923c8a6fb9a1e07f89c1eb5b0fcd54b678ac46100",
+      "id": "9a7cde102e0347a7079b44f923c8a6fb9a1e07f89c1eb5b0fcd54b678ac46100",
       "name": "SPONGOBOBOBAMA420COINTOKENINUVERSE",
       "symbol": "SPOBAMA",
       "decimals": 3,
@@ -482,7 +524,7 @@
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SPOBAMA.png"
     },
     {
-     "id": "9930e01d775c3b6f94f2d6e47315a0e18929e130370bd2f249cd4581b3ae5200",
+      "id": "9930e01d775c3b6f94f2d6e47315a0e18929e130370bd2f249cd4581b3ae5200",
       "name": "Alephium Girls",
       "symbol": "AGIRLS",
       "decimals": 7,
@@ -496,10 +538,1018 @@
       "decimals": 1,
       "description": "BEARZ WITH GUNZ N SHIT CALL 1-800-420-69 THE MOST UNDERGROUND P2P UTXO BASED MEMECOIN ON ALEPHIUM",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BEARZWIFGUNZ180042069.png"
+    },
+    {
+      "id": "b26b785f79e655802bc2bdccfa18faa35e969aaec165e7d17f9640be7df80f00",
+      "name": "BERAS",
+      "symbol": "BOTTOM",
+      "decimals": 5,
+      "description": "BERAS ARE BACK. BRO IT SO OVAH...💀",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BOTTOM.png"
+    },
+    {
+      "id": "de34422c89dfe18d9ba462870f4b26c8d7a02ab6b25855c96eb08ab1a800f300",
+      "name": "BULLZ WIF TULIPZ 1-3-3-7-420-69",
+      "symbol": "BULLZWIFTULIPZ133742069",
+      "decimals": 6,
+      "description": "INVESTING WITH THE BEARZ DURING A FULL ON BULL MARKET, WAHT ARE YOU.. STOOOPID? JOIN DA BULLZ THE CUTEST MEMECOIN ON ALEPHIUM",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BULLZWIFTULIPZ133742069.png"
+    },
+    {
+      "id": "609278ae23ebe63619a57ada9d74b2126b3cfc83965426a66de0d7d59f9b1600",
+      "name": "DONT BUY MEME",
+      "symbol": "DBM",
+      "decimals": 1,
+      "description": "This token may or may not be the biggest meme that you should or shouldn't buy.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DBM.png"
+    },
+    {
+      "id": "ec3f74643fcf9439d267c48e5b4a1c793cc0ec9619fa7528a2644b5af949c500",
+      "name": "Grumpy Cat",
+      "symbol": "GRUMPY",
+      "decimals": 10,
+      "description": "",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/GRUMPY.png"
+    },
+    {
+      "id": "a2468923a5d69b152ddfc87dea4e6d5b09eb4aae239e47ac2bc6ad4807811700",
+      "name": "Happy Dog",
+      "symbol": "HAPPY",
+      "decimals": 10,
+      "description": "woff:DD",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/HAPPY.png"
+    },
+    {
+      "id": "44d9ff4d081c2f498e82d24425b71618738f9d69dd90def0598a3488ccde4a00",
+      "name": "TOOT THE ALPHTASTIC ELEPHANT",
+      "symbol": "TOOT",
+      "decimals": 1,
+      "description": "TOOOT TOOOT THE TOOTMENT IS HERE",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TOOT.png"
+    },
+    {
+      "id": "34b49f0dd151f8ef1e7f0605ca106d86621bf4f4f6c8855214f8db53cfc7c100",
+      "name": "Alegator",
+      "symbol": "GATOR",
+      "decimals": 9,
+      "description": "Alegator represents more than just a meme coin; it is a meme coin incubated from the Alephium spirit. Join us on Twitter: https://twitter.com/Alegator_Alph, Telegram: https://t.me/Alegator_Alph",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/GATOR.png"
+    },
+    {
+      "id": "97082198354e3652a2efe4346a0d3f5d786a0cf5331146ecac70a5ac3c208900",
+      "name": "GIGA",
+      "symbol": "GIGA",
+      "decimals": 2,
+      "description": "$GIGA is coming to Alephium",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/GIGA.png"
+    },
+    {
+      "id": "bc2f9b3af9db12db1035b7683e3d76c319e22006de6c0f6a15e0c04ff183fd00",
+      "name": "AlphZombie",
+      "symbol": "ZMBI",
+      "decimals": 18,
+      "description": "Meee $ZMBI AlphZombie meme token, meeeh want be half-human toOo uh ! Twitter meeeh : https://twitter.com/AlphZombie",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ZMBI.png"
+    },
+    {
+      "id": "ba17d4a0d35eaf94540c31ce713d61f14b8b92f19f607d59d5f20c8d4042d700",
+      "name": "GIGACHENG",
+      "symbol": "CHENG",
+      "decimals": 6,
+      "description": "The $CHENG meme token has been meticulously engineered to propel the Alephium community to unprecedented levels of success and decentralized excellence. Join us on Twitter: https://twitter.com/gigacheng, Telegram: https://t.me/gigacheng",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/CHENG.png"
+    },
+    {
+      "id": "dd1b44a7e6879318418f8b238c494606981b054c8d3e44f037b76f2395e04e00",
+      "name": "LEMUR",
+      "symbol": "LEMUR",
+      "decimals": 3,
+      "description": "The unbeatable LEMUR joins alephium, check our X https://x.com/LEMURalph and watch our veteran devs cook something never before seen on alephium. Partly memes, mostly utility.. Too Daa Moon!",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/LEMUR.png"
+    },
+    {
+      "id": "e8b7cc961cb7689649234d9e7890e134c5a6619759ea0212d6457b06cbed9c00",
+      "name": "Wrapped OG Alf",
+      "symbol": "WALF",
+      "decimals": 18,
+      "description": "A wrapped version of the first token launched on Alephium. OG Alf.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WALF.png"
+    },
+    {
+      "id": "ad5f393479088d8669874f991d5f52ffaf9c946d9703152eccc1cf70efc37200",
+      "name": "ALPHAGA",
+      "symbol": "ALPHAGA",
+      "decimals": 18,
+      "description": "Token of the Alphaga Marketplace ecosystem",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPHAGA.png"
+    },
+    {
+      "id": "fc6601c50e9f2e9bf957967f9ae05850e90eb82d44770b4003f9dfd30e2a1d00",
+      "name": "TEST",
+      "symbol": "TEST",
+      "decimals": 18,
+      "description": "TEST",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TEST.png"
+    },
+    {
+      "id": "edcd9b5c59f23d545faa6d5e91d196098f4d0a14146ace422a8b367ef3b34000",
+      "name": "ANS (alephium.domains)",
+      "nameOnChain": "ANS",
+      "symbol": "ANSd",
+      "symbolOnChain": "ANS",
+      "decimals": 18,
+      "description": "The token of the Alephium Name Service (alephium.domains).",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ANSd.png"
+    },
+    {
+      "id": "6b894505030718e45cdf7c59be1f8c6167542e43522e95303871e8280037b000",
+      "name": "TRUMP 2024",
+      "symbol": "TRUMP",
+      "decimals": 10,
+      "description": "Winning",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TRUMP.png"
+    },
+    {
+      "id": "84e7a6754ea11002b1b06e99819699b2342f4d48f91eee98165c76a49d397400",
+      "name": "Pippa Coin",
+      "symbol": "PIPPA",
+      "decimals": 4,
+      "description": "Pippa la Pip",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/PIPPA.png"
+    },
+    {
+      "id": "33f62fbeebd621996860fe35504c8958f24060040ee7a02c1be9cb62154adf00",
+      "name": "TKCOIN",
+      "symbol": "TKCOIN",
+      "decimals": 4,
+      "description": "TKCOIN, pour le fun, la bière et la communauté",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TKCOIN.png"
+    },
+    {
+      "id": "7236e1b5ddbf8c56a37e02bb282913996c246a14193a57237cfd9fcf1eab5000",
+      "name": "UwU",
+      "symbol": "UWU",
+      "decimals": 6,
+      "description": "Ayaya! Launching first on  CandySwap - https://candyswap.gg/token/UWU",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/UWU.png"
+    },
+    {
+      "id": "2a7c1a01644e5119c5e7aaa42690476eb971f299d99e39b885a828e5994da300",
+      "name": "Bongo Cat",
+      "symbol": "BONG",
+      "decimals": 10,
+      "description": "Bongo Cat! Launching first on  CandySwap - https://candyswap.gg/token/BONG",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BONG.png"
+    },
+    {
+      "id": "6678b5c8125b9b7019a4d39d0077ad7f6304cbad86ddc6c59b906de4b1267100",
+      "name": "DragonCoin",
+      "symbol": "DRGN",
+      "decimals": 3,
+      "description": "Alephium Dragons! Trade on: https://candyswap.gg/token/DRGN",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DRGN.png"
+    },
+    {
+      "id": "7430cebfc525c36b30637830696c1141f02963c06ddf010a1a33134ced2e8b00",
+      "name": "Crawly The Gnome",
+      "symbol": "CRAWLY",
+      "decimals": 8,
+      "description": "Crawly is a green wizard gnome with a net. He enjoys catching things.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/CRAWLY.png"
+    },
+    {
+      "id": "9365b3c817c2c287d5a78763af9620c7d37d496cb6d556790fddf5ab9d2e6c00",
+      "name": "ALPH TEKKI",
+      "symbol": "TEKKI",
+      "decimals": 1,
+      "description": "Meme Token in Alephium live in CandySwap - https://candyswap.gg/token/TEKKI",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TEKKI.png"
+    },
+    {
+      "id": "89e424f5b43fe72246001484423f6b06379be4eefed8b42cc380e1dc6ec0c100",
+      "name": "ELON",
+      "symbol": "ELON",
+      "decimals": 2,
+      "description": "« When something is important enough, you do it even if the odds are not in your favor »",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ELON.png"
+    },
+    {
+      "id": "80b0270f1edce67afd5fc1b42d370308d77011165b8c05338b0bb990d685d500",
+      "name": "BETA",
+      "symbol": "BETA",
+      "decimals": 8,
+      "description": "Alephium Community Token",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BETA.png"
+    },
+    {
+      "id": "162f3606cc6bde743f10d6586197f20e89c1dd9a212a01479cc29e98e0a31d00",
+      "name": "JEET",
+      "symbol": "JEET",
+      "decimals": 10,
+      "description": "Why jeet when you can build?",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/JEET.png"
+    },
+    {
+      "id": "f590df65b35f52958209331c317ece5de8b2d1f946736dc1764dcab776044200",
+      "name": "Candy Crash",
+      "symbol": "CC",
+      "decimals": 6,
+      "description": "A celebratory meme for CANDYSWAP SEASON 1. Earn CANDY tokens while trading any token on CANDYSWAP platform",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/CC.png"
+    },
+    {
+      "id": "99ffbde485e4e594667a0843d264471e6a4630339c8396608ef1032dc8b04000",
+      "name": "SHIBA SHIBBO",
+      "symbol": "SHIBBO",
+      "decimals": 18,
+      "description": "shiba meme coin for fun",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SHIBBO.png"
+    },
+    {
+      "id": "2df4cc8296aa5078f034eedeafec4139f23af440158204a93f76f21b74854500",
+      "name": "ANS (Open Source)",
+      "nameOnChain": "Alephium Name Service",
+      "symbol": "ANSo",
+      "symbolOnChain": "ANS",
+      "decimals": 18,
+      "description": "The token of the Alephium Name Service (alphnames.com).",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ANSo.svg"
+    },
+    {
+      "id": "881a844f3e6511441b5d6fa4896d8bbf87d365f87b3b0c183cb4c4c35268cf00",
+      "name": "HarryPoter",
+      "symbol": "HP",
+      "decimals": 1,
+      "description": "Wingardium Leviosa ! https://www.ayin.app/swap ! https://candyswap.gg/swap !",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/HP.png"
+    },
+    {
+      "id": "ed8d67fb6363aa69b9df581997394b43349da4aa3de7f992b5239a259a42de00",
+      "name": "0XBIIGBANG",
+      "symbol": "0XB",
+      "decimals": 5,
+      "description": "The BIIGBANG and the beginning of everything, see the light and the infinite expansion!",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/0XB.png"
+    },
+    {
+      "id": "de830579a9b874ad6de9d102d48e9479a45eb5037e64615479b21476e0d8f600",
+      "name": "SingularityX",
+      "symbol": "SINX",
+      "decimals": 10,
+      "description": "We are passionate crypto enthusiasts, Alephium enthusiasts and active community members.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SINX.png"
+    },
+    {
+      "id": "fb68e484625b53c62581f2d358a6a83eb1ad918bfb64790d90c2357ca63ceb00",
+      "name": "PEPE",
+      "symbol": "PEPE",
+      "decimals": 0,
+      "description": "Pepe is here to make memecoins great again.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/PEPE.png"
+    },
+    {
+      "id": "f7f9b116c02896e27c7a98b1eb09c39f4dc4cf517e7df72ea8ca93ad70a23100",
+      "name": "I DON'T LIKE YOUR FACE",
+      "symbol": "FACE",
+      "decimals": 10,
+      "description": "I DON'T LIKE YOUR FACE meme token a digital asset that's here to shake up the crypto world",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/FACE.png"
+    },
+    {
+      "id": "da9be0b21e10aa45e960c94a15aa51feb0f336617ae29541e555613af9b27300",
+      "name": "Pingu",
+      "symbol": "PINGU",
+      "decimals": 4,
+      "description": "🐧 Welcome to the $PINGU Colony 🐧We're Alephium OGs here to make memecoins COOL again. Blessed to be so based 🤝Official Links:💱 Buy/Swap: https://candyswap.gg/token/PINGU",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/PINGU.png"
+    },
+    {
+      "id": "0debef738a9097963d4cb4c02aafcf1a07cbc74a6e7a77e57439329a159d0900",
+      "name": "ONETOKEN",
+      "symbol": "ONE",
+      "decimals": 18,
+      "description": "1 token, 18 decimal! Pure madness, just look 👀👀👀💱 Buy/Swap: https://candyswap.gg/token/ONE",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ONE.png"
+    },
+    {
+      "id": "56392bdd8541948e69b9c784d778ca07979bfdc75c2acb15381781d828557500",
+      "name": "Hoppy",
+      "symbol": "HOPPY",
+      "decimals": 2,
+      "description": "From now until 10: 00 p.m. EST on July 22nd, any purchase of $Hoppy will receive an airdrop of the equivalent tokens. $ALPHWe will appear in the new dex later.🤫https://candyswap.gg/token/HOPPY. https://x.com/HoppyAlph",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/HOPPY.png"
+    },
+    {
+      "id": "5999e01b8c23cf1e50ab784e056ebb4bce00ddf0abd3c499146a76bb00d75200",
+      "name": "AlphPost",
+      "symbol": "POST",
+      "decimals": 18,
+      "description": "The first social network and task based marketplace platform in Alephium. https://alphPost.com",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/POST.png"
+    },
+    {
+      "id": "077e81b3a3d1d40581621f0255e86df395db2282704adc6e3be6ab19644a3100",
+      "name": "CHIMKEN",
+      "symbol": "CHIMKEN",
+      "decimals": 7,
+      "description": "ALPH moons and we eat CHIMKEN",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/CHIMKEN.png"
+    },
+    {
+      "id": "3c51b5b11063ae4f5677a071d8576854618de299983f613da843a8a6ed51c600",
+      "name": "ALPH to the MOON",
+      "symbol": "MOON",
+      "decimals": 8,
+      "description": " ALPH road to $100 is not meme. Best L1 Blockchain POLW. https://x.com/AlphMoon alphmoon.xyz ",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/MOON.png"
+    },
+    {
+      "id": "c978e69e9ebe5b95ab0e9f0183c1c35c31ccdc7e9a3638d6b1dc62db0b8d6e00",
+      "name": "MemeGoUP",
+      "symbol": "MGU",
+      "decimals": 0,
+      "description": "A fun token reflecting the meme market sentiment and the overall direction still to come",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/MGU.png"
+    },
+    {
+      "id": "de0d3c6fc589cac8378e767ac4b7b3c288079e176c8b12a3548d0d7bc7ba4400",
+      "name": "CryptoPlayboy",
+      "symbol": "CPLBY",
+      "decimals": 16,
+      "description": "CryptoPlayboy CPLBY is a meme token created for entertainment purposes",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/CPLBY.png"
+    },
+    {
+      "id": "216338071fefb594d27d9b1c339caa25a5d1062f7226794994e7971b9824e100",
+      "name": "WAYANG",
+      "symbol": "WAYANG",
+      "decimals": 8,
+      "description": "Wayang Token belongs to Alephium fans from Indonesia. Wayang is the nation's ancestral cultural heritage https://x.com/WayangAlephium",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WAYANG.png"
+    },
+    {
+      "id": "520e5d8c8c98490e7aae61b37b87fcc80d60da6cebfc94b95f1335125aa26e00",
+      "name": "WAVE",
+      "symbol": "WAVE",
+      "decimals": 10,
+      "description": "Wave on Alephium is Meme Token. Twitter ID https://x.com/WaveOnAlephium",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WAVE.png"
+    },
+    {
+      "id": "5a16414ee706c9c5e48e513fca082703b2e7652ecb3f56837697a1d553020a00",
+      "name": "HUG",
+      "symbol": "HUG",
+      "decimals": 10,
+      "description": "Game Token on Alephium",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/HUG.png"
+    },
+    {
+      "id": "32488b0870d1d92f7d20bde89edfbdb9e6f071ad58bb8b1432f482b539391600",
+      "name": "Crashmarket2024",
+      "symbol": "CRASH",
+      "decimals": 9,
+      "description": "Crash memecoin on Alephium in the crash market. https://x.com/marketcrash2024",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/CRASH.png"
+    },
+    {
+      "id": "dae0bce81368f8ed974090fd063a669bc22ec00076aa97b7f335391af231a200",
+      "name": "Wojak on Alph",
+      "symbol": "WOJAK",
+      "decimals": 6,
+      "description": "No Need To Rush, Wojak on Alephium to make ALPH OG's Memecoins Great Again ",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WOJAK.png"
+    },
+    {
+      "id": "93db3ced5685c6e5438afcc94fc20a1bca8885be75c02f6f164da30f217c2500",
+      "name": "DOH",
+      "symbol": "DOH",
+      "decimals": 18,
+      "description": "Roads are just a suggestion Marge, just like pants.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DOH.png"
+    },
+    {
+      "id": "d1a047c957c450b8459d71138ac0d8abdf669e4f61852af73f6ac654fb9af100",
+      "name": "FROG",
+      "symbol": "FROG",
+      "decimals": 10,
+      "description": "DESKRIPSI : new meme token on alephium https://x.com/AlphFrog83564 ",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/FROG.png"
+    },
+    {
+      "id": "18608da087ea4e173d20637b5dd9e93fffa37dc97e71014a98a46deefbbcec00",
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "decimals": 4,
+      "description": "Much wow, so alph, very doge.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DOGE.png"
+    },
+    {
+      "id": "50f19ae6fe71aad8096a4e9d90eaa4ceaccd301c9736549d3b57111a81778300",
+      "name": "CryptoGriffons",
+      "symbol": "GRFN",
+      "decimals": 2,
+      "description": "Memecoin for CryptoGriffons Community and Alph Community.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/GRFN.png"
+    },
+    {
+      "id": "8d97f8ab9aa1ad84188e853df4f1544131a61d03fce2b9f9054cbc368c31f400",
+      "name": "Candy",
+      "symbol": "CANDY",
+      "decimals": 18,
+      "description": "The CandySwap reward token!",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/CANDY.png"
+    },
+    {
+      "id": "c4f0066f85ab8a57a547f6b0b32f06472a5eb0dd0a9467968990af74946d5100",
+      "name": "Blackjack",
+      "symbol": "BJ",
+      "decimals": 18,
+      "description": "21000 token Only!",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BJ.png"
+    },
+    {
+      "id": "7cf121bdb82ab12adf0028bafff8181523cd30219f46064706696ffde55a2c00",
+      "name": "Poker",
+      "symbol": "PKR",
+      "decimals": 18,
+      "description": "21000 token Only!",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/PKR.png"
+    },
+    {
+      "id": "f1d3d24ef3325827a8bb9c29911f61baee4f146d28ab37d16e5d379434cea600",
+      "name": "FIVE",
+      "symbol": "FIVE",
+      "decimals": 18,
+      "description": "FIVE Token All pooled in ayin swap 5 FIVE/5 AYIN 🚀pool FIVE/AYIN🚀!",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/FIVE.png"
+    },
+    {
+      "id": "8907cab001af8ff1057e22f69533606cd3e207a0d879a9006527a31a7d670b00",
+      "name": "dogwifhat",
+      "symbol": "DOGWIFHAT",
+      "decimals": 0,
+      "description": "literally just a dog wif a hat",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DOGWIFHAT.png"
+    },
+    {
+      "id": "25d74e048ae06c4888a8b5e1522201a208c93b1d44677eaecf36b20124129900",
+      "name": "69",
+      "symbol": "69",
+      "decimals": 18,
+      "description": "Name: 69/ Symbol: 69/ Supply: 69/ Decimals: 18/ AYIN SWAP launch 69-->ALPH_69-->69/ Let's Go too the MOON !",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/69.png"
+    },
+    {
+      "id": "1bf2158a307e11dc3cb12a44a5c0255a01c16a73df402332c9330848268d3a00",
+      "name": "HAPPY420",
+      "symbol": "HAPPY420",
+      "decimals": 2,
+      "description": "Happy420!Relax,takeoff to the moon imminent!🚬🗿🌡️🚀🌒(https://x.com/HAPPY_420_)",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/HAPPY420.png"
+    },
+    {
+      "id": "3b679c6393160a4be222ac3f76c73fbbb5cfac07e62aeaa7eb501dbab5c6a300",
+      "name": "KAMASUTRA",
+      "symbol": "KAMA",
+      "decimals": 4,
+      "description": "(https://x.com/KAMASUTRA_TOKEN)🥵 The only token that will put your head upside down and your purse in the right place 🥵",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/KAMA.png"
+    },
+    {
+      "id": "38706b6e53a0270927b3751dcabd5ef78058bbfc470753b5560eb8d81e48e000",
+      "name": "Niero",
+      "symbol": "Niro",
+      "decimals": 1,
+      "description": "A meme token with utilty. ",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/Niro.png"
+    },
+    {
+      "id": "57233d9cddd3023278db9babb6ed059399bc405c447da7ecf4256db8c3063500",
+      "name": "POOOH",
+      "symbol": "POOOH",
+      "decimals": 18,
+      "description": "more info:'https://x.com/Poooh_Token' ONE POOOH TOKEN! ONE POOOH TOKEN! ONE POOOH TOKEN! ONE POOOH TOKEN! ONE POOOH TOKEN! ONE POOOH TOKEN! ONE POOOH TOKEN! ONE POOOH TOKEN! ONE POOOH TOKEN!",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/POOOH.png"
+    },
+    {
+      "id": "122d0fdfe07429b84427c3be39a01a28d979deee80b7d848fb299dcd6f760100",
+      "name": "NOTHING",
+      "symbol": "NOT",
+      "decimals": 2,
+      "description": "NOTHING",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/NOT.png"
+    },
+    {
+      "id": "dee94e403a91ba1964fece605dc5145961ca5d978929e842e409e811357d0b00",
+      "name": "BANANA",
+      "symbol": "BANANA",
+      "decimals": 0,
+      "description": " New fruit meme token on Alephium ecosystem ",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BANANA.png"
+    },
+    {
+      "id": "d633131779aa9b02ea7fe187c1e542d7fb1bbde113a6330e929697183347c800",
+      "name": "0xbiigbang.alph",
+      "symbol": "0XBIIG",
+      "decimals": 18,
+      "description": "0xbiigbang.alph",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/0XBIIG.png"
+    },
+    {
+      "id": "5e87d8440456d721df5ab4bfb9003ed3ca7882f90b8ba6447b8262c456b37300",
+      "name": "ALPHa BULL",
+      "symbol": "BULL",
+      "decimals": 3,
+      "description": "Don't miss out $BULL - It's Bull season. Biggest meme on ALEPHIUM 🚀. ",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BULL.png"
+    },
+    {
+      "id": "3d0682dacac0af251c8090e7241fc0087d85b7cca818c2b991d754e89cf98b00",
+      "name": "SOUL",
+      "symbol": "SOUL",
+      "decimals": 10,
+      "description": " SOUL FAMILY TOKEN ",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SOUL.png"
+    },
+    {
+      "id": "8b977e199340c1f74e050c7a2d2dc7b71c96f78d96d9aa28fcafe1475b690500",
+      "name": "Angry Frog",
+      "symbol": "ANGRY",
+      "decimals": 6,
+      "description": " CROKK CROKK !!!!! ",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ANGRY.png"
+    },
+    {
+      "id": "02f8a4ff414e6ba6230ce7eef2dcb73907b8ee50e88f67bc3a3a1792abfe2a00",
+      "name": "twenty-one",
+      "symbol": "TWENTYONE",
+      "decimals": 18,
+      "description": "21",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TWENTYONE.png"
+    },
+    {
+      "id": "aae97382bf0b6a105e7f11327e02eb73ae425b2ac46da78a4fe0f42c8fcf8e00",
+      "name": "DUCKIE",
+      "symbol": "DUCK",
+      "decimals": 4,
+      "description": " memeable token ",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DUCK.png"
+    },
+    {
+      "id": "32f71d6629ce72912ce484edc86c72db96a830118868248534be8dbdf0fd6d00",
+      "name": "NoirNeko",
+      "symbol": "NNEKO",
+      "decimals": 18,
+      "description": "NoirNeko is a captivating and mysterious meme coin",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/NNEKO.png"
+    },
+    {
+      "id": "8b96fa9225058358c673daeab4e51930ab095e4638b7f8f9db8496bef60ffc00",
+      "name": "DELPHINA",
+      "symbol": "DELPHINA",
+      "decimals": 10,
+      "description": " Crypto Tokens on the Alephium network. As support for the role of women in the crypto world ",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DELPHINA.png"
+    },
+    {
+      "id": "924b1d641a4bd7cad4db26c154e2d7972a9b1f692dd304a2d63c7f1748c9f300",
+      "name": "APE",
+      "symbol": "APE",
+      "decimals": 0,
+      "description": " $APE uses both FOMO and meme frenzy technology. $APE is 100% experimental, and 100% meme. $APE at your own risk. ",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/APE.png"
+    },
+    {
+      "id": "1f050d54200df57b8ee6734a4c0e58cf645eb01ea89ef5a833eb230e6e9bda00",
+      "name": "TRADE",
+      "symbol": "TRADE",
+      "decimals": 0,
+      "description": "Speculative token with exponential objective",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TRADE.png"
+    },
+    {
+      "id": "4b05972dee373110bbfb3f2141b64954294755006198414931b161805b99e200",
+      "name": "Alephium Flash",
+      "symbol": "FLASH",
+      "decimals": 8,
+      "description": "A flash that will give vibrations to Alephium ",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/FLASH.png"
+    },
+    {
+      "id": "9c9da9375f291bee8738e481b0386f8c2c6b0779365d935dc3502e762ac4fb00",
+      "name": "dontbuy",
+      "symbol": "DONT",
+      "decimals": 10,
+      "description": "just another nonsense token with no utility. send alph, get happy. but dont buy",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DONT.png"
+    },
+    {
+      "id": "7bb148bbcb04bad4700563a22e25c3b12712327ec647792b163c87669933a700",
+      "name": "AlephiumSolana",
+      "symbol": "ALPHSOL",
+      "decimals": 10,
+      "description": "From Solana Community To Alephium Community market https://candyswap.gg/token/ALPHSOL ",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPHSOL.png"
+    },
+    {
+      "id": "eb220949deae1e755cf06b944e700c4662f790a7b2a7656da4755cfa73f30700",
+      "name": "Bernard",
+      "symbol": "BERN",
+      "decimals": 8,
+      "description": "The bestest boy on Alephium!",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BERN.png"
+    },
+    {
+      "id": "8933767d71a11de0d1c93a4a4d33b0396634d29961049ac8d0101e15fe0e4e00",
+      "name": "Dogs on Alph",
+      "symbol": "DOGS",
+      "decimals": 0,
+      "description": " Woof Woof",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DOGS.png"
+    },
+    {
+      "id": "c84cbfaae99c012f3cc1baf37faf6f7e6b5a7e9510afc2813127ea8e85002400",
+      "name": "BOOM",
+      "symbol": "BOOM",
+      "decimals": 18,
+      "description": " bada BOOM",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BOOM.png"
+    },
+    {
+      "id": "a99163814096cc7aed3a6f6f0c869a01beb2bb30f249ebdb7f8607ceb1fe7200",
+      "name": "Luka Magic 77",
+      "symbol": "LD77",
+      "decimals": 4,
+      "description": "Meme token about one of the greatest NBA players Luka Dončič",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/LD77.png"
+    },
+    {
+      "id": "edabe8fa7c61061419dc238c7947518d27df9f0494fe845ffc34cea4e414f600",
+      "name": "SNOWY",
+      "symbol": "SNOWY",
+      "decimals": 4,
+      "description": " Be prepared for a blizzard. You must have $SNOWY ",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SNOWY.png"
+    },
+    {
+      "id": "f9a626d0465d183e0145e35bdc2836c0d98c37f1af7dd28878584e3e9d123f00",
+      "name": "MEMEX",
+      "symbol": "MEMEX",
+      "decimals": 10,
+      "description": " JUST MEMEX DIGITAL ASSET FROM ALEPHIUM BLOCKCHAIN",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/MEMEX.png"
+    },
+    {
+      "id": "9583c452482f5afb7f5a459605349b517cc2ee6885ad3344e72c7cff64fd6b00",
+      "name": "SWAPA",
+      "symbol": "SWAPA",
+      "decimals": 18,
+      "description": "Swapa, the first veDEX on Alephium",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SWAPA.png"
+    },
+    {
+      "id": "41158ce697223f207f7f4173f50dd43a038d6517e1f7e0a570bd8d5963e61200",
+      "name": "ALPA",
+      "symbol": "ALPA",
+      "decimals": 2,
+      "description": "FoxPool, the first MEME COIN issued by ALPH mining pool",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPA.png"
+    },
+    {
+      "id": "cbdb77a40f1b4785382f41c4aa9dccbd5914496776c4721d5e1bf085b64f3e00",
+      "name": "DOGGIESALPH",
+      "symbol": "DOGGIES",
+      "decimals": 18,
+      "description": "Inspired by the Original Gangster $DOGE on the Alephium Network DOGGIES was born.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DOGGIES.png"
+    },
+    {
+      "id": "400934ce887d8f98d667b7529642ea657a05b3de035d3e60735a1cc11440cf00",
+      "name": "ALEPHIUM WUKONG",
+      "symbol": "WUKONG",
+      "decimals": 0,
+      "description": " New meta apes memecoins on Alephium ",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WUKONG.png"
+    },
+    {
+      "id": "685d167791a07c1932b33fb64206faddf5c133783aaed49a76c6fe182d1a9600",
+      "name": "Book of Degen",
+      "symbol": "DEGEN",
+      "decimals": 4,
+      "description": " Ready to live by the code? The Book of Degen is here. Only the worthy shall prosper in the Alephium realm. ",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DEGEN.png"
+    },
+    {
+      "id": "05a830ddab06bb9266e8c4fab28da2c7fdd1e0544e2fd9d282873ed9cece2e00",
+      "name": "AlephiumBear",
+      "symbol": "BEAR",
+      "decimals": 1,
+      "description": "Meme Token Alephium",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BEAR.png"
+    },
+    {
+      "id": "24e1e0b1fc67d87052c7b1e448312401dab0255f92d6b5242656b8231ccaa900",
+      "name": "TURBO",
+      "symbol": "TURBO",
+      "decimals": 0,
+      "description": "TURBO",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TURBO.png"
+    },
+    {
+      "id": "755ba7fb419c415f1f6b3c84b10aebc9666d670efd183acf211dcf85d3f9a800",
+      "name": "WEN",
+      "symbol": "WEN",
+      "decimals": 6,
+      "description": "Wen? SOON",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WEN.png"
+    },
+    {
+      "id": "166a41f14087b459ce112a2009d54237707b36a577dac64babe33e5a95c31d00",
+      "name": "AlephiumApes",
+      "symbol": "APES",
+      "decimals": 10,
+      "description": "Alephium Apes is the second meme token to be listed via Digital Asset Forge.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/APES.png"
+    },
+    {
+      "id": "bcaf8101eded1f64a9456c7a64d12ec653404c860f5adb0f849c096663edf400",
+      "name": "Cats AI",
+      "symbol": "CATS",
+      "decimals": 6,
+      "description": "When cool cats meet AI. Official X https://x.com/VowdanC Gets your bags in https://candyswap.gg/token/CATS",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/CATS.png"
+    },
+    {
+      "id": "28959aa1087133cf59e5cd188d032b48fe10018f23339de38055a6da21712500",
+      "name": "Pepe wif Bat",
+      "symbol": "PIB",
+      "decimals": 0,
+      "description": "Pepe with Bat, a new frog has been born into the The PEPE multiverse. https://x.com/PIB_Alephium",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/PIB.png"
+    },
+    {
+      "id": "6cc3cd7a703daa2367342a0c6c1c90ca7f69c9b42e28de3a80c322512b205200",
+      "name": "The ARK",
+      "symbol": "ARK",
+      "decimals": 10,
+      "description": "The Ark\\nChrist – Centered Sober Living\\nA transitional home in northern Colorado equipping men with faith, fellowship and life skills to STAY sober for a lifetime",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ARK.png"
+    },
+    {
+      "id": "a9e6b252707d632d57275fd00d7ba8e5585b4b35bc7ff2bf9ec440a66d5efb00",
+      "name": "JustBuyTheCoin",
+      "symbol": "JBTC",
+      "decimals": 8,
+      "description": "JustBuyTheCoin and own some JBTC on Alephium. This is for entertainment purpose and JBTC represents ownership of JustBuyTheCoin token and no ownership in Bitcoin or any form of wrapped Bitcoin.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/JBTC.png"
+    },
+    {
+      "id": "73ffdde0d09bd833312605c5ebf69b28fc4a47bbaef8fc2263890ac203fa1800",
+      "name": "0",
+      "symbol": "0",
+      "decimals": 0,
+      "description": "Zero roadmap Zero utility Zero value all about 0",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/0.png"
+    },
+    {
+      "id": "401f56150e17c10320ce69fc6471affa7e240e2052a78e2e4a3c7b136ae65300",
+      "name": "AlephiumHamster",
+      "symbol": "HAMSTER",
+      "decimals": 10,
+      "description": "$Hamster is a token created via candyswap. Celebrating Candyswap reward session 2. https://candyswap.gg/token/HAMSTER",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/HAMSTER.png"
+    },
+    {
+      "id": "08bba34d2012d8f83a175e0b5527c4aef8cf476f417da06ac9c108b6e4b4dd00",
+      "name": "COOQ Alephium",
+      "symbol": "COOQ",
+      "decimals": 6,
+      "description": "cooq cooq",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/COOQ.png"
+    },
+    {
+      "id": "98f8f31b3acb578fea0d31a2f834e95dc4e594dee53b57f55994d6cb75b58f00",
+      "name": "Pokeman on Alph",
+      "symbol": "POKEMAN",
+      "decimals": 4,
+      "description": "Bringing together two of the best options in their world, Pokemon in anime and Alph on blockchain ",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/POKEMAN.png"
+    },
+    {
+      "id": "eb62a9d372a7d3bcfac6ee97605fd9c53a2c6ae83feddc2dfa5fa5f2d3e47400",
+      "name": "GOOD BOI",
+      "symbol": "BOI",
+      "decimals": 4,
+      "description": "Boi is a good boi! Boi just wants to make everyone happy and play! Get your life long mans best friend.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BOI.png"
+    },
+    {
+      "id": "2ebc4903b2ab405b3ba8c83bdc0697d3aca9f8ef9c5e0c6362fabd296446fc00",
+      "name": "ALPHCOLONY",
+      "symbol": "ALPHCOL",
+      "decimals": 18,
+      "description": "ALPHCOL is the newest gamefi-coin set to launch on the Alpheuim Blockchain. This innovative coin merges the cutting-edge technology of Alpheuim with the collaborative spirit of a bee colony. https://x.com/alphcolony",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPHCOL.png"
+    },
+    {
+      "id": "d64d8c00f83b8dd6e87dea4fb5760e0419e0ca1a90070758eb03a1c28c9c0300",
+      "name": "STONK",
+      "symbol": "STONK",
+      "decimals": 4,
+      "description": "ALPH VERY STONK. DONT FADE",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/STONK.png"
+    },
+    {
+      "id": "c75f34ee6972b760e99feff8f79e607ce82b874bd8663b4c00594c54060fd800",
+      "name": "HIPPO",
+      "symbol": "HIPPO",
+      "decimals": 4,
+      "description": "The Hippo is Trending\nIYKYK",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/HIPPO.png"
+    },
+    {
+      "id": "dfad4db2af0294d2333fdbe6f2f249038cc84de5badf70580089b82b31098f00",
+      "name": "Whale",
+      "symbol": "WHALE",
+      "decimals": 2,
+      "description": "Whale meme tooen was not created for whales",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WHALE.png"
+    },
+    {
+      "id": "71701415463ab05b2d27994203e713317173b98bb3a4d63e397221acdd82ae00",
+      "name": "Book of Alph Memes",
+      "symbol": "BOAM",
+      "decimals": 18,
+      "description": "The wise shall read the BOOK\n\nhttps://discord.gg/JRRKvmEt\n\nhttps://x.com/bookofalphmemes?s=21&t=M_ltNCL9UZGhebQdHIIGtg ",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BOAM.png"
+    },
+    {
+      "id": "33b3aa1bb4bb76119e2bdd2c1f6fd92fa22e5e8b52d42645049166c57be73200",
+      "name": "WANG INU",
+      "symbol": "WIN",
+      "decimals": 8,
+      "description": "WANG INU aims to be the most recognized and respected meme token on Alephium. At its heart WANG INU is the crypto movement thats built on & utilizes Alephium’s trilemma solving technology.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WIN.png"
+    },
+    {
+      "id": "1a895ae70ae689cf858225016e173c0eeef53ffcfd0ae6716d93a11d12673700",
+      "name": "POOP PIXEL",
+      "symbol": "POOP",
+      "decimals": 6,
+      "description": "SAFE THE WORLD WITH POOP",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/POOP.png"
+    },
+    {
+      "id": "e07eb63588f67b5aa3fd59d01f8558046d33de90f33f2a474a74780468386e00",
+      "name": "Dare",
+      "symbol": "DARE",
+      "decimals": 18,
+      "description": "The Deadrare reward token!",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DARE.png"
+    },
+    {
+      "id": "7189bb8a1c8cc1b513f54aae765ce48e0bd12593d4f36ab5dfe69734ed89dd00",
+      "name": "POPCAT",
+      "symbol": "POPCAT",
+      "decimals": 0,
+      "description": "$POPCAT on $ALPH",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/POPCAT.png"
+    },
+    {
+      "id": "c59bf85bbef49601b0b7ad23811f194293040f6a2b7ed8ed52e7420005c34d00",
+      "name": "Synchronization",
+      "symbol": "SYNC",
+      "decimals": 18,
+      "description": " indicate coincidence or coexistence",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SYNC.png"
+    },
+    {
+      "id": "1bd0e357b5ab392f6a2bcc23c94b79c9a766c76bbc51ffdd99ee084f8b139600",
+      "name": "FIRE of GRFN",
+      "symbol": "FIRE",
+      "decimals": 2,
+      "description": "FIRE of GRFN - Let's burn GRFN together - with every FIRE swap on candyswap.gg, 50% GRFN will be burned via buyback. 25% will be used for FIRE liquidity on AYIN and the remaining 25% for upcoming events.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/FIRE.png"
+    },
+    {
+      "id": "48b8c4bc5d036c59baca66268c14b08c3a1fe45f7284d5b094a420a0561ebe00",
+      "name": "DOGESWAPA",
+      "symbol": "DOGESWAPA",
+      "decimals": 10,
+      "description": "Dogeswapa is a meme token that will be launched on many dexes. https://candyswap.gg/token/DOGESWAPA",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DOGESWAPA.png"
+    },
+    {
+      "id": "4efaf744d8d9089e44d72f27a0c2ba5463f4fd62cbe8b9c3b94ecdaf2bb71e00",
+      "name": "GOAT",
+      "symbol": "GOAT",
+      "decimals": 8,
+      "description": ".",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/GOAT.png"
+    },
+    {
+      "id": "832bd3d6b2f6cfb4e83cde65fa962a0000291c6900b7563d2a842efb676b8800",
+      "name": "ICE of GRFN",
+      "symbol": "ICE",
+      "decimals": 2,
+      "description": "ICE of GRFN - Fixed presale on candyswap. 50% buyback and liquidity GRFN, 25% buyback GRFN for upcoming rewards, 25% for liquidity ICE on AYIN.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ICE.png"
+    },
+    {
+      "id": "cad22f7c98f13fe249c25199c61190a9fb4341f8af9b1c17fcff4cd4b2c3d200",
+      "name": "Elexium",
+      "symbol": "EX",
+      "decimals": 18,
+      "description": "Elexium: The People’s Choice. The first VE dex on Alephium Blockchain",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/EX.png"
+    },
+    {
+      "id": "05fceaf3d6f0e5e3ebce239f6c5503d42f9595ee4dcb1c8f21965f089e4b9600",
+      "name": "Wrapped Wang",
+      "symbol": "wWANG",
+      "decimals": 5,
+      "description": "A wrapped version of Wang that can be traded on high finance DEX Elexium Finance.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/wWANG.png"
+    },
+    {
+      "id": "bcb548631e52e79fd617e0e62180d6d79ad259652093590a874acbeb8b65ac00",
+      "name": "RalphBuilder",
+      "symbol": "BUILD",
+      "decimals": 18,
+      "description": "Fuel of the RalphBuilder ecosystem",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BUILD.png"
+    },
+    {
+      "id": "491fabc415d141f87ac0adfd9dac071a345ac99a0044a6daacde15ce9b883e00",
+      "name": "AleDEX",
+      "symbol": "ADEX",
+      "decimals": 18,
+      "description": "The truly decentralized leveraged exchange on the Alephium Blockchain.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ADEX.png"
+    },
+    {
+      "id": "c1a33b163fc45db6b8466ee78d20c61072b6aac07baa37ffbf33a3dec9f17800",
+      "name": "Wrapped BNB (AlphBridge)",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "description": "BNB Bridged to Alephium from Alephium Bridge",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WBNB.png"
+    },
+    {
+      "id": "b067767804137fa913fe30a26a7c5f397faba36aaa7b9650327ae4e6e9305d00",
+      "name": "Sexy Pepe",
+      "symbol": "EXY",
+      "decimals": 18,
+      "description": "The first meme token launched on Elexium Finance, and the sexiest meme token on Alephium",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/EXY.png"
+    },
+    {
+      "id": "aee1a1d09864da0708cf7d7a5c50839c4ed9e72fe3004b3465cb3042689e2f00",
+      "name": "PNUT",
+      "symbol": "PNUT",
+      "decimals": 10,
+      "description": "Time for the squirrel to represent.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/PNUT.png"
+    },
+    {
+      "id": "7a78192bc26c31acdcb48b80905901523de83c99ce2ae36329cb99ce20546900",
+      "name": "Not a docter",
+      "symbol": "JERKYLL",
+      "decimals": 4,
+      "description": "Fan bois love a good Jerkyll. The wanna be chad, yacht owning, chatroom dictator who loyal followers want to be T-bagged by. The good new is that they most likely will. He makes a great dapp but this coincides with his egotistical chatroom totalitarianism. It's almost like he has two sides. A chad developer with the heart and mind of Lemongrab. ",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/JERKYLL.png"
+    },
+    {
+      "id": "f4499f4a902fbe28a68c998997968d5feebe579e0ea79f04e1a37ce4f2504000",
+      "name": "Send It",
+      "symbol": "LONG",
+      "decimals": 4,
+      "description": "LONG was created to represent the spirit of bullishness and positivity needed to carry every trader to the heights of success despite their despair and suffering through the anguish of seemingly hopeless market conditions. Let the light into your situation with the LONG token and rise with the Pheonix to great heights. Embrace positivity and Full Send LONG.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/LONG.png"
+    },
+    {
+      "id": "3a3ace1be9faed706a5c2e810a00ef10cf6843db7386d331438dc1a0cdfd7500",
+      "name": "HATTER",
+      "symbol": "HATT",
+      "decimals": 16,
+      "description": "Welcome to Alphs Wonderland, we've got it all.\nTokens and Defi that make your bags grow tall.\nHolding your diamond hands under sapphire skies.\nOh Alephium I love.\n",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/HATT.png"
+    },
+    {
+      "id": "160685b0942ccf2ad0c001b9f0e0349b70a85e255e6710fede723604b6f35b00",
+      "name": "Nutty the smoking squirrel",
+      "symbol": "NUTTY",
+      "decimals": 18,
+      "description": "Nutty the smoking squirrel is a meme token that was created to bring joy and laughter to the Alephium community.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/NUTTY.png"
+    },
+        {
+      "id": "9b3070a93fd5127d8c39561870432fdbc79f598ca8dbf2a3398fc100dfd45f00",
+      "name": "AlphBanX",
+      "symbol": "ABX",
+      "decimals": 9,
+      "description": "AlphBanX is a decentralized lending platform that allows you to borrow AlphBanX Dollars using ALPH as collateral. Choose your own interest rate and bet on liquidations - earning yield from borrowing fees and from liquidated loans.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ABX.png"
     }
-
-      
-    
   ]
-} 
-
+}

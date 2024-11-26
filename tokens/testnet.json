@@ -26,19 +26,19 @@
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TETH.png"
     },
     {
-      "id": "9a8cda8bc3423347b7fe2932ef7981ed67e8825dba3a5ee36011f578d1d70f00",
-      "name": "Wrapped Ether (Wormhole)",
+      "id": "e70d225282dc48e76740a6533d4ff76c93a26b4ae9a81e2ef584bb781a815300",
+      "name": "Wrapped Ether (AlphBridge)",
       "symbol": "WETH",
       "decimals": 18,
       "description": "ETH Bridged to Alephium from Wormhole",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WETH.png"
     },
     {
-      "id": "4db93c3e58ca4c3392b9d47be17b62fcbabccba61a7d7c1fa1c3baa40181f700",
-      "name": "Wrapped BNB (Wormhole)",
+      "id": "8f8cc15f28a76f2a2a0400a49691a645b2ba2287fa415c9612417a0403fb6500",
+      "name": "Wrapped BNB (AlphBridge)",
       "symbol": "WBNB",
       "decimals": 18,
-      "description": "BNB Bridged to Alephium from Wormhole",
+      "description": "BNB Bridged to Alephium from Alephium Bridge",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WBNB.png"
     },
     {
@@ -80,6 +80,126 @@
       "decimals": 4,
       "description": "Your passive-aggressive backyard squirrel",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SQRL.png"
+    },
+    {
+      "id": "649fcbc20e2dbbc42b55c8415b372c6bea96e7d0984698d045a1fd11f6f11f00",
+      "name": "GAG",
+      "symbol": "GAG",
+      "decimals": 6,
+      "description": "Gee Arc Gee",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/GAG.png"
+    },
+    {
+      "id": "1441e27ae0fa5217ad8c75fc20e6311247c159b12949d79e461e98bd02ca8e00",
+      "name": "XDF",
+      "symbol": "XDF",
+      "decimals": 6,
+      "description": "Token Description",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/XDF.png"
+    },
+    {
+      "id": "43c18bb5049377028a2f3b1cd0ab980c25cf45603ab8ac7451a6c3e25c301700",
+      "name": "GGD",
+      "symbol": "GGD",
+      "decimals": 6,
+      "description": "Token Description",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/GGD.png"
+    },
+    {
+      "id": "03f2a63cef2530ecbc637da7f6dbf99fee493772c64ef19179349a6db4f67e00",
+      "name": "FOX",
+      "symbol": "FOX",
+      "decimals": 6,
+      "description": "Token Description",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/FOX.png"
+    },
+    {
+      "id": "54e825faa9e6d9d393b1c4fddd6d2a330b76e9ea630738a409cf07ccf7af3300",
+      "name": "KOBE",
+      "symbol": "KOBE",
+      "decimals": 6,
+      "description": "Token Description",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/KOBE.png"
+    },
+    {
+      "id": "7140fef3f630aef6effc6aa03d879cb549718636cfb83718097da887a72dae00",
+      "name": "ANS",
+      "symbol": "ANS",
+      "decimals": 18,
+      "description": "The token of the Alephium Name Service.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ANS.png"
+    },
+    {
+      "id": "ecdcbfe20a2c998f261d81d8c4bbb685d486aca383b0a10a05d5375d95389500",
+      "name": "123",
+      "symbol": "123",
+      "decimals": 6,
+      "description": "Token Description",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/123.png"
+    },
+    {
+      "id": "8e6877d8dee708506625a77d73f62210dce24564cfa9ec93c0df02f2ba519b00",
+      "name": "SWAPA",
+      "symbol": "SWAPA",
+      "decimals": 18,
+      "description": "SWAPA on testnet. The first veDEX on Alephium",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SWAPA.png"
+    },
+    {
+      "id": "2e15aa445eb2ed419cd786b8640955272d6f86b7ff5405d08f279623c3a83900",
+      "name": "xSWAPA",
+      "symbol": "xSWAPA",
+      "decimals": 18,
+      "description": "xSWAPA on testnet. xSWAPA is converted SWAPA, serving enabling you to vote and earn fees",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/xSWAPA.png"
+    },
+    {
+      "id": "c7da969f8a4000ca5d8a589d8df5424a30cb7dbc66a9bb196fc0191ed7423b00",
+      "name": "Vereenigde Oostindische Compagnie",
+      "symbol": "VOC",
+      "decimals": 30,
+      "description": "spices for all",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/VOC.png"
+    },
+    {
+      "id": "da757dd1da7016d3376c5176beeeb4a5561b44da3d292d99abdf4b38946f6c00",
+      "name": "silver",
+      "symbol": "SILVER",
+      "decimals": 30,
+      "description": "Silver, almost as good as $GOLD",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SILVER.png"
+    },
+    {
+      "id": "40af97e88f2c79311ebce21b8e0d575fed6d555713fdec05dfbf5d863d6d1e00",
+      "name": "Gold Castle Club",
+      "symbol": "GOLD",
+      "decimals": 0,
+      "description": "$GOLD on testnet",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/GOLD.png"
+    },
+    {
+      "id": "9af4bfbcbbfdef017e9cadfa2110cb5d3b8dafe150ed7852bc7fb32b44fdaf00",
+      "name": "BEER",
+      "symbol": "BEER",
+      "decimals": 6,
+      "description": "Token Description",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BEER.png"
+    },
+    {
+      "id": "d16177300fc9dc1320b45ddcc9e7689273ba7c93b3f521abdadd951077e85800",
+      "name": "AIRSQRL",
+      "symbol": "AIRSQRL",
+      "decimals": 6,
+      "description": "Token Description",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/AIRSQRL.png"
+    },
+    {
+      "id": "0b842b6ecf19f8e4b917097f7ee59382af16edc4fdcc8b0b22c055fc05d13d00",
+      "name": "Nutty the smoking squirrel",
+      "symbol": "NUTTY",
+      "decimals": 18,
+      "description": "Nutty the smoking squirrel is a meme token that was created to bring joy and laughter to the Alephium community.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/NUTTY.png"
     }
   ]
 }

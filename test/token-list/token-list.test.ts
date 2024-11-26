@@ -24,14 +24,24 @@ import testnetJson from '../../tokens/testnet.json'
 import { checkDuplicates } from '../utils'
 import devnetJson from './devnet.json'
 
-const mainnetTokenList = mainnetJson as TokenList
-const testnetTokenList = testnetJson as TokenList
-const devnetTokenList = devnetJson as TokenList
+interface TokenListJson extends TokenList {
+  networkId: number
+  tokens: TokenInfoJson[]
+}
+
+interface TokenInfoJson extends TokenInfo {
+  nameOnChain?: string
+  symbolOnChain?: string
+}
+
+const mainnetTokenList = mainnetJson as TokenListJson
+const testnetTokenList = testnetJson as TokenListJson
+const devnetTokenList = devnetJson as TokenListJson
 
 const tokenLists = [mainnetTokenList, testnetTokenList, devnetTokenList]
 
-const mainnetURL = 'https://wallet-v20.mainnet.alephium.org'
-const testnetURL = 'https://wallet-v20.testnet.alephium.org'
+const mainnetURL = 'https://node.mainnet.alephium.org'
+const testnetURL = 'https://node.testnet.alephium.org'
 
 describe('TokenList', function () {
   it('should contains no duplicate', () => {
@@ -68,6 +78,27 @@ describe('TokenList', function () {
   it('should have a networkId matching file name', () => {
     expect(mainnetJson.networkId).toEqual(0)
     expect(testnetJson.networkId).toEqual(1)
+  })
+
+  it('should not contain extra fields', () => {
+    const allowedFields = [
+      'id',
+      'name',
+      'nameOnChain',
+      'symbol',
+      'symbolOnChain',
+      'decimals',
+      'description',
+      'logoURI',
+      'originChain',
+      'unchainedLogoURI'
+    ]
+    tokenLists.forEach((tokenList) => {
+      tokenList.tokens.forEach((token) => {
+        const tokenFields = Object.keys(token)
+        tokenFields.forEach((field) => expect(allowedFields).toContain(field))
+      })
+    })
   })
 
   const mainnetNodeProvider = new NodeProvider(mainnetURL)
@@ -114,9 +145,26 @@ describe('TokenList', function () {
     await nodeProvider.fetchFungibleTokenMetaData(token.id).then((metadata) => checkMetadata(metadata, token))
   }
 
-  function checkMetadata(metadata: FungibleTokenMetaData, token: TokenInfo) {
-    expect(hexToString(metadata.name)).toEqual(token.name)
-    expect(hexToString(metadata.symbol)).toEqual(token.symbol)
+  const tokensWithSymbolVariant = ['ALF', 'ANS', 'USDT', 'USDC']
+  const originChains = ['ETH', 'BSC']
+
+  function checkMetadata(metadata: FungibleTokenMetaData, token: TokenInfoJson) {
+    expect(hexToString(metadata.name)).toEqual(token.nameOnChain ?? token.name)
+    expect(hexToString(metadata.symbol)).toEqual(token.symbolOnChain ?? token.symbol)
     expect(metadata.decimals).toEqual(token.decimals)
+
+    if (token.symbolOnChain !== undefined) {
+      expect(tokensWithSymbolVariant.includes(token.symbolOnChain)).toBe(true)
+    }
+
+    if (token.originChain !== undefined) {
+      expect(originChains.includes(token.originChain)).toBe(true)
+      expect(token.logoURI).toMatch(
+        new RegExp(`https://raw.githubusercontent.com/alephium/token-list/master/logos/${token.symbol}.png`)
+      )
+      expect(token.unchainedLogoURI).toMatch(
+        new RegExp(`https://raw.githubusercontent.com/alephium/token-list/master/logos/${token.symbol}-unchained.png`)
+      )
+    }
   }
 })
