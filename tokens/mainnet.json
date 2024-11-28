@@ -1550,6 +1550,14 @@
       "decimals": 9,
       "description": "AlphBanX is a decentralized lending platform that allows you to borrow AlphBanX Dollars using ALPH as collateral. Choose your own interest rate and bet on liquidations - earning yield from borrowing fees and from liquidated loans.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ABX.png"
+    },
+    {
+      "id": "fc8768bcc1392010ad85c179ad6034a1cbdbf7241aba703dcc3883949da99800",
+      "name": "Locked Alephium",
+      "symbol": "LALPH",
+      "decimals": 9,
+      "description": "Locked Alephium is a reward token designed to incentivize long-term commitment, fostering ecosystem growth.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/LALPH.png"
     }
   ]
 }
