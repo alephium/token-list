@@ -1543,7 +1543,7 @@
       "description": "Nutty the smoking squirrel is a meme token that was created to bring joy and laughter to the Alephium community.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/NUTTY.png"
     },
-        {
+    {
       "id": "9b3070a93fd5127d8c39561870432fdbc79f598ca8dbf2a3398fc100dfd45f00",
       "name": "AlphBanX",
       "symbol": "ABX",
@@ -1558,6 +1558,14 @@
       "decimals": 9,
       "description": "Locked Alephium is a reward token designed to incentivize long-term commitment, fostering ecosystem growth.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/LALPH.png"
+    },
+    {
+      "id": "77697f6c07ddff6cce4fe829915e147cbea6a3ba46e11bab27f1e74731ccac00",
+      "name": "CrystalBeer ",
+      "symbol": "CBEER",
+      "decimals": 18,
+      "description": "CrystalBeer (CBEER) is an innovative cryptocurrency designed to revolutionize payments in bars and support the launch of a unique beer brand, CrystalBeer. Built on blockchain technology, CBEER offers secure and decentralized transactions, fostering a global community of beer lovers and investors. With a vision to connect tradition and innovation, CrystalBeer aims to create an ecosystem where CBEER can be used to pay for drinks and promote partnerships with breweries worldwide. Join us to invest in the future of beer and blockchain!",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/CBEER.png"
     }
   ]
 }
