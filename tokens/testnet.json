@@ -202,12 +202,12 @@
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/NUTTY.png"
     },
     {
-      "id": "2af4fb26f0ea58f1b10deeb848db16ce5c1ce9e0f86dc202753f1f3f528d5900",
-      "name": "TEST",
-      "symbol": "TEST",
+      "id": "9970013b1e7928c0331bf75c30ebfb89a7898b5442b8bfc1484e06dce755dd00",
+      "name": "TEST1",
+      "symbol": "TEST1",
       "decimals": 18,
       "description": "",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TEST.jpg"
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TEST1.png"
     },
             {
       "id": "83847a67361cd0288e57f4a51dee3a6fafb170f1424e3de83d02676a98d92f00",
@@ -215,7 +215,7 @@
       "symbol": "TEST2",
       "decimals": 18,
       "description": "",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TEST2.jpg"
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TEST2.png"
     }
   ]
 }
