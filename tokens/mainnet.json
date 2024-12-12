@@ -1567,5 +1567,13 @@
       "description": "CrystalBeer (CBEER) is an innovative cryptocurrency designed to revolutionize payments in bars and support the launch of a unique beer brand, CrystalBeer. Built on blockchain technology, CBEER offers secure and decentralized transactions, fostering a global community of beer lovers and investors. With a vision to connect tradition and innovation, CrystalBeer aims to create an ecosystem where CBEER can be used to pay for drinks and promote partnerships with breweries worldwide. Join us to invest in the future of beer and blockchain!",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/CBEER.png"
     }
+    {
+      "id": "7f99758abe1e994e5e3902ad1593eb47ab9e3f794aac5c0b64ac884cd8949300",
+      "name": "ALPHY",
+      "symbol": "APH",
+      "decimals": 18,
+      "description": "Designed for those who embrace their inner alpha, $ALPHY is not just a cryptocurrency—it’s a movement for visionaries who lead the pack.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPHY.png"
+    }
   ]
 }
