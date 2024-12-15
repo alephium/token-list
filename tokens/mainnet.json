@@ -1574,6 +1574,14 @@
       "decimals": 18,
       "description": "Designed for those who embrace their inner alpha, $ALPHY is not just a cryptocurrency—it’s a movement for visionaries who lead the pack.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/APH.png"
+    },
+    {
+      "id": "730cd53131847cff0e96343dca544a5fc2417c06c47393d52d6fabf86c977100",
+      "name": "COPE",
+      "symbol": "COPE",
+      "decimals": 10,
+      "description": "COPE",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/COPE.png"
     }
   ]
 }
