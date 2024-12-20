@@ -1591,5 +1591,13 @@
       "description": "Holder of this token has been certified as an Alephium Social Bull",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ASB.png"
     }
+    {
+      "id": "6344e9dad16df9668ae5da071451ca130ab3c8e717c8aedaabdefa7700bcc400",
+      "name": "MOJI",
+      "symbol": "MOJI",
+      "decimals": 10,
+      "description": "Meme token, no social media account, will add liquidity pool one hour after the token is verified. Just launch on Ayin.app",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/MOJI.png"
+    }
   ]
 }
