@@ -1590,6 +1590,14 @@
       "decimals": 5,
       "description": "Holder of this token has been certified as an Alephium Social Bull",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ASB.png"
+    },
+    {
+      "id": "951fa9bbaf109284bf45339f0708b54f66ab3cd777cb15a7d4f242233dd0b200",
+      "name": "IcePool",
+      "symbol": "ICE",
+      "decimals": 6,
+      "description": "http://IcePool.io, a completely different mining pool, led by the community and sharing the mining pool profits",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ICEPOOL.png"
     }
   ]
 }
