@@ -1590,6 +1590,14 @@
       "decimals": 5,
       "description": "Holder of this token has been certified as an Alephium Social Bull",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ASB.png"
+    },
+    {
+      "id": "c135dd39636aac613f5cecc13a31815d1688155381a05a8970cdb09fa6316a00",
+      "name": "XMAS",
+      "symbol": "XMAS",
+      "decimals": 10,
+      "description": "This Christmas Eve feels even more special because of your presence here. Thank you for accompanying and supporting me in all situations. Jesus bless you https://www.toekn.com/alephiumxmas",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/XMAS.png"
     }
   ]
 }
