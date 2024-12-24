@@ -1598,6 +1598,14 @@
       "decimals": 10,
       "description": "This Christmas Eve feels even more special because of your presence here. Thank you for accompanying and supporting me in all situations. Jesus bless you https://www.toekn.com/alephiumxmas",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/XMAS.png"
+    },
+    {
+      "id": "a54f0bc6161540e2ab081876e261a80d4fa0578891112fabd7f7b7fc71e90c00",
+      "name": "HABIBI",
+      "symbol": "HABIBI",
+      "decimals": 6,
+      "description": "Deploying Capital on Alephium",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/HABIBI.png"
     }
   ]
 }
