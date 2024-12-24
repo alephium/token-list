@@ -202,6 +202,22 @@
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/NUTTY.png"
     },
     {
+      "id": "b1e25fd7e498214a15ad616dbae2456b2060acc645201252ecf0f41526bd5000",
+      "name": "ABD Token",
+      "symbol": "ABD",
+      "decimals": 9,
+      "description": "AlphBanX stablecoin token",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ABD.png"
+    },
+    {
+      "id": "4ded2dee3c9a8aff8d868700b78f6f29e3a66cf2405ea00d8d9eefabf8c97600",
+      "name": "AlphBanX",
+      "symbol": "ABX",
+      "decimals": 9,
+      "description": "AlphBanX is a decentralized lending platform that allows you to borrow AlphBanX Dollars using ALPH as collateral. Choose your own interest rate and bet on liquidations - earning yield from borrowing fees and from liquidated loans.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ABX.png"
+    },
+    {
       "id": "9970013b1e7928c0331bf75c30ebfb89a7898b5442b8bfc1484e06dce755dd00",
       "name": "TEST1",
       "symbol": "TEST1",
