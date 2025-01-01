@@ -1606,6 +1606,14 @@
       "decimals": 6,
       "description": "Deploying Capital on Alephium",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/HABIBI.png"
+    },
+    {
+      "id": "c96426f749d6f0c970c53ddb554c1c7c12521dd2360d903e78baa57baaa3ff00",
+      "name": "Alph Frens",
+      "symbol": "FRENS",
+      "decimals": 6,
+      "description": "Frens is a person with whom one has a strong bond of affection, loyalty, trust, and mutual support. Frens are individuals who share common interests and values, provide emotional support and encouragement, engage in open communication, show empathy and understanding, stand by each other through life's ups and downs.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/FRENS.png"
     }
   ]
 }
