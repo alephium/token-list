@@ -1614,6 +1614,14 @@
       "decimals": 6,
       "description": "Frens is a person with whom one has a strong bond of affection, loyalty, trust, and mutual support. Frens are individuals who share common interests and values, provide emotional support and encouragement, engage in open communication, show empathy and understanding, stand by each other through life's ups and downs.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/FRENS.png"
+    },
+    {
+      "id": "55d8cff57724406735d7fceabc9a850682a248c08591e0eac456a7a0aa59ab00",
+      "name": "Satoshi's Peer",
+      "symbol": "STP",
+      "decimals": 6,
+      "description": "Not just a memecoin, but a memecoin++ Satoshi's Peer (STP) a peer-to-peer crypto designed to democratize and popularize blockchain technology.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/STP.png"
     }
   ]
 }
