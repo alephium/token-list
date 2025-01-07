@@ -1630,6 +1630,14 @@
       "decimals": 2,
       "description": "Token of the mining pool Mining Sucks",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/MST.png"
+    },
+    {
+      "id": "c9666f1847178e97d347eeff8381988bd1ee135fffde6f6b9fc948c00f3c6b00",
+      "name": "AIRDROP",
+      "symbol": "DROP",
+      "decimals": 9,
+      "description": "On Trillion Coins to be airdropped into the Alephium Ecosystem.  ",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DROP.png"
     }
   ]
 }
