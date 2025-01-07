@@ -1617,7 +1617,7 @@
     },
     {
       "id": "63c3212dfe97546d7327ef39f466497bfe5d146cd99bbcda138159949717a600",
-      "name": "CowPool",
+      "name": "cowPool",
       "symbol": "COW",
       "decimals": 2,
       "description": "CowPool.io, a completely different mining pool, led by the community and sharing the mining pool profits.",
