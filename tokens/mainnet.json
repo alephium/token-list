@@ -1622,6 +1622,14 @@
       "decimals": 6,
       "description": "Not just a memecoin, but a memecoin++ Satoshi's Peer (STP) a peer-to-peer crypto designed to democratize and popularize blockchain technology.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/STP.png"
+    },
+    {
+      "id": "fb3925ec10f3c0f4b9b3b833099ba20c9ca624e624ed28b1ffc33d49ee0f6a00",
+      "name": "Mining Sucks Token",
+      "symbol": "MST",
+      "decimals": 2,
+      "description": "Token of the mining pool Mining Sucks",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/MST.png"
     }
   ]
 }
