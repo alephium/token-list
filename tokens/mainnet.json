@@ -1616,15 +1616,7 @@
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/FRENS.png"
     },
     {
-      "id": "55d8cff57724406735d7fceabc9a850682a248c08591e0eac456a7a0aa59ab00",
-      "name": "Satoshi's Peer",
-      "symbol": "STP",
-      "decimals": 6,
-      "description": "Not just a memecoin, but a memecoin++ Satoshi's Peer (STP) a peer-to-peer crypto designed to democratize and popularize blockchain technology.",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/STP.png"
-    },
-    {
-      "id": "951fa9bbaf109284bf45339f0708b54f66ab3cd777cb15a7d4f242233dd0b200",
+      "id": "63c3212dfe97546d7327ef39f466497bfe5d146cd99bbcda138159949717a600",
       "name": "CowPool",
       "symbol": "COW",
       "decimals": 2,
