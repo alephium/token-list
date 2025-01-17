@@ -1654,6 +1654,14 @@
       "decimals": 2,
       "description": "??",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SHOTS.png"
+    },
+    {
+      "id": "34754702900c16d9d0bae95efffbf01ec7d81c32e08c036da5e4b57c6a261200",
+      "name": "cowPool",
+      "symbol": "cowp",
+      "decimals": 4,
+      "description": "CowPool.io, a completely different mining pool, led by the community and sharing the mining pool profits.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/cowp.png"
     }
   ]
 }
