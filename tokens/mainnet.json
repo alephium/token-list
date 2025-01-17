@@ -1640,14 +1640,6 @@
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DROP.png"
     },
     {
-      "id": "63c3212dfe97546d7327ef39f466497bfe5d146cd99bbcda138159949717a600",
-      "name": "cowPool",
-      "symbol": "COW",
-      "decimals": 2,
-      "description": "CowPool.io, a completely different mining pool, led by the community and sharing the mining pool profits.",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/COW.png"
-    },
-    {
       "id": "dfb4f8c828d08c896ba65654a625857410e1b15fed62fb52623a0fff01dc0e00",
       "name": "SHOTS",
       "symbol": "SHOTS",
