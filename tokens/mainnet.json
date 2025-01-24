@@ -1654,6 +1654,14 @@
       "decimals": 4,
       "description": "CowPool.io, a completely different mining pool, led by the community and sharing the mining pool profits.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/cowp.png"
+    },
+    {
+      "id": "bd220ab3a8e5354cb12ca2ef731ba9b1253de3dad64c46d04aa6131592b22b00",
+      "name": "Flouzzz",
+      "symbol": "FLZ",
+      "decimals": 3,
+      "description": "Flouzzz is the money of the magic world of Viraya",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/FLZ.png"
     }
   ]
 }
