@@ -1667,7 +1667,7 @@
       "id": "ce0519ce7ed2a20caff2f4217853fffe09f6483b8f8b488fd597e396fa538b00",
       "name": "CryptoXR",
       "symbol": "CXR",
-      "decimals": 3,
+      "decimals": 5,
       "description": "Proof of Win for CryptoXR workshop 2025",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/CXR.png"
     }
