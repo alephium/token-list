@@ -1670,6 +1670,14 @@
       "decimals": 5,
       "description": "Proof of Win for CryptoXR workshop 2025",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/CXR.png"
+    },
+    {
+      "id": "d68873028130dd002a52840adf1bcc06d26aff36f051ee7ebe3610762e233b00",
+      "name": "GoF**kYourSelf",
+      "symbol": "ZERO",
+      "decimals": 18,
+      "description": "The gulag crew loves me.  We riding this thing to zero!",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ZERO.png"
     }
   ]
 }
