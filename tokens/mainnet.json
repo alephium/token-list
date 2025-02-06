@@ -1678,6 +1678,14 @@
       "decimals": 18,
       "description": "The gulag crew loves me.  We riding this thing to zero!",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ZERO.png"
+    },
+    {
+      "id": "a7af44d2756d69dedf4ea4cf8e6415f1188b80e99f217d0b73e270b9c0408300",
+      "name": "MyOnion.fun",
+      "symbol": "ONION",
+      "decimals": 18,
+      "description": "My onions - where the only thing getting diced is weak hands.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ONION.png"
     }
   ]
 }
