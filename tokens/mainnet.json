@@ -1686,6 +1686,14 @@
       "decimals": 18,
       "description": "My onions - where the only thing getting diced is weak hands.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ONION.png"
+    },
+    {
+      "id": "45d52a601c1b0b6e206e9b379462a8cbcbb33dada43e0c3623f50a14eb3f0e00",
+      "name": "Vordex",
+      "symbol": "VEX",
+      "decimals": 18,
+      "description": "Vordex is the first Perpetual veDEX on Alephium.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/VEX.png"
     }
   ]
 }
