@@ -1702,6 +1702,14 @@
       "decimals": 18,
       "description": "Jean-Moof, a French sheep of refined taste and a coin with no purpose.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/JMF.png"
+    },
+    {
+      "id": "887e8e8379f84381f312aa8df5c176559c91c0d9a4f13752d259cf2798a59600",
+      "name": "ALPHICK",
+      "symbol": "ALPHICK",
+      "decimals": 18,
+      "description": "Life is a tough struggle. But despite everything, we must continue on our way. We must not lose our SMILE. Alphick on #Alephium 🐣ℵ",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPHICK.png"
     }
   ]
 }
