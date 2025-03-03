@@ -1710,6 +1710,14 @@
       "decimals": 18,
       "description": "Life is a tough struggle. But despite everything, we must continue on our way. We must not lose our SMILE. Alphick on #Alephium 🐣ℵ",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPHICK.png"
-    }
+    },
+    {
+      "id": "67fa26dd77b770d983b7051553e240c97a31736dcb9793cb25c0e47e6725b900",
+      "name": "KannALPH",
+      "symbol": "KALPH",
+      "decimals": 18,
+      "description": "A smol dragon girl spreading the Alephium hat to every degen! :3 uwu >.< ! :P", 
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/KALPH.png"
+    } 
   ]
 }
