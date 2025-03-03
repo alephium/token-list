@@ -1694,6 +1694,14 @@
       "decimals": 18,
       "description": "Vordex is the first Perpetual veDEX on Alephium.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/VEX.png"
+    },
+    {
+      "id": "853331d0abbeb504d6f62076cbc9f8b46be016fa87345672d876b938f867cd00",
+      "name": "Jean-Moof",
+      "symbol": "JMF",
+      "decimals": 18,
+      "description": "Jean-Moof, a French sheep of refined taste and a coin with no purpose.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/JMF.png"
     }
   ]
 }
