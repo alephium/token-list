@@ -1710,6 +1710,14 @@
       "decimals": 18,
       "description": "Life is a tough struggle. But despite everything, we must continue on our way. We must not lose our SMILE. Alphick on #Alephium 🐣ℵ",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPHICK.png"
+    },
+    {
+      "id": "88d3fc25af1bb08513dc24108173b8fe269d0754402f416ae3eb293513ee3600",
+      "name": "Alpha",
+      "symbol": "ALPHA",
+      "decimals": 18,
+      "description": "Alpha - the top wolf of meme coins. Unleash your inner pack leader with this howlingly meme-coin. Built for the bold, the brave, and the blockchain-savvy.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPHA.png"
     }
   ]
 }
