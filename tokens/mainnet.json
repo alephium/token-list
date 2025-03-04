@@ -1720,14 +1720,20 @@
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPHA.png"
     },
     {
-
       "id": "67fa26dd77b770d983b7051553e240c97a31736dcb9793cb25c0e47e6725b900",
       "name": "KannALPH",
       "symbol": "KALPH",
       "decimals": 18,
-      "description": "A smol dragon girl spreading the Alephium hat to every degen! :3 uwu >.< ! :P", 
+      "description": "A smol dragon girl spreading the Alephium hat to every degen! :3 uwu >.< ! :P",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/KALPH.png"
-    }     
-
+    },
+    {
+      "id": "0ac2ce9f9ae2150a096fcb136fb0b2abe4dd4906305220a1964b072a0593db00",
+      "name": "Baby Onion",
+      "symbol": "BONI",
+      "decimals": 18,
+      "description": "This is where the Baby Onion belongs. Protect it. Help it grow. 🧅👶🏻",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BONI.png"
+    }
   ]
 }
