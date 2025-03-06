@@ -1742,6 +1742,14 @@
       "decimals": 18,
       "description": "The bold younger brother of Loukaï and the second meme token on MyOnion.fun, Maïlo is a fearless guardian of Alephium, inspired by Maud Bannwart’s German Shepherd.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/MAILO.png"
+    },
+    {
+      "id": "9f7b77834f5dce8e9445173709e0eb5b21be709485784f1ec6f9df99a018c000",
+      "name": "Tony Casanova",
+      "symbol": "TONY",
+      "decimals": 18,
+      "description": "TONY is a community-driven meme token listed on myonion.fun, designed for fun, engagement, and potential rewards. Built on a decentralized bonding curve model, TONY offers a unique trading experience with limited supply and growing demand.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TONY.png"
     }
   ]
 }
