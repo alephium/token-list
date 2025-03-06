@@ -1734,6 +1734,14 @@
       "decimals": 18,
       "description": "This is where the Baby Onion belongs. Protect it. Help it grow. 🧅👶🏻",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BONI.png"
+    },
+    {
+      "id": "92c552aae63eff60c067cf3b593bf5899219873f51423ba42fb48b712b496400",
+      "name": "Maïlo",
+      "symbol": "MAILO",
+      "decimals": 18,
+      "description": "The bold younger brother of Loukaï and the second meme token on MyOnion.fun, Maïlo is a fearless guardian of Alephium, inspired by Maud Bannwart’s German Shepherd.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/MAILO.png"
     }
   ]
 }
