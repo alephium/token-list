@@ -1758,6 +1758,14 @@
       "decimals": 18,
       "description": "PUMP Marketing Group",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/PUMP.png"
+    },
+    {
+      "id": "cda5e5bf4cc0965454f8622cc8fed690922f6109e2df1fb228f8dda670a61c00",
+      "name": "phantom.alph",
+      "symbol": "PHANTOM",
+      "decimals": 18,
+      "description": "PHANTOM - phantom.alph is one of the meme graduated from myonion.fun",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/PHANTOM.png"
     }
   ]
 }
