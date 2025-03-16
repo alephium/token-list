@@ -1774,6 +1774,14 @@
       "decimals": 18,
       "description": "🐋",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WHALES.png"
-    }
+    },
+    {
+      "id": "3c65c6db24d229f467510d20cf736a3209069624824ebaf617b4672ad1162900",
+      "name": "phoebe.alph",
+      "symbol": "PHOEBE",
+      "decimals": 18,
+      "description": "PHOEBE - phoebe.alph is phoebe of the Alephium Blockchain. A meme graduated from myonion.fun",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/PHOEBE.png"
+    } 
   ]
 }
