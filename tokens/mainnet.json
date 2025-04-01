@@ -1782,6 +1782,14 @@
       "decimals": 18,
       "description": "PHOEBE - phoebe.alph is phoebe of the Alephium Blockchain. A meme graduated from myonion.fun",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/PHOEBE.png"
-    } 
+    },
+    {
+      "id": "e39a8e4d9de05a556571d0547d3b79e0b7179df63a9c5336210bef89aafdf300",
+      "name": "crispy things",
+      "symbol": "CRISPY",
+      "decimals": 18,
+      "description": "like crispy things",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/CRISPY.png"
+    }
   ]
 }
