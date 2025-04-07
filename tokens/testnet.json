@@ -243,11 +243,11 @@
     },
     {
       "id": "c33e1d7072d2f90cc3ecb63d8d9fb72094b1d39052f42ca5ed0d22c7579d3400",
-      "name": "FakeUSDC",
-      "symbol": "FUSDC",
+      "name": "FakeUSD",
+      "symbol": "FUSD",
       "decimals": 18,
-      "description": "Not real USDC, only for testing",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/FUSDC.png"
+      "description": "Not real USD, only for testing",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/FUSD.png"
     }
   ]
 }
