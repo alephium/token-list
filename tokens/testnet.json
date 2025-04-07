@@ -247,7 +247,7 @@
       "symbol": "FUSDC",
       "decimals": 18,
       "description": "Not real USDC, only for testing",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDC.png"
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/FUSDC.png"
     }
   ]
 }
