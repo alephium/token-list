@@ -225,13 +225,29 @@
       "description": "",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TEST1.png"
     },
-            {
+    {
       "id": "83847a67361cd0288e57f4a51dee3a6fafb170f1424e3de83d02676a98d92f00",
       "name": "TEST2",
       "symbol": "TEST2",
       "decimals": 18,
       "description": "",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TEST2.png"
+    },
+    {
+      "id": "8a276f04ef74f0a2524b2bedde1c4b1deb640cf226292539359a90983fe1a100",
+      "name": "Vordex",
+      "symbol": "VEX",
+      "decimals": 18,
+      "description": "",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/VEX.png"
+    },
+    {
+      "id": "3f61717a9fbfd5871b84b96ef4a9b89f334da773fdc6aedcbdeb2d57fe80c500",
+      "name": "FakeUSD",
+      "symbol": "FUSD",
+      "decimals": 18,
+      "description": "Not real USD, only for testing",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/FUSD.png"
     }
   ]
 }
