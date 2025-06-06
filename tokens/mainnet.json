@@ -1790,6 +1790,14 @@
       "decimals": 18,
       "description": "like crispy things",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/CRISPY.png"
+    },
+    {
+      "id": "c7d1dab489ee40ca4e6554efc64a64e73a9f0ddfdec9e544c82c1c6742ccc500",
+      "name": "ABD Token",
+      "symbol": "ABD",
+      "decimals": 9,
+      "description": "AlphBanX stablecoin token",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ABD.png"
     }
   ]
 }
