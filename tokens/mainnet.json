@@ -1793,7 +1793,8 @@
     },
     {
       "id": "c7d1dab489ee40ca4e6554efc64a64e73a9f0ddfdec9e544c82c1c6742ccc500",
-      "name": "ABD Token",
+      "name": "ABD",
+      "nameOnChain": "ABD Token",
       "symbol": "ABD",
       "decimals": 9,
       "description": "AlphBanX stablecoin token",
