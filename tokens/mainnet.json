@@ -1799,6 +1799,14 @@
       "decimals": 9,
       "description": "AlphBanX stablecoin token",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ABD.png"
+    },
+    {
+      "id": "886364fd7d67281d18eab2362678cf67e2ff2a8cc51bc134e33df234466fd800",
+      "name": "Goldcoin",
+      "symbol": "XAUC",
+      "decimals": 8,
+      "description": "Goldcoin (XAUC) is a secure and stable store of value token available only on the Alephium network.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/XAUC.png"
     }
   ]
 }
