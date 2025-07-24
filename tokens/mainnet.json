@@ -1815,6 +1815,14 @@
       "decimals": 8,
       "description": "Silvercoin (XAGC) is a secure and stable store of value token available only on the Alephium network.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/XAGC.png"
+    },
+    {
+      "id": "4e0515f9d7daabd7cdae603e355a9ea015b5288380ef2206a10a531bc858d600",
+      "name": "Aura",
+      "symbol": "AURA",
+      "decimals": 18,
+      "description": "AURA is the utility and governance token powering Aura’s decentralized prediction markets - unlocking market creation, fee rewards, and community-driven decision-making.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/AURA.png"
     }
   ]
 }
