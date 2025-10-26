@@ -1830,7 +1830,7 @@
       "symbol": "MAGA",
       "decimals": 18,
       "description": "MAGA — Make Alph Great Again! 54 million total supply",
-      "logoURI": "https://raw.githubusercontent.com/sircharlesfrost/token-list/sircharlesfrost-patch-1/logos/MAGA.png"
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/MAGA.png"
     }
   ]
 }
