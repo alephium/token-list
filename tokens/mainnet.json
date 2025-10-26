@@ -1823,6 +1823,14 @@
       "decimals": 18,
       "description": "AURA is the utility and governance token powering Aura’s decentralized prediction markets - unlocking market creation, fee rewards, and community-driven decision-making.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/AURA.png"
+    },
+    {
+      "id": "954643f7461fcb9fd18f7ea8bc442e5021fbf77ddfca62816cb68a0d3610d000",
+      "name": "MAGA",
+      "symbol": "MAGA",
+      "decimals": 18,
+      "description": "MAGA — Make Alph Great Again! 54 million total supply",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/MAGA.png"
     }
   ]
 }
