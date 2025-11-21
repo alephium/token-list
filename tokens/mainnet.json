@@ -1831,6 +1831,14 @@
       "decimals": 18,
       "description": "MAGA — Make Alph Great Again! 54 million total supply",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/MAGA.png"
-    }
+    },
+    {
+      "id": "4e8d61ee1f1ffe4882feb3d590df0a695bb3d65f1dc01a61846aa39022208600",
+      "name": "MaudCoin",
+      "symbol": "MAUD",
+      "decimals": 18,
+      "description": "A bit of everything Alephium",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/MAUD.png"
+    },
   ]
 }
