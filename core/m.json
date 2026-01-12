@@ -1,0 +1,5 @@
+{
+  "name": "CLMM Position",
+  "description": "Represents a position in a CLMM pool of the Alephium Core dApp",
+  "image": "https://raw.githubusercontent.com/alephium/token-list/master/core/clmm-nft.webp"
+}
