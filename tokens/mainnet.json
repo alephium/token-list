@@ -1839,6 +1839,15 @@
       "decimals": 18,
       "description": "A bit of everything Alephium",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/MAUD.png"
+    },
+    {
+      "id": "c883cbc1560517b8ddc25fa857c27db39402f3aece0cd1a7a0923485ddc7f403",
+      "name": "Wrapped Smartiecoin",
+      "symbol": "wSMT",
+      "decimals": 8,
+      "description": "Wrapped Smartiecoin (wSMT) is the bridged representation of native SMT on Alephium, backed 1:1 via the Smartiecoin Bridge.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/wSMT.png"
     }
-  ]
-}
+  ] 
+}  
+
