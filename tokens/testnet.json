@@ -262,7 +262,9 @@
       "name": "Ball",
       "symbol": "Baller",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/Baller.png"
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/Baller.png",
+      "nameOnChain": "Baller",
+      "symbolOnChain": "Ball"
     }
   ]
 }
