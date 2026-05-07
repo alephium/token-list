@@ -258,12 +258,12 @@
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/FUSD.png"
     },
     {
-      "id": "813a85083d25613b1a46e9eee9261f1bfa8758eec74191962b52bede6b713600",
-      "name": "Baller",
-      "symbol": "Ball",
+      "id": "4ca3698c54d88558d5e954c19557fd2214d2d410595943cab2a9471967417800",
+      "name": "Down",
+      "symbol": "Down",
       "decimals": 18,
-      "description": "a baller token",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/Ball.png"
+      "description": "a token for those down days",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/Down.png"
     }
   ]
 }
