@@ -241,7 +241,7 @@
       "description": "",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/VEX.png"
     },
-  {
+    {
       "id": "20f79f2eaa0f250f5377e8ed1b630a183051d88db8955b42bfe3bf130c659800",
       "name": "DOH",
       "symbol": "DOH",
@@ -249,7 +249,6 @@
       "description": "Decentralized Open Hub - Test",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DOH.png"
     },
-    
     {
       "id": "3f61717a9fbfd5871b84b96ef4a9b89f334da773fdc6aedcbdeb2d57fe80c500",
       "name": "FakeUSD",
@@ -257,6 +256,14 @@
       "decimals": 18,
       "description": "Not real USD, only for testing",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/FUSD.png"
+    },
+    {
+      "id": "4ca3698c54d88558d5e954c19557fd2214d2d410595943cab2a9471967417800",
+      "name": "Down",
+      "symbol": "Down",
+      "decimals": 18,
+      "description": "a token for those down days",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/Down.png"
     }
   ]
 }
