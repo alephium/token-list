@@ -924,7 +924,7 @@
       "name": "DOH",
       "symbol": "DOH",
       "decimals": 18,
-      "description": "Roads are just a suggestion Marge, just like pants.",
+      "description": "DOH.money is the Decentralized Open Hub — the ultimate professional trading and analytics platform engineered for serious crypto traders, DeFi investors, and pioneers shaping the decentralized world.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DOH.png"
     },
     {
@@ -1848,6 +1848,5 @@
       "description": "Wrapped Smartiecoin (wSMT) is the bridged representation of native SMT on Alephium, backed 1:1 via the Smartiecoin Bridge.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/wSMT.png"
     }
-  ] 
-}  
-
+  ]
+}
