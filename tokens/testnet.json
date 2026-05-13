@@ -258,12 +258,12 @@
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/FUSD.png"
     },
     {
-      "id": "4ca3698c54d88558d5e954c19557fd2214d2d410595943cab2a9471967417800",
-      "name": "Down",
-      "symbol": "Down",
+      "id": "9d178703253abfedc639d0b728d88de4b62c932d7c3d439c36aa79765e47c000",
+      "name": "Tonelook",
+      "symbol": "TLK",
       "decimals": 18,
-      "description": "a token for those down days",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/Down.png"
+      "description": "The official Tonelook music community governance token (test)",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TLK.png"
     }
   ]
 }
