@@ -312,6 +312,22 @@
       "decimals": 18,
       "description": "Meta (test)",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/META.png"
+    },
+    {
+      "id": "b9c4bc6525f51e5da6fac8d513fc5531c10f8056865093dcea8ed87a7b30e900",
+      "name": "Amazon",
+      "symbol": "AMZN",
+      "decimals": 18,
+      "description": "Amazon (test)",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/AMZN.png"
+    },
+    {
+      "id": "298b599b01c50fadf85e37e4f83910397f4c96a1aa7c6a66f956db9de0ead200",
+      "name": "Microsoft",
+      "symbol": "MSFT",
+      "decimals": 18,
+      "description": "Microsoft (test)",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/MSFT.png"
     }
   ]
 }
