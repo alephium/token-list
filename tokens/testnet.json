@@ -272,6 +272,46 @@
       "decimals": 18,
       "description": "The official Tonelook music community governance token (test)",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TLK.png"
+    },
+    {
+      "id": "256b1fb72ea4a0ad63a945c0d0affed176b4ea22666f12a88f3f21994b8a7500",
+      "name": "Anthropic",
+      "symbol": "ANTHRP",
+      "decimals": 18,
+      "description": "Anthropic (test)",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ANTHRP.png"
+    },
+    {
+      "id": "3660ffc24f4cd6b2a75a1684208d595100140b68ed7b6b9d714cabab8a4a7200",
+      "name": "Google",
+      "symbol": "GOOG",
+      "decimals": 18,
+      "description": "Google (test)",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/GOOG.jpg"
+    },
+    {
+      "id": "985c4c4ccae7aedc92c7efa31e0bdd8689ee2d79408325d60b2306b659def000",
+      "name": "Nivdia",
+      "symbol": "NVDA",
+      "decimals": 18,
+      "description": "Nivdia (test)",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/NVDA.jpg"
+    },
+    {
+      "id": "d8e1656a53c999dab4314596edd7b93f69ecbb94b7f9eff030a8fb4054275d00",
+      "name": "Apple",
+      "symbol": "APPL",
+      "decimals": 18,
+      "description": "Apple (test)",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/APPL.jpg"
+    },
+    {
+      "id": "8ea6db2a1bd9d8ddfab1611c802e89f5de97c2ac0cbb7e3ea8db23f636089400",
+      "name": "Meta",
+      "symbol": "META",
+      "decimals": 18,
+      "description": "Meta (test)",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/META.png"
     }
   ]
 }
