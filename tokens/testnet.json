@@ -296,6 +296,21 @@
       "decimals": 18,
       "description": "Meta (test)",
       "logoURI": "https://framerusercontent.com/images/233VSmAsi5mRqo1hd77OZcJQh2c.webp"
+    },
+      "id": "7af50e564c07ca54962fac9eefd3aae33c58f174cd02a117881facb007280600",
+      "name": "Tesla",
+      "symbol": "TSLA",
+      "decimals": 18,
+      "description": "Tesla (test)",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TSLA.png"
+    },
+    {
+      "id": "9d178703253abfedc639d0b728d88de4b62c932d7c3d439c36aa79765e47c000",
+      "name": "Tonelook",
+      "symbol": "TLK",
+      "decimals": 18,
+      "description": "The official Tonelook music community governance token (test)",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TLK.png"
     }
   ]
 }
