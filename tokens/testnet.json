@@ -328,6 +328,14 @@
       "decimals": 18,
       "description": "Microsoft (test)",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/MSFT.png"
+    },
+    {
+      "id": "3be451def3338eb0a5244f42ccdac9ccd2b4cea241b077d5c68467fe88898000",
+      "name": "ALPH",
+      "symbol": "ALPH",
+      "decimals": 18,
+      "description": "ALPH (doh.money dex)",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPH.png"
     }
   ]
 }
