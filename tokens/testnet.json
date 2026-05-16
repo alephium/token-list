@@ -344,6 +344,14 @@
       "decimals": 18,
       "description": "Bitcoin (test)",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BTC.png"
+    },
+    {
+      "id": "6f5fec1e65f1f4f94b86c9223d88aa546c075ecf2dfedaba6bba64c6ae993f00",
+      "name": "Alephium",
+      "symbol": "ALPH",
+      "decimals": 18,
+      "description": "ALPH (doh.money dex)",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPH.png"
     }
   ]
 }
