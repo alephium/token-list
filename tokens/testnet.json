@@ -328,6 +328,22 @@
       "decimals": 18,
       "description": "Microsoft (test)",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/MSFT.png"
+    },
+    {
+      "id": "c885bfcb242a54ed3a1dc047a06584d330a10b3618902e8c061b1012ab83a700",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 18,
+      "description": "USDT (test)",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDT.png"
+    },
+    {
+      "id": "a5e16d8f599384f627d3f5fab0da30f3d3cc4c39881512f703b30d0d3f4d9400",
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "decimals": 18,
+      "description": "Bitcoin (test)",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BTC.png"
     }
   ]
 }
