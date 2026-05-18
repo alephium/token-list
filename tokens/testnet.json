@@ -344,6 +344,14 @@
       "decimals": 18,
       "description": "Bitcoin (test)",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BTC.png"
+    },
+    {
+      "id": "f1cec8a6b165ef976219b0ca2e0c1ef15b31864a08e57ca4bf1ceaff7c23d600",
+      "name": "Cexy",
+      "symbol": "CEXY",
+      "decimals": 18,
+      "description": "cexy.ai (test)",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/CEXY.png"
     }
   ]
 }
