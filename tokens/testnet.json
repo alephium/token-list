@@ -352,6 +352,13 @@
       "decimals": 18,
       "description": "cexy.ai (test)",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/CEXY.png"
+    },
+    {
+      "id": "bb36233e411b32539210d59e526c7f925881a5b7d3f8dc42386e32ab281e3800",
+      "name": "dUSD Stable",
+      "symbol": "dUSD",
+      "decimals": 18,
+      "description": "DOH-backed USD stablecoin on Alephium testnet"
     }
   ]
 }
