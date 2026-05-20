@@ -358,7 +358,8 @@
       "name": "dUSD Stable",
       "symbol": "dUSD",
       "decimals": 18,
-      "description": "DOH-backed USD stablecoin on Alephium testnet"
+      "description": "DOH-backed USD stablecoin on Alephium testnet",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/dUSD.png"
     }
   ]
 }
