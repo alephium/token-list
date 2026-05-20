@@ -352,6 +352,14 @@
       "decimals": 18,
       "description": "cexy.ai (test)",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/CEXY.png"
+    },
+    {
+      "id": "87c2bb2b142bdd92edef4ad1585bb4c401aff5fd98ba350a802b45148f6f0200",
+      "name": "dUSD Stable",
+      "symbol": "dUSD",
+      "decimals": 18,
+      "description": "Decentralized USD-pegged stablecoin backed by DOH token collateral on the DOH Money protocol. \nhttps://DOH.money | Decentralized Open Hub",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/dUSD.png"
     }
   ]
 }
