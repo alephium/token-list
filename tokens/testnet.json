@@ -360,6 +360,14 @@
       "decimals": 18,
       "description": "DOH-backed USD stablecoin on Alephium testnet",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/dUSD.png"
+    },
+    {
+      "id": "f92ff6c312ef8511d9261b53a35d9c2ce1abf86fd33efc5d38755fc05fc4a600",
+      "name": "Lockdown",
+      "symbol": "LOCK",
+      "decimals": 18,
+      "description": "Lockdown (test)",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/LOCK.png"
     }
   ]
 }
