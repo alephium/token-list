@@ -376,6 +376,22 @@
       "decimals": 18,
       "description": "raw rocks .. its the meaning behind the rock",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/RAW.png"
+    },
+    {
+      "id": "36b73bcf11f1cef4bba34319741ebe79fbe8e1c590ac1bf2804f73647d575800",
+      "name": "Air",
+      "symbol": "Air",
+      "decimals": 18,
+      "description": "The Legend. The GOAT.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/Air.png"
+    },
+    {
+      "id": "def10176d86a74a5064501a5e9519cb1788035a0c655ef86bc939a106cf33700",
+      "name": "MetaMoo",
+      "symbol": "Moo",
+      "decimals": 18,
+      "description": "Moo Moo",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/Moo.png"
     }
   ]
 }
