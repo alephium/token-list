@@ -368,6 +368,14 @@
       "decimals": 18,
       "description": "Lockdown (test)",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/LOCK.png"
+    },
+    {
+      "id": "163a053db86305a3090c4c8002591e7b1a8b90a6096800e3eb79d1cca6ac9f00",
+      "name": "RAW Rocks",
+      "symbol": "RAW",
+      "decimals": 18,
+      "description": "raw rocks .. its the meaning behind the rock",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/RAW.png"
     }
   ]
 }
