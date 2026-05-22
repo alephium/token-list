@@ -384,6 +384,14 @@
       "decimals": 18,
       "description": "Moo Moo",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/Moo.png"
+    },
+    {
+      "id": "4a3910469413fb9cd6b2e7230a3b86741ccb6b60a3b7922c54f8a06c5cbe3600",
+      "name": "Rare",
+      "symbol": "RARE",
+      "decimals": 18,
+      "description": "Rare 1/1",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/RARE.png"
     }
   ]
 }
