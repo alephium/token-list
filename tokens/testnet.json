@@ -368,6 +368,14 @@
       "decimals": 18,
       "description": "Lockdown (test)",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/LOCK.png"
+    },
+    {
+      "id": "def10176d86a74a5064501a5e9519cb1788035a0c655ef86bc939a106cf33700",
+      "name": "MetaMoo",
+      "symbol": "Moo",
+      "decimals": 18,
+      "description": "Moo Moo",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/Moo.png"
     }
   ]
 }
