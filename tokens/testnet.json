@@ -368,6 +368,21 @@
       "decimals": 18,
       "description": "Lockdown (test)",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/LOCK.png"
+    },
+    {
+      "id": "ca1ec17e9c156a0ae7ef3de8aea0f9ef20bbecf6aadb03ea31eb5790d923e100",
+      "name": "",
+      "symbol": "",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/.png"
+    },
+    {
+      "id": "17f96909962dc3e4f4f34a238ec5a90ec2ab7d6b222bf6e6d57ae52cfde45c00",
+      "name": "Air",
+      "symbol": "Air",
+      "decimals": 18,
+      "description": "The Legend. The GOAT.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/Air.png"
     }
   ]
 }
