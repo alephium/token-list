@@ -384,6 +384,14 @@
       "decimals": 18,
       "description": "Moo Moo",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/Moo.png"
+    },
+    {
+      "id": "1410cb4e06493b9517230cfe6074635d18bf31d3cfb8124af826809add223400",
+      "name": "Boo",
+      "symbol": "BOO",
+      "decimals": 18,
+      "description": "BooMe social network",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BOO.png"
     }
   ]
 }
