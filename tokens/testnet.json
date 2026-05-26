@@ -392,6 +392,14 @@
       "decimals": 18,
       "description": "BooMe social network",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BOO.png"
+    },
+    {
+      "id": "ce54c917c0d9702c489286cf8de1f30114924605263fd9199240af4263c07400",
+      "name": "SAT",
+      "symbol": "SAT",
+      "decimals": 18,
+      "description": "SATS",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SAT.png"
     }
   ]
 }
