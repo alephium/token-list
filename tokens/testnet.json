@@ -400,6 +400,14 @@
       "decimals": 18,
       "description": "SATS",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SAT.png"
+    },
+    {
+      "id": "8fc745955cd5ff3250ff869cb5f865e0e6c1f33abfdfe2b328417fb83d383800",
+      "name": "Moo",
+      "symbol": "MOO",
+      "decimals": 18,
+      "description": "Moo Mooo",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/MOO.png"
     }
   ]
 }
