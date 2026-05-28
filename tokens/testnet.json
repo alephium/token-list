@@ -400,6 +400,14 @@
       "decimals": 18,
       "description": "SATS",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SAT.png"
+    },
+    {
+      "id": "5e5f3abb63e01f2088e0c55a74b37e06b68b488e56d39ca322a51bbc5e717400",
+      "name": "Pokemon",
+      "symbol": "POKE",
+      "decimals": 18,
+      "description": "Trading Card Financial Dashboard - Live pricing for Pokemon, Magic the Gathering and Sports cards.  Quickly see what cards are valuable, collection portfolio management, pop reports, submission tracking, much more!",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/POKE.png"
     }
   ]
 }
