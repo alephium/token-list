@@ -1847,6 +1847,14 @@
       "decimals": 8,
       "description": "Wrapped Smartiecoin (wSMT) is the bridged representation of native SMT on Alephium, backed 1:1 via the Smartiecoin Bridge.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/wSMT.png"
+    },
+    {
+      "id": "deb34ae392cd9dd8262b19deb2da3adb9a15015052d8b024a0506fd917d50700",
+      "name": "Wrapped Ratatoskr",
+      "symbol": "wRATR",
+      "decimals": 8,
+      "description": "Wrapped Ratatoskr (wRATR) is the bridged representation of native RATR on Alephium, backed 1:1 via the RatatoskrBridge.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/wRATR.png"
     }
   ]
 }
