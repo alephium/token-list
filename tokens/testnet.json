@@ -406,7 +406,7 @@
       "name": "DROP Stage1 Test Token",
       "symbol": "tDROP",
       "decimals": 9,
-      "description": "Official test token for the DROP ecosystem (Stage 1/2 testnet). Replaced by real $DROP on mainnet.",
+      "description": "Official test token for the DROP ecosystem (Stage 1/2 testnet).",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DROP.png"
     }
   ]
