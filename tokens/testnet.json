@@ -400,6 +400,14 @@
       "decimals": 18,
       "description": "SATS",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SAT.png"
+    },
+    {
+      "id": "b0d6420d75695fffd38a7621e7467c4a043f25ff773592836593dcd776abc400",
+      "name": "DROP Stage1 Test Token",
+      "symbol": "tDROP",
+      "decimals": 9,
+      "description": "Official test token for the DROP ecosystem (Stage 1/2 testnet). Replaced by real $DROP on mainnet.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DROP.png"
     }
   ]
 }
