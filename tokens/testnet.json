@@ -408,6 +408,14 @@
       "decimals": 9,
       "description": "Official test token for the DROP ecosystem (Stage 1/2 testnet).",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/tDROP.png"
+    },
+    {
+      "id": "17e7dbe681deabbca32489e598b4e2a81cd2e58f6a963d014d0190d3860ede00",
+      "name": "WHO ARE YOU",
+      "symbol": "WHO",
+      "decimals": 18,
+      "description": "Who are You",
+      "logoURI": ""
     }
   ]
 }
