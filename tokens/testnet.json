@@ -416,6 +416,14 @@
       "decimals": 18,
       "description": "You?",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/YOU.png"
+    },
+    {
+      "id": "85a52a0cf8ac22f93e16415c6b64a2fc63955fbdd6496c63ea9a4333b6ebc500",
+      "name": "PERP",
+      "symbol": "PERP",
+      "decimals": 18,
+      "description": "33,333",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/PERP.png"
     }
   ]
 }
