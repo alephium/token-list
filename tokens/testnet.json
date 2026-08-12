@@ -416,6 +416,14 @@
       "decimals": 18,
       "description": "You?",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/YOU.png"
+    },
+    {
+      "id": "a71a34c603b52acbcce439ca5706a35f3e572695a4473e40222d93fa7f5e5b00",
+      "name": "tet",
+      "symbol": "test",
+      "decimals": 18,
+      "description": "test",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/test.png"
     }
   ]
 }
