@@ -9,413 +9,413 @@
       "description": "Alephium is a scalable, decentralized, and secure blockchain platform that enables the creation of fast and secure applications.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPH.png"
     },
-    {
-      "id": "bed35ce97166170f91a8cdb35948b8696aa67dbd573ee0c5cc572bb8c44ddb01",
-      "name": "Test BTC",
-      "symbol": "TBTC",
-      "decimals": 8,
-      "description": "Testing BTC on Alephium",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TBTC.png"
-    },
-    {
-      "id": "4d765e05a5f08c39ab441c10fea45310cbd7b8c7bc7b4cd4e93d4531fdf2b601",
-      "name": "Test ETH",
-      "symbol": "TETH",
-      "decimals": 18,
-      "description": "Testing ETH on Alephium",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TETH.png"
-    },
-    {
-      "id": "e70d225282dc48e76740a6533d4ff76c93a26b4ae9a81e2ef584bb781a815300",
-      "name": "Wrapped Ether (AlphBridge)",
-      "symbol": "WETH",
-      "decimals": 18,
-      "description": "ETH Bridged to Alephium from Wormhole",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WETH.png"
-    },
-    {
-      "id": "8f8cc15f28a76f2a2a0400a49691a645b2ba2287fa415c9612417a0403fb6500",
-      "name": "Wrapped BNB (AlphBridge)",
-      "symbol": "WBNB",
-      "decimals": 18,
-      "description": "BNB Bridged to Alephium from Alephium Bridge",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WBNB.png"
-    },
-    {
-      "id": "92982a9d35b38ff1d0b43dec536631b523cdccde0cf2fc1d5c349790c59d2701",
-      "name": "Test DAI",
-      "symbol": "TDAI",
-      "decimals": 18,
-      "description": "Testing DAI on Alephium",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TDAI.png"
-    },
-    {
-      "id": "416800f4e2a7326ef2c129d38e4db35de11cec2d4aff98972558ca2c6f976e01",
-      "name": "Test USDT",
-      "symbol": "TUSDT",
-      "decimals": 6,
-      "description": "Testing USDT on Alephium",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TUSDT.png"
-    },
-    {
-      "id": "ecc6dd103bbb3cfad3ada8d6a22d73a599a9d39a43b81a734bc9784acc261b01",
-      "name": "Test USDC",
-      "symbol": "TUSDC",
-      "decimals": 6,
-      "description": "Testing USDC on Alephium",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TUSDC.png"
-    },
-    {
-      "id": "f393e2366ee780141240e840aa32f26eade79559864d103b453f0d595425af00",
-      "name": "Fetatoken",
-      "symbol": "FETA",
-      "decimals": 18,
-      "description": "DJ Fetamin fanclub token",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/FETA.png"
-    },
-    {
-      "id": "99d91e5ab1b054da64c9933c126297c5067d7e2c8b08be8095d1aeab9f0c9201",
-      "name": "Squirrel",
-      "symbol": "SQRL",
-      "decimals": 4,
-      "description": "Your passive-aggressive backyard squirrel",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SQRL.png"
-    },
-    {
-      "id": "649fcbc20e2dbbc42b55c8415b372c6bea96e7d0984698d045a1fd11f6f11f00",
-      "name": "GAG",
-      "symbol": "GAG",
-      "decimals": 6,
-      "description": "Gee Arc Gee",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/GAG.png"
-    },
-    {
-      "id": "1441e27ae0fa5217ad8c75fc20e6311247c159b12949d79e461e98bd02ca8e00",
-      "name": "XDF",
-      "symbol": "XDF",
-      "decimals": 6,
-      "description": "Token Description",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/XDF.png"
-    },
-    {
-      "id": "43c18bb5049377028a2f3b1cd0ab980c25cf45603ab8ac7451a6c3e25c301700",
-      "name": "GGD",
-      "symbol": "GGD",
-      "decimals": 6,
-      "description": "Token Description",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/GGD.png"
-    },
-    {
-      "id": "03f2a63cef2530ecbc637da7f6dbf99fee493772c64ef19179349a6db4f67e00",
-      "name": "FOX",
-      "symbol": "FOX",
-      "decimals": 6,
-      "description": "Token Description",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/FOX.png"
-    },
-    {
-      "id": "54e825faa9e6d9d393b1c4fddd6d2a330b76e9ea630738a409cf07ccf7af3300",
-      "name": "KOBE",
-      "symbol": "KOBE",
-      "decimals": 6,
-      "description": "Token Description",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/KOBE.png"
-    },
-    {
-      "id": "7140fef3f630aef6effc6aa03d879cb549718636cfb83718097da887a72dae00",
-      "name": "ANS",
-      "symbol": "ANS",
-      "decimals": 18,
-      "description": "The token of the Alephium Name Service.",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ANS.png"
-    },
-    {
-      "id": "ecdcbfe20a2c998f261d81d8c4bbb685d486aca383b0a10a05d5375d95389500",
-      "name": "123",
-      "symbol": "123",
-      "decimals": 6,
-      "description": "Token Description",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/123.png"
-    },
-    {
-      "id": "8e6877d8dee708506625a77d73f62210dce24564cfa9ec93c0df02f2ba519b00",
-      "name": "SWAPA",
-      "symbol": "SWAPA",
-      "decimals": 18,
-      "description": "SWAPA on testnet. The first veDEX on Alephium",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SWAPA.png"
-    },
-    {
-      "id": "2e15aa445eb2ed419cd786b8640955272d6f86b7ff5405d08f279623c3a83900",
-      "name": "xSWAPA",
-      "symbol": "xSWAPA",
-      "decimals": 18,
-      "description": "xSWAPA on testnet. xSWAPA is converted SWAPA, serving enabling you to vote and earn fees",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/xSWAPA.png"
-    },
-    {
-      "id": "c7da969f8a4000ca5d8a589d8df5424a30cb7dbc66a9bb196fc0191ed7423b00",
-      "name": "Vereenigde Oostindische Compagnie",
-      "symbol": "VOC",
-      "decimals": 30,
-      "description": "spices for all",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/VOC.png"
-    },
-    {
-      "id": "da757dd1da7016d3376c5176beeeb4a5561b44da3d292d99abdf4b38946f6c00",
-      "name": "silver",
-      "symbol": "SILVER",
-      "decimals": 30,
-      "description": "Silver, almost as good as $GOLD",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SILVER.png"
-    },
-    {
-      "id": "40af97e88f2c79311ebce21b8e0d575fed6d555713fdec05dfbf5d863d6d1e00",
-      "name": "Gold Castle Club",
-      "symbol": "GOLD",
-      "decimals": 0,
-      "description": "$GOLD on testnet",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/GOLD.png"
-    },
-    {
-      "id": "9af4bfbcbbfdef017e9cadfa2110cb5d3b8dafe150ed7852bc7fb32b44fdaf00",
-      "name": "BEER",
-      "symbol": "BEER",
-      "decimals": 6,
-      "description": "Token Description",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BEER.png"
-    },
-    {
-      "id": "d16177300fc9dc1320b45ddcc9e7689273ba7c93b3f521abdadd951077e85800",
-      "name": "AIRSQRL",
-      "symbol": "AIRSQRL",
-      "decimals": 6,
-      "description": "Token Description",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/AIRSQRL.png"
-    },
-    {
-      "id": "0b842b6ecf19f8e4b917097f7ee59382af16edc4fdcc8b0b22c055fc05d13d00",
-      "name": "Nutty the smoking squirrel",
-      "symbol": "NUTTY",
-      "decimals": 18,
-      "description": "Nutty the smoking squirrel is a meme token that was created to bring joy and laughter to the Alephium community.",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/NUTTY.png"
-    },
-    {
-      "id": "047f1a8ca65a17a51d7c5aa559e5d6f0de6344f4dda99a498c25e921ed2e8000",
-      "name": "ABD Token",
-      "symbol": "ABD",
-      "decimals": 9,
-      "description": "AlphBanX stablecoin token",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ABD.png"
-    },
-    {
-      "id": "bf68c9f61736e14496d233afe71243199e46b2ae0fca8f7beb16fc2f6ad56300",
-      "name": "AlphBanX",
-      "symbol": "ABX",
-      "decimals": 9,
-      "description": "AlphBanX is a decentralized lending platform that allows you to borrow AlphBanX Dollars using ALPH as collateral. Choose your own interest rate and bet on liquidations - earning yield from borrowing fees and from liquidated loans.",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ABX.png"
-    },
-    {
-      "id": "9970013b1e7928c0331bf75c30ebfb89a7898b5442b8bfc1484e06dce755dd00",
-      "name": "TEST1",
-      "symbol": "TEST1",
-      "decimals": 18,
-      "description": "",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TEST1.png"
-    },
-    {
-      "id": "83847a67361cd0288e57f4a51dee3a6fafb170f1424e3de83d02676a98d92f00",
-      "name": "TEST2",
-      "symbol": "TEST2",
-      "decimals": 18,
-      "description": "",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TEST2.png"
-    },
-    {
-      "id": "8a276f04ef74f0a2524b2bedde1c4b1deb640cf226292539359a90983fe1a100",
-      "name": "Vordex",
-      "symbol": "VEX",
-      "decimals": 18,
-      "description": "",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/VEX.png"
-    },
-    {
-      "id": "20f79f2eaa0f250f5377e8ed1b630a183051d88db8955b42bfe3bf130c659800",
+        {
+      "id": "d1bfedf61d1528d67ba7b3cd5a9584507c83eb4bb0add7a11cb9d32d68803a00",
       "name": "DOH",
       "symbol": "DOH",
       "decimals": 18,
       "description": "Decentralized Open Hub - Test",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DOH.png"
     },
-    {
-      "id": "3f61717a9fbfd5871b84b96ef4a9b89f334da773fdc6aedcbdeb2d57fe80c500",
-      "name": "FakeUSD",
-      "symbol": "FUSD",
-      "decimals": 18,
-      "description": "Not real USD, only for testing",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/FUSD.png"
-    },
-    {
-      "id": "7af50e564c07ca54962fac9eefd3aae33c58f174cd02a117881facb007280600",
-      "name": "Tesla",
-      "symbol": "TSLA",
-      "decimals": 18,
-      "description": "Tesla (test)",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TSLA.png"
-    },
-    {
-      "id": "9d178703253abfedc639d0b728d88de4b62c932d7c3d439c36aa79765e47c000",
-      "name": "Tonelook",
-      "symbol": "TLK",
-      "decimals": 18,
-      "description": "The official Tonelook music community governance token (test)",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TLK.png"
-    },
-    {
-      "id": "256b1fb72ea4a0ad63a945c0d0affed176b4ea22666f12a88f3f21994b8a7500",
-      "name": "Anthropic",
-      "symbol": "ANTHRP",
-      "decimals": 18,
-      "description": "Anthropic (test)",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ANTHRP.png"
-    },
-    {
-      "id": "3660ffc24f4cd6b2a75a1684208d595100140b68ed7b6b9d714cabab8a4a7200",
-      "name": "Google",
-      "symbol": "GOOG",
-      "decimals": 18,
-      "description": "Google (test)",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/GOOG.png"
-    },
-    {
-      "id": "985c4c4ccae7aedc92c7efa31e0bdd8689ee2d79408325d60b2306b659def000",
-      "name": "Nivdia",
-      "symbol": "NVDA",
-      "decimals": 18,
-      "description": "Nivdia (test)",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/NVDA.png"
-    },
-    {
-      "id": "d8e1656a53c999dab4314596edd7b93f69ecbb94b7f9eff030a8fb4054275d00",
-      "name": "Apple",
-      "symbol": "APPL",
-      "decimals": 18,
-      "description": "Apple (test)",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/APPL.png"
-    },
-    {
-      "id": "8ea6db2a1bd9d8ddfab1611c802e89f5de97c2ac0cbb7e3ea8db23f636089400",
-      "name": "Meta",
-      "symbol": "META",
-      "decimals": 18,
-      "description": "Meta (test)",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/META.png"
-    },
-    {
-      "id": "b9c4bc6525f51e5da6fac8d513fc5531c10f8056865093dcea8ed87a7b30e900",
-      "name": "Amazon",
-      "symbol": "AMZN",
-      "decimals": 18,
-      "description": "Amazon (test)",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/AMZN.png"
-    },
-    {
-      "id": "298b599b01c50fadf85e37e4f83910397f4c96a1aa7c6a66f956db9de0ead200",
-      "name": "Microsoft",
-      "symbol": "MSFT",
-      "decimals": 18,
-      "description": "Microsoft (test)",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/MSFT.png"
-    },
-    {
-      "id": "c885bfcb242a54ed3a1dc047a06584d330a10b3618902e8c061b1012ab83a700",
-      "name": "USDT",
-      "symbol": "USDT",
-      "decimals": 18,
-      "description": "USDT (test)",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDT.png"
-    },
-    {
-      "id": "a5e16d8f599384f627d3f5fab0da30f3d3cc4c39881512f703b30d0d3f4d9400",
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "decimals": 18,
-      "description": "Bitcoin (test)",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BTC.png"
-    },
-    {
-      "id": "f1cec8a6b165ef976219b0ca2e0c1ef15b31864a08e57ca4bf1ceaff7c23d600",
-      "name": "Cexy",
-      "symbol": "CEXY",
-      "decimals": 18,
-      "description": "cexy.ai (test)",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/CEXY.png"
-    },
-    {
-      "id": "fe075bce6a874e26d05f9160e3667175451a7d18fe268e1be9536ca1d8ceb600",
-      "name": "dUSD Stable",
-      "symbol": "dUSD",
-      "decimals": 18,
-      "description": "DOH-backed USD stablecoin on Alephium testnet",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/dUSD.png"
-    },
-    {
-      "id": "f92ff6c312ef8511d9261b53a35d9c2ce1abf86fd33efc5d38755fc05fc4a600",
-      "name": "Lockdown",
-      "symbol": "LOCK",
-      "decimals": 18,
-      "description": "Lockdown (test)",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/LOCK.png"
-    },
-    {
-      "id": "36b73bcf11f1cef4bba34319741ebe79fbe8e1c590ac1bf2804f73647d575800",
-      "name": "Air",
-      "symbol": "Air",
-      "decimals": 18,
-      "description": "The Legend. The GOAT.",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/Air.png"
-    },
-    {
-      "id": "def10176d86a74a5064501a5e9519cb1788035a0c655ef86bc939a106cf33700",
-      "name": "MetaMoo",
-      "symbol": "Moo",
-      "decimals": 18,
-      "description": "Moo Moo",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/Moo.png"
-    },
-    {
-      "id": "1410cb4e06493b9517230cfe6074635d18bf31d3cfb8124af826809add223400",
-      "name": "Boo",
-      "symbol": "BOO",
-      "decimals": 18,
-      "description": "BooMe social network",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BOO.png"
-    },
-    {
-      "id": "ce54c917c0d9702c489286cf8de1f30114924605263fd9199240af4263c07400",
-      "name": "SAT",
-      "symbol": "SAT",
-      "decimals": 18,
-      "description": "SATS",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SAT.png"
-    },
-    {
-      "id": "b0d6420d75695fffd38a7621e7467c4a043f25ff773592836593dcd776abc400",
-      "name": "DROP Stage1 Test Token",
-      "symbol": "tDROP",
-      "decimals": 9,
-      "description": "Official test token for the DROP ecosystem (Stage 1/2 testnet).",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/tDROP.png"
-    },
-    {
-      "id": "5f3bc87e8a702158d0b71c3e032de7369b65568351c2d3d6afe26123c50b7c00",
-      "name": "You",
-      "symbol": "YOU",
-      "decimals": 18,
-      "description": "You?",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/YOU.png"
-    }
+    // {
+    //   "id": "bed35ce97166170f91a8cdb35948b8696aa67dbd573ee0c5cc572bb8c44ddb01",
+    //   "name": "Test BTC",
+    //   "symbol": "TBTC",
+    //   "decimals": 8,
+    //   "description": "Testing BTC on Alephium",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TBTC.png"
+    // },
+    // {
+    //   "id": "4d765e05a5f08c39ab441c10fea45310cbd7b8c7bc7b4cd4e93d4531fdf2b601",
+    //   "name": "Test ETH",
+    //   "symbol": "TETH",
+    //   "decimals": 18,
+    //   "description": "Testing ETH on Alephium",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TETH.png"
+    // },
+    // {
+    //   "id": "e70d225282dc48e76740a6533d4ff76c93a26b4ae9a81e2ef584bb781a815300",
+    //   "name": "Wrapped Ether (AlphBridge)",
+    //   "symbol": "WETH",
+    //   "decimals": 18,
+    //   "description": "ETH Bridged to Alephium from Wormhole",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WETH.png"
+    // },
+    // {
+    //   "id": "8f8cc15f28a76f2a2a0400a49691a645b2ba2287fa415c9612417a0403fb6500",
+    //   "name": "Wrapped BNB (AlphBridge)",
+    //   "symbol": "WBNB",
+    //   "decimals": 18,
+    //   "description": "BNB Bridged to Alephium from Alephium Bridge",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WBNB.png"
+    // },
+    // {
+    //   "id": "92982a9d35b38ff1d0b43dec536631b523cdccde0cf2fc1d5c349790c59d2701",
+    //   "name": "Test DAI",
+    //   "symbol": "TDAI",
+    //   "decimals": 18,
+    //   "description": "Testing DAI on Alephium",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TDAI.png"
+    // },
+    // {
+    //   "id": "416800f4e2a7326ef2c129d38e4db35de11cec2d4aff98972558ca2c6f976e01",
+    //   "name": "Test USDT",
+    //   "symbol": "TUSDT",
+    //   "decimals": 6,
+    //   "description": "Testing USDT on Alephium",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TUSDT.png"
+    // },
+    // {
+    //   "id": "ecc6dd103bbb3cfad3ada8d6a22d73a599a9d39a43b81a734bc9784acc261b01",
+    //   "name": "Test USDC",
+    //   "symbol": "TUSDC",
+    //   "decimals": 6,
+    //   "description": "Testing USDC on Alephium",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TUSDC.png"
+    // },
+    // {
+    //   "id": "f393e2366ee780141240e840aa32f26eade79559864d103b453f0d595425af00",
+    //   "name": "Fetatoken",
+    //   "symbol": "FETA",
+    //   "decimals": 18,
+    //   "description": "DJ Fetamin fanclub token",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/FETA.png"
+    // },
+    // {
+    //   "id": "99d91e5ab1b054da64c9933c126297c5067d7e2c8b08be8095d1aeab9f0c9201",
+    //   "name": "Squirrel",
+    //   "symbol": "SQRL",
+    //   "decimals": 4,
+    //   "description": "Your passive-aggressive backyard squirrel",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SQRL.png"
+    // },
+    // {
+    //   "id": "649fcbc20e2dbbc42b55c8415b372c6bea96e7d0984698d045a1fd11f6f11f00",
+    //   "name": "GAG",
+    //   "symbol": "GAG",
+    //   "decimals": 6,
+    //   "description": "Gee Arc Gee",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/GAG.png"
+    // },
+    // {
+    //   "id": "1441e27ae0fa5217ad8c75fc20e6311247c159b12949d79e461e98bd02ca8e00",
+    //   "name": "XDF",
+    //   "symbol": "XDF",
+    //   "decimals": 6,
+    //   "description": "Token Description",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/XDF.png"
+    // },
+    // {
+    //   "id": "43c18bb5049377028a2f3b1cd0ab980c25cf45603ab8ac7451a6c3e25c301700",
+    //   "name": "GGD",
+    //   "symbol": "GGD",
+    //   "decimals": 6,
+    //   "description": "Token Description",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/GGD.png"
+    // },
+    // {
+    //   "id": "03f2a63cef2530ecbc637da7f6dbf99fee493772c64ef19179349a6db4f67e00",
+    //   "name": "FOX",
+    //   "symbol": "FOX",
+    //   "decimals": 6,
+    //   "description": "Token Description",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/FOX.png"
+    // },
+    // {
+    //   "id": "54e825faa9e6d9d393b1c4fddd6d2a330b76e9ea630738a409cf07ccf7af3300",
+    //   "name": "KOBE",
+    //   "symbol": "KOBE",
+    //   "decimals": 6,
+    //   "description": "Token Description",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/KOBE.png"
+    // },
+    // {
+    //   "id": "7140fef3f630aef6effc6aa03d879cb549718636cfb83718097da887a72dae00",
+    //   "name": "ANS",
+    //   "symbol": "ANS",
+    //   "decimals": 18,
+    //   "description": "The token of the Alephium Name Service.",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ANS.png"
+    // },
+    // {
+    //   "id": "ecdcbfe20a2c998f261d81d8c4bbb685d486aca383b0a10a05d5375d95389500",
+    //   "name": "123",
+    //   "symbol": "123",
+    //   "decimals": 6,
+    //   "description": "Token Description",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/123.png"
+    // },
+    // {
+    //   "id": "8e6877d8dee708506625a77d73f62210dce24564cfa9ec93c0df02f2ba519b00",
+    //   "name": "SWAPA",
+    //   "symbol": "SWAPA",
+    //   "decimals": 18,
+    //   "description": "SWAPA on testnet. The first veDEX on Alephium",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SWAPA.png"
+    // },
+    // {
+    //   "id": "2e15aa445eb2ed419cd786b8640955272d6f86b7ff5405d08f279623c3a83900",
+    //   "name": "xSWAPA",
+    //   "symbol": "xSWAPA",
+    //   "decimals": 18,
+    //   "description": "xSWAPA on testnet. xSWAPA is converted SWAPA, serving enabling you to vote and earn fees",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/xSWAPA.png"
+    // },
+    // {
+    //   "id": "c7da969f8a4000ca5d8a589d8df5424a30cb7dbc66a9bb196fc0191ed7423b00",
+    //   "name": "Vereenigde Oostindische Compagnie",
+    //   "symbol": "VOC",
+    //   "decimals": 30,
+    //   "description": "spices for all",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/VOC.png"
+    // },
+    // {
+    //   "id": "da757dd1da7016d3376c5176beeeb4a5561b44da3d292d99abdf4b38946f6c00",
+    //   "name": "silver",
+    //   "symbol": "SILVER",
+    //   "decimals": 30,
+    //   "description": "Silver, almost as good as $GOLD",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SILVER.png"
+    // },
+    // {
+    //   "id": "40af97e88f2c79311ebce21b8e0d575fed6d555713fdec05dfbf5d863d6d1e00",
+    //   "name": "Gold Castle Club",
+    //   "symbol": "GOLD",
+    //   "decimals": 0,
+    //   "description": "$GOLD on testnet",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/GOLD.png"
+    // },
+    // {
+    //   "id": "9af4bfbcbbfdef017e9cadfa2110cb5d3b8dafe150ed7852bc7fb32b44fdaf00",
+    //   "name": "BEER",
+    //   "symbol": "BEER",
+    //   "decimals": 6,
+    //   "description": "Token Description",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BEER.png"
+    // },
+    // {
+    //   "id": "d16177300fc9dc1320b45ddcc9e7689273ba7c93b3f521abdadd951077e85800",
+    //   "name": "AIRSQRL",
+    //   "symbol": "AIRSQRL",
+    //   "decimals": 6,
+    //   "description": "Token Description",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/AIRSQRL.png"
+    // },
+    // {
+    //   "id": "0b842b6ecf19f8e4b917097f7ee59382af16edc4fdcc8b0b22c055fc05d13d00",
+    //   "name": "Nutty the smoking squirrel",
+    //   "symbol": "NUTTY",
+    //   "decimals": 18,
+    //   "description": "Nutty the smoking squirrel is a meme token that was created to bring joy and laughter to the Alephium community.",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/NUTTY.png"
+    // },
+    // {
+    //   "id": "047f1a8ca65a17a51d7c5aa559e5d6f0de6344f4dda99a498c25e921ed2e8000",
+    //   "name": "ABD Token",
+    //   "symbol": "ABD",
+    //   "decimals": 9,
+    //   "description": "AlphBanX stablecoin token",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ABD.png"
+    // },
+    // {
+    //   "id": "bf68c9f61736e14496d233afe71243199e46b2ae0fca8f7beb16fc2f6ad56300",
+    //   "name": "AlphBanX",
+    //   "symbol": "ABX",
+    //   "decimals": 9,
+    //   "description": "AlphBanX is a decentralized lending platform that allows you to borrow AlphBanX Dollars using ALPH as collateral. Choose your own interest rate and bet on liquidations - earning yield from borrowing fees and from liquidated loans.",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ABX.png"
+    // },
+    // {
+    //   "id": "9970013b1e7928c0331bf75c30ebfb89a7898b5442b8bfc1484e06dce755dd00",
+    //   "name": "TEST1",
+    //   "symbol": "TEST1",
+    //   "decimals": 18,
+    //   "description": "",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TEST1.png"
+    // },
+    // {
+    //   "id": "83847a67361cd0288e57f4a51dee3a6fafb170f1424e3de83d02676a98d92f00",
+    //   "name": "TEST2",
+    //   "symbol": "TEST2",
+    //   "decimals": 18,
+    //   "description": "",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TEST2.png"
+    // },
+    // {
+    //   "id": "8a276f04ef74f0a2524b2bedde1c4b1deb640cf226292539359a90983fe1a100",
+    //   "name": "Vordex",
+    //   "symbol": "VEX",
+    //   "decimals": 18,
+    //   "description": "",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/VEX.png"
+    // },
+    // {
+    //   "id": "3f61717a9fbfd5871b84b96ef4a9b89f334da773fdc6aedcbdeb2d57fe80c500",
+    //   "name": "FakeUSD",
+    //   "symbol": "FUSD",
+    //   "decimals": 18,
+    //   "description": "Not real USD, only for testing",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/FUSD.png"
+    // },
+    // {
+    //   "id": "7af50e564c07ca54962fac9eefd3aae33c58f174cd02a117881facb007280600",
+    //   "name": "Tesla",
+    //   "symbol": "TSLA",
+    //   "decimals": 18,
+    //   "description": "Tesla (test)",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TSLA.png"
+    // },
+    // {
+    //   "id": "9d178703253abfedc639d0b728d88de4b62c932d7c3d439c36aa79765e47c000",
+    //   "name": "Tonelook",
+    //   "symbol": "TLK",
+    //   "decimals": 18,
+    //   "description": "The official Tonelook music community governance token (test)",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/TLK.png"
+    // },
+    // {
+    //   "id": "256b1fb72ea4a0ad63a945c0d0affed176b4ea22666f12a88f3f21994b8a7500",
+    //   "name": "Anthropic",
+    //   "symbol": "ANTHRP",
+    //   "decimals": 18,
+    //   "description": "Anthropic (test)",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ANTHRP.png"
+    // },
+    // {
+    //   "id": "3660ffc24f4cd6b2a75a1684208d595100140b68ed7b6b9d714cabab8a4a7200",
+    //   "name": "Google",
+    //   "symbol": "GOOG",
+    //   "decimals": 18,
+    //   "description": "Google (test)",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/GOOG.png"
+    // },
+    // {
+    //   "id": "985c4c4ccae7aedc92c7efa31e0bdd8689ee2d79408325d60b2306b659def000",
+    //   "name": "Nivdia",
+    //   "symbol": "NVDA",
+    //   "decimals": 18,
+    //   "description": "Nivdia (test)",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/NVDA.png"
+    // },
+    // {
+    //   "id": "d8e1656a53c999dab4314596edd7b93f69ecbb94b7f9eff030a8fb4054275d00",
+    //   "name": "Apple",
+    //   "symbol": "APPL",
+    //   "decimals": 18,
+    //   "description": "Apple (test)",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/APPL.png"
+    // },
+    // {
+    //   "id": "8ea6db2a1bd9d8ddfab1611c802e89f5de97c2ac0cbb7e3ea8db23f636089400",
+    //   "name": "Meta",
+    //   "symbol": "META",
+    //   "decimals": 18,
+    //   "description": "Meta (test)",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/META.png"
+    // },
+    // {
+    //   "id": "b9c4bc6525f51e5da6fac8d513fc5531c10f8056865093dcea8ed87a7b30e900",
+    //   "name": "Amazon",
+    //   "symbol": "AMZN",
+    //   "decimals": 18,
+    //   "description": "Amazon (test)",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/AMZN.png"
+    // },
+    // {
+    //   "id": "298b599b01c50fadf85e37e4f83910397f4c96a1aa7c6a66f956db9de0ead200",
+    //   "name": "Microsoft",
+    //   "symbol": "MSFT",
+    //   "decimals": 18,
+    //   "description": "Microsoft (test)",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/MSFT.png"
+    // },
+    // {
+    //   "id": "c885bfcb242a54ed3a1dc047a06584d330a10b3618902e8c061b1012ab83a700",
+    //   "name": "USDT",
+    //   "symbol": "USDT",
+    //   "decimals": 18,
+    //   "description": "USDT (test)",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/USDT.png"
+    // },
+    // {
+    //   "id": "a5e16d8f599384f627d3f5fab0da30f3d3cc4c39881512f703b30d0d3f4d9400",
+    //   "name": "Bitcoin",
+    //   "symbol": "BTC",
+    //   "decimals": 18,
+    //   "description": "Bitcoin (test)",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BTC.png"
+    // },
+    // {
+    //   "id": "f1cec8a6b165ef976219b0ca2e0c1ef15b31864a08e57ca4bf1ceaff7c23d600",
+    //   "name": "Cexy",
+    //   "symbol": "CEXY",
+    //   "decimals": 18,
+    //   "description": "cexy.ai (test)",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/CEXY.png"
+    // },
+    // {
+    //   "id": "fe075bce6a874e26d05f9160e3667175451a7d18fe268e1be9536ca1d8ceb600",
+    //   "name": "dUSD Stable",
+    //   "symbol": "dUSD",
+    //   "decimals": 18,
+    //   "description": "DOH-backed USD stablecoin on Alephium testnet",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/dUSD.png"
+    // },
+    // {
+    //   "id": "f92ff6c312ef8511d9261b53a35d9c2ce1abf86fd33efc5d38755fc05fc4a600",
+    //   "name": "Lockdown",
+    //   "symbol": "LOCK",
+    //   "decimals": 18,
+    //   "description": "Lockdown (test)",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/LOCK.png"
+    // },
+    // {
+    //   "id": "36b73bcf11f1cef4bba34319741ebe79fbe8e1c590ac1bf2804f73647d575800",
+    //   "name": "Air",
+    //   "symbol": "Air",
+    //   "decimals": 18,
+    //   "description": "The Legend. The GOAT.",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/Air.png"
+    // },
+    // {
+    //   "id": "def10176d86a74a5064501a5e9519cb1788035a0c655ef86bc939a106cf33700",
+    //   "name": "MetaMoo",
+    //   "symbol": "Moo",
+    //   "decimals": 18,
+    //   "description": "Moo Moo",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/Moo.png"
+    // },
+    // {
+    //   "id": "1410cb4e06493b9517230cfe6074635d18bf31d3cfb8124af826809add223400",
+    //   "name": "Boo",
+    //   "symbol": "BOO",
+    //   "decimals": 18,
+    //   "description": "BooMe social network",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BOO.png"
+    // },
+    // {
+    //   "id": "ce54c917c0d9702c489286cf8de1f30114924605263fd9199240af4263c07400",
+    //   "name": "SAT",
+    //   "symbol": "SAT",
+    //   "decimals": 18,
+    //   "description": "SATS",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SAT.png"
+    // },
+    // {
+    //   "id": "b0d6420d75695fffd38a7621e7467c4a043f25ff773592836593dcd776abc400",
+    //   "name": "DROP Stage1 Test Token",
+    //   "symbol": "tDROP",
+    //   "decimals": 9,
+    //   "description": "Official test token for the DROP ecosystem (Stage 1/2 testnet).",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/tDROP.png"
+    // },
+    // {
+    //   "id": "5f3bc87e8a702158d0b71c3e032de7369b65568351c2d3d6afe26123c50b7c00",
+    //   "name": "You",
+    //   "symbol": "YOU",
+    //   "decimals": 18,
+    //   "description": "You?",
+    //   "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/YOU.png"
+    // }
   ]
 }
