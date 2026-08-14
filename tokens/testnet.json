@@ -10,6 +10,16 @@
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPH.png"
     },
     {
+      "id": "d1bfedf61d1528d67ba7b3cd5a9584507c83eb4bb0add7a11cb9d32d68803a00",
+      "name": "DOH",
+      "symbol": "DOH",
+      "decimals": 18,
+      "description": "Decentralized Open Hub - Test",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DOH.png"
+    }
+  ],
+  "disabledTokens": [
+    {
       "id": "bed35ce97166170f91a8cdb35948b8696aa67dbd573ee0c5cc572bb8c44ddb01",
       "name": "Test BTC",
       "symbol": "TBTC",
@@ -240,14 +250,6 @@
       "decimals": 18,
       "description": "",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/VEX.png"
-    },
-    {
-      "id": "20f79f2eaa0f250f5377e8ed1b630a183051d88db8955b42bfe3bf130c659800",
-      "name": "DOH",
-      "symbol": "DOH",
-      "decimals": 18,
-      "description": "Decentralized Open Hub - Test",
-      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/DOH.png"
     },
     {
       "id": "3f61717a9fbfd5871b84b96ef4a9b89f334da773fdc6aedcbdeb2d57fe80c500",
