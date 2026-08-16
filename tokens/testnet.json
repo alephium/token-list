@@ -24,6 +24,14 @@
       "decimals": 18,
       "description": "Test USD",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/tUSD.png"
+    },
+    {
+      "id": "8b0993a9482bb84d04e13d99cea255c99c7e38a82d2c8c5ef950267f9db72900",
+      "name": "BOO",
+      "symbol": "BOO",
+      "decimals": 18,
+      "description": "BOO test token",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BOO.png"
     }
   ],
   "disabledTokens": [
