@@ -24,6 +24,14 @@
       "decimals": 18,
       "description": "Test USD",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/tUSD.png"
+    },
+    {
+      "id": "e951aee03069908711807222b0fe842e15339646167f759d591a49de7116de00",
+      "name": "Test Bitcoin",
+      "symbol": "tBTC",
+      "decimals": 18,
+      "description": "Test Bitcoin",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/tBTC.png"
     }
   ],
   "disabledTokens": [
