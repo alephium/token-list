@@ -32,6 +32,14 @@
       "decimals": 18,
       "description": "BOO test token",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BOO.png"
+    },
+    {
+      "id": "96c03be6e0959f72798d36a9613870ddda648fba01c3cd8cba36a17936bbf300",
+      "name": "DOH USD Stable",
+      "symbol": "dUSD",
+      "decimals": 18,
+      "description": "DOH USD Stable (testnet)",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/dUSD.png"
     }
   ],
   "disabledTokens": [
