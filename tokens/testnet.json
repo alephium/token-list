@@ -24,6 +24,14 @@
       "decimals": 18,
       "description": "BAAL test token for Alephium Underground on Testnet.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/BAAL.png"
+    },
+    {
+      "id": "30467b2c23410d92e8bc1332fe99229a8aeae0995c500279e59e5d0f28b3e100",
+      "name": "dUSD Stable",
+      "symbol": "dUSD",
+      "decimals": 18,
+      "description": "dUSD stable test for doh.money",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/dUSD.png"
     }
   ],
   "disabledTokens": [
