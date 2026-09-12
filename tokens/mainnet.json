@@ -1855,6 +1855,15 @@
       "decimals": 8,
       "description": "Wrapped Ratatoskr (wRATR) is the bridged representation of native RATR on Alephium, backed 1:1 via the RatatoskrBridge.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/wRATR.png"
+    },    
+    {
+      "id": "27weJGKJ5mg9ACBRem5qbnXHKT5dEcpWbHbNEf5YYr1PD",
+      "name": "C137",
+      "symbol": "C137",
+      "decimals": 18,
+      "description": "C137 token on Alephium",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/C137.png"
     }
-  ]
+
+ ]
 }
