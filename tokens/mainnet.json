@@ -1855,6 +1855,16 @@
       "decimals": 8,
       "description": "Wrapped Ratatoskr (wRATR) is the bridged representation of native RATR on Alephium, backed 1:1 via the RatatoskrBridge.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/wRATR.png"
+    },
+    {
+      "id": "6dc961b59aae53c768fe6f608e6bea30f6747041af3fd800c8c6533766e54f00",
+      "name": "xALPH",
+      "nameOnChain": "Staked ALPH",
+      "symbol": "xALPH",
+      "symbolOnChain": "XALPH",
+      "decimals": 18,
+      "description": "Staked ALPH",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/xALPH.png"
     }
   ]
 }
