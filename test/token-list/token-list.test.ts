@@ -145,7 +145,7 @@ describe('TokenList', function () {
     await nodeProvider.fetchFungibleTokenMetaData(token.id).then((metadata) => checkMetadata(metadata, token))
   }
 
-  const tokensWithSymbolVariant = ['ALF', 'ANS', 'USDT', 'USDC']
+  const tokensWithSymbolVariant = ['ALF', 'ANS', 'USDT', 'USDC', 'XALPH']
   const originChains = ['ETH', 'BSC']
 
   function checkMetadata(metadata: FungibleTokenMetaData, token: TokenInfoJson) {
