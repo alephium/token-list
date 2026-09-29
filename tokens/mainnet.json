@@ -1865,6 +1865,14 @@
       "decimals": 18,
       "description": "Staked ALPH",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/xALPH.png"
+    },
+    {
+      "id": "437f187effab6a7336e99d2cf145286cab0677ab14e8b131a8951853684c0700",
+      "name": "zkitbeats",
+      "symbol": "WALDI",
+      "decimals": 6,
+      "description": "Waldi a.k.a zkitbeats is Alephium OG. He is someone who is very important to the Alephium ecosystem",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/WALDI.png"
     }
   ]
 }
