@@ -1865,6 +1865,16 @@
       "decimals": 18,
       "description": "Staked ALPH",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/xALPH.png"
+    },
+    {
+      "id": "136ca5254d36dc1016a55f7966ea98eba2cd54598eadac6cd09a2678d4ec2600",
+      "name": "KARMA",
+      "nameOnChain": "KARMA",
+      "symbol": "KARMA",
+      "symbolOnChain": "KARMA",
+      "decimals": 18,
+      "description": "Karma reward",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/KARMA.png"
     }
   ]
 }
